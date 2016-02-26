@@ -1,0 +1,43 @@
+<!doctype html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="">
+	<title>好點子智慧手機館</title>
+	<link href="{% static 'css/other.css' %}" rel="stylesheet" type="text/css" />
+
+	<script src="{% static 'js/jquery.min.js' %}"></script>
+
+	
+</head>
+<body>
+	<div id="ttbodytop" >
+
+		<div id="ttbodytop_2">內容</div>
+		<div id="ttbodytop_3">日期</div>
+	</div>
+						
+	<div id="contents">
+		{% for i in articlesList %}
+	   <div class="tabbody_tr">
+
+			<div class="tabbody_td2">
+				{% for subsentence in i.subsentenceList %}
+					{% if subsentence.tag == 'true' %}
+						<mark>{{subsentence.subsentence}}</mark>
+					{% else %}
+						<span>{{subsentence.subsentence}}</span>
+					{% endif %}
+				{% endfor %}
+			</div>
+			<div class="tabbody_td3">{{i.date}}</div>
+		</div>
+		<hr class="line">
+		{% endfor %}
+	</div>
+		
+
+	
+</body>
+</html>

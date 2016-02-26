@@ -1,0 +1,524 @@
+body{
+	width:100%;
+	height:100%;
+	/* background:url(../img/bg.jpg) repeat;	 */
+}
+
+#header{
+	z-index:3;
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:230px;
+	/* background-color:#ddd; */
+	float:left;
+	/* opacity: 0.8; */
+	/* border:1px solid black; */
+}
+
+#logo{
+	/* z-index:5; */
+	width:95%;
+	height:400px;
+	position:absolute;
+	top:10px;
+	left:10px;
+	/* border:1px solid green; */
+	background:url(../img/banner.png)	no-repeat  center;
+}
+
+
+#content{
+	z-index:1;
+	position:absolute;
+	top:50%;
+	left:5%;
+	width:1700px;
+	height:400px;
+	margin:10px auto;
+	background-color:#fff;
+}
+
+
+
+/* ↓↓↓	收尋  ↓↓↓  */
+
+#search{
+	z-index:100;
+	position:absolute;
+	width:700px;
+	height:80px;
+	top:370px;
+	left:35%;
+	padding:auto;
+	text-align:center;
+	/* border:1px solid black; */
+}
+
+
+.searput{
+	z-index:100;
+	position:absolute;
+	left:10px;
+    height: 80px;
+    width: 650px;
+    border: 1px solid #a4c3ca;
+    font: normal 40px Arial, helvetica, 微軟正黑體;
+    background: #f1f1f1;
+    border-radius: 50px 3px 3px 50px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgba(255, 255, 255, 1);
+}
+
+.searmit {
+	z-index:100;
+	position:absolute;
+	left:650px;
+	background-color: #6cbb6b;
+    background-image: linear-gradient(rgb(0,104,52), rgb(0,162,154));
+    border-radius: 3px 50px 50px 3px;    
+    border-width: 1px;
+    border-style: solid;
+    border-color: #7eba7c #578e57 #447d43;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.3), 
+                0 1px 0 rgba(255, 255, 255, 0.3) inset;
+    height: 83px;
+    margin: 0 0 0 10px;
+    padding: 0;
+    width: 105px;
+    cursor: pointer;
+    font: bold 1px Arial, helvetica, 微軟正黑體;
+    color: rgb(0,104,52);    
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+	text-decoration:underline;
+}
+
+.searmit:hover {    
+	z-index:100;   
+    background-color: #95d788;
+    background-image: linear-gradient(rgb(0,162,154),rgb(0,104,52));
+	text-decoration:underline;
+}   
+
+.searmit:active {  
+	z-index:100;     
+    background: #95d788;
+    outline: none;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) inset;   
+	text-decoration:underline;	
+}
+
+/* ↑↑↑	收尋  ↑↑↑  */
+
+
+/* ↓↓↓	六圈圈  ↓↓↓  */
+
+.circle{
+	width:210px;
+	height:202px;
+	background-color: rgb(0,104,52);
+	float:left;
+	border-radius:55px;
+	text-align:center;
+	padding-top:8px;
+	margin:100px 30px 30px 30px;
+}
+.circle img{
+	border:rgb(0,162,154) 3px solid;
+	margin-left:-3px;
+	width:210px;
+	border-radius:55px;
+	transition:transform 0.5s;
+}
+.circle img:hover{
+	box-shadow:2px 2px 5px RGBA(0,0,0,0.5);
+	transform:scale(1.5,1.5);
+}
+
+/* ↑↑↑	六圈圈  ↑↑↑  */
+
+
+
+/* ↓↓↓	推薦頁面  ↓↓↓  */
+#push{
+	position:absolute;
+	width:1500px;/* 
+	height:1000px; */
+	top:10px;
+	left:5%;
+	background-color:#fff;
+	/* border:1px solid green; */
+
+}
+
+#push,#single h2{
+	font-size:1.6em;
+	padding:5px;
+	font-family:Arial, helvetica, 微軟正黑體;
+}
+
+
+.wrap{		
+	width:98%;
+	margin:5px auto;
+
+}
+
+h2.head{
+	font-size: 1.8em;
+	text-transform: uppercase;
+	color: rgb(0,104,52);
+	font-family:Arial, helvetica, 微軟正黑體;
+	margin:8px auto;
+	/* border:1px solid green; */
+}
+
+ .top-box{
+	margin-bottom:35%;
+	border:1px solid rgb(0,162,154);
+} 
+
+.top-box img{
+	margin-top:30px;
+}
+
+.span_1_of_3 {
+	width:18%;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+	/* border:1px solid green; */
+}
+
+.actual{
+	font-size: 1.4em;
+	font-family:Arial, helvetica, 微軟正黑體;
+	color:blue;
+	margin:30%;
+}
+
+
+
+.col_1_of_3{
+	display: block;
+	float:left;
+	margin:12px 30px 12px 30px;
+}	
+
+.actual:hover{
+	color:rgb(255,0,0);
+}
+
+p.title{
+	color: #000;
+	width:120%;
+	font-size:1.2em;
+	margin:10px	50px 10px 50px;
+	padding-left:13px;
+	/* border:1px solid green; */
+}
+
+p.title a:hover{
+	color:#7DB122;
+}
+
+
+/* img{max-width:90%;} */
+
+.cart-left{
+	width:80%;
+	float: left;
+	margin:1px;
+	/* border:1px solid green; */
+}
+
+
+
+/* ↑↑↑	推薦頁面  ↑↑↑  */	
+
+/* 返回鍵 */
+.home0{
+	z-index:100;
+	position:absolute;
+	top:1600px;
+	left:680px;
+}
+
+.home{
+	z-index:100;
+	position:absolute;
+	top:1800px;
+	left:40%;
+}
+
+/* ↓↓↓	單機頁面  ↓↓↓  */
+
+#single{
+	position:absolute;
+	width:1500px;
+	height:1250px;
+	top:10px;
+	left:5%;
+	background-color:#fff;
+	/* border:1px solid green; */
+
+}
+
+#longpic{
+	float: right;
+	display: inline-block;
+	position:absolute;
+	top:100px;
+	left:380px;
+	/* border:1px solid green; */
+	width:1100px; 
+	height:400px;
+}
+
+
+
+/* ↓↓↓	單機換頁區 ↓↓↓  */
+
+#page{
+	position:absolute;	
+	width:87%;
+	height:150%;
+	top:550px;
+	left:5%;
+	/* border:1px solid green; */
+}
+
+#gerbage{
+	z-index:50;
+	position:absolute;
+	top:0px;
+	left:0px;	
+	background:#fff;
+	height:15px;
+	width:350px;
+	/* border:1px solid green; */
+}
+
+ul.tabs{
+  width:1000px;
+  position: relative;
+  text-align: left;
+  padding:0px;
+  margin:0px;
+}
+
+ul.tabs li{
+  float: left;
+  display: block;
+}
+
+.tabs label[class^="label"]{
+  display: block;
+  padding:10px 30px 5px 30px;
+  border-radius: 2px 20px 0 0;
+  font-size: 22px;
+  font-weight: normal;
+  cursor: pointer;
+  position: relative;
+  top:0px;
+  box-shadow:1px 1px 2px RGBA(0,0,0,0.5); 
+  font-family:Arial, helvetica, 微軟正黑體;
+}
+.tabs .label1{
+	background:rgb(0,162,154);
+	z-index:9;
+}
+.tabs .label2{
+	background:rgb(200,80,10);
+	z-index:8;
+}
+.tabs .label3{
+	background:#FFF2B5;
+	z-index:7;
+	font-size: 18px;
+}
+
+.tabs .label4{
+	background:rgb(160,200,180);
+	z-index:7;
+}
+
+.tabs label[class^="label"]:hover {
+  background: rgb(16,224,184);
+}
+.tabs .tab-content {
+  z-index:20;
+  display: none;
+  width: 140%;
+  height:540px;
+  padding:10px 15px;
+  position:absolute;
+  top:60px;
+  left: 0;
+  border-top:3px solid #00aec7;
+  border-radius: 2px 20px 0 0;
+}
+
+.tabs [id^="tab"]:checked ~ [id^="tab-content"] {
+  display: block;
+}
+
+/* ↑↑↑	單機換頁區  ↑↑↑  */	
+
+
+/* ↓↓↓	評價區 ↓↓↓  */
+
+
+#other{
+	float:right;
+	border:3px solid rgb(0,162,154);
+	background:transparent;
+	border-radius:30px;
+	transition:transform 0.5s;
+	z-index:1000;
+ 	position:absolute;
+	top:10px;
+	left:530px; 
+	width:880px;
+	height:620px;
+	
+}
+
+#good{
+	position:absolute;
+	top:10px;
+	left:0px;
+	z-index:500;
+	width:500px;
+	height:620px;
+	border:3px solid rgb(0,162,154);
+	background:transparent;
+	border-radius:30px;
+	font-family:Arial, helvetica, 微軟正黑體;
+	
+}
+
+#good:hover{
+	border:5px solid  rgb(0,104,52);
+}
+
+#here{
+	z-index:100;
+	width:480px;
+	float:left;
+	height:610px;
+	background-position:center;
+	opacity:0.2;
+	
+}
+
+#other:hover{
+	border:5px solid  rgb(0,104,52);
+}
+
+/* ↑↑↑	評價區 ↑↑↑ */
+
+
+/* ↓↓↓	規格區 ↓↓↓  */
+
+.onetable{
+	font-size: 1.6em;
+	border-bottom:3px solid green;
+	border-top:3px solid green;
+	font-family:Arial, helvetica, 微軟正黑體;
+	overflow:auto;
+	position:absolute;	
+	width:95%;
+	height:6%;
+	top:30px;
+	left:10px;	
+	text-align:center;
+}
+
+
+/* ↑↑↑	規格區  ↑↑↑  */	
+
+/* ↓↓↓	百分比區 ↓↓↓  */
+#ttprecent{
+	border:1px dashed green;	
+	width:1350px;
+	height:80px;
+	
+
+}
+
+#precent{
+	font-size:24px;
+	width:1350px;	
+}
+
+#precentL{
+	float: left;
+	margin:20px 0px 0px  15px;
+	width:120px;
+	font-size:24px;
+	font-family:Arial, helvetica, 微軟正黑體;
+}
+
+#precentR{
+	margin-left:120px;
+	cursor: pointer;
+	width:1120px;
+}
+
+
+#pcontents{
+	/* border: 1px solid #ccc;
+	box-shadow: 0 0 16px #ccc; */
+	margin:60px 0px 0px 40px;	
+	width:1300px;
+	
+}
+#pcontents > div{
+	display: none;
+	text-align: justify;
+	padding: 10px 15px;
+}
+#pcontents > div:first-of-type{
+	display: block;
+}
+
+
+#precentR li{
+	border-radius: 30px 30px 5px 30px;
+	margin:15px 0px 0px 30px ;
+	font-size:20px; 
+	color: #FFF;
+	padding:8px;
+	background-color: rgb(10,150,140);
+	text-transform: uppercase;
+    text-shadow: 0 .063em #000;
+    box-shadow: 0 .375em .313em -0.313em rgba(0,0,0,.8), 
+			   inset 0 .063em rgba(255,255,255,.4), 
+			   inset 0 -0.188em rgba(0,0,0,.15);
+	
+}
+
+
+#precentR li:hover{
+	background-color: rgb(100,140,140);
+   box-shadow: 0 .125em rgba(255,255,255,.4), 
+			   inset 0 .063em rgba(255,255, 255,.2), 
+			   inset 0 -0.188em rgb(50,140,140);
+}
+
+#precentbox{
+	margin:5px auto;
+	width:1350px;
+	height:550px;
+	border:1px #000 solid;
+}
+
+/* ↑↑↑	百分比區  ↑↑↑  */	
+
+/* ↑↑↑	單機頁面  ↑↑↑  */	
+
+

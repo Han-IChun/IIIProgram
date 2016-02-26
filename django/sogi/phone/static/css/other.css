@@ -1,0 +1,74 @@
+.line{
+	width:820px;
+	border:1px solid #aab;
+	
+}
+
+#ttbodytop{
+	margin:30px auto;
+	/* border-bottom: 1px solid blue; */
+	width:850px;
+}
+
+#ttbodytop[id^="ttbodytop"]{
+	font-size:20px;
+	font-family:"微軟正黑體";	
+	text-align:center;
+}
+
+#ttbodytop_1{
+	float:left;
+	width:40px;
+	border-bottom: 2px solid #aab;
+	display: inline;
+	
+}
+
+#ttbodytop_2{
+	float:left;
+	width:680px;
+	border-bottom: 2px solid #aab;
+}
+
+
+#ttbodytop_3{
+	float:left;
+	width:110px;
+	border-bottom: 2px solid #aab;
+}
+
+/* 內文區 */
+
+.tabbody_tr{
+	width:880px;
+	display: table-row;
+}
+
+.tabbody_tr[class^="tabbody_td"]{
+	font-size:14px;
+	font-family:"微軟正黑體";
+}
+
+.tabbody_td1{
+	display: table-cell;
+	float:left;
+	width:30px;
+	text-align:center;
+}
+
+.tabbody_td2{
+	margin-left:50px;
+	float:left;
+	width:600px;
+	display: table-cell;
+}
+
+
+.tabbody_td3{
+	text-align:center;
+	margin-left:50px;
+	float:left;
+	width:90px;
+	display: table-cell;
+}
+/* 內文區 */

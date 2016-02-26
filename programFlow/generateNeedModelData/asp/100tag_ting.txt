@@ -1,0 +1,121 @@
+
+反應快	positive
+電池續航力很好	positive
+價錢便宜	positive
+性價比甚高	positive
+操作流暢	positive
+造工手感一流	positive
+首次體驗2K螢幕顏色艷麗	positive
+觸屏反應好	positive
+造工十分好	positive
+輕薄機身	positive
+外型美觀	positive
+足夠一天電量	positive
+速度順暢	positive
+價錢合理	positive
+雙卡雙待非常方便	positive
+超美螢幕	positive
+影相對焦快	positive
+用耳機聽歌音質清晰	positive
+bass沉穩有力	positive
+手勢自拍好用又方便	positive
+電力強勁	positive
+接收能力佳	positive
+通話品質佳	positive
+機身顏色鮮艷	positive
+外觀質感非常的讚	positive
+外型設計很好	positive
+GPS超快	positive
+機身輕巧	positive
+平板喇叭裡音質不錯	positive
+速度快	positive
+大容量	positive
+充電快	positive
+通話亦穩定清晰	positive
+影相對焦快	positive
+前鏡頭自拍品質高	positive
+硬件鍵盤非常好用	positive
+立體聲揚聲器音質一流	positive
+通話聲音清淅	positive
+螢幕品質不錯	positive
+無缐充電功能一流	positive
+光學防震真的很強	positive
+32G容量大	positive
+相片品質好	positive
+可擴充SD卡	positive
+揚聲器夠大聲	positive
+開機真快	positive
+電池效能高	positive	
+待機時間長	positive
+喇叭夠大聱	positive
+音質很好	positive
+耗電快	negative
+發燙量高	negative
+Siri廢	negative
+電量不太好	negative
+螢幕太小	negative
+市價太貴	negative
+機背略欠單調	negative
+ios8.1也不是很穩定	negative
+這次3種顏色我也覺得很醜…	negative
+最大的缺點是系統這然怎麼封閉	negative
+3DTOUCH是一個完全沒用的功能	negative
+沒閃光燈	negative
+反應慢	negative
+機身手感不夠輕薄	negative
+TouchScreen反應不是很好	negative
+不夠內置記憶體...	negative
+沒得插卡....	negative
+內存不夠多	negative
+電量完全不夠一日用	negative
+配件少	negative
+影相差	negative
+不能換電池	negative
+手機好重	negative
+對焦不夠快	negative
+性價比太低	negative
+相機界面簡單	negative
+鈴聲非常小聲	negative
+螢幕色彩偏淡	negative
+電池容量小	negative
+充電比較慢	negative
+底蓋易壞	negative
+介面不好用	negative
+機身滑手	negative
+鈴聲不算大	negative
+相機頗遜色	negative
+收音機接收差	negative
+螢幕非高清	negative
+耳機音質一般	negative
+運行時機身過熱	negative
+螢幕有點暗	negative
+鏡頭不夠漂亮	negative
+鈴聲好小聲	negative
+遊戲性能比較弱	negative
+Home鍵有時遲鈍	negative
+APPS不多	negative
+OS做得真是好差	negative
+用中文介面會多問題出現	negative
+不支援MACBOOK	negative
+CPU慢了點	negative
+相機快門太大聲	negative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

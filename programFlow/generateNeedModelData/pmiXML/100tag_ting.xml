@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sentences>
+	<sentence polarity="positive">
+		<text>反應快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="螢幕觸控" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池續航力很好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>價錢便宜</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="價位" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>性價比甚高</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>操作流暢</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>造工手感一流</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>首次體驗2K螢幕顏色艷麗</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>觸屏反應好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="螢幕觸控" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>造工十分好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>輕薄機身</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>外型美觀</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>足夠一天電量</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>速度順暢</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>價錢合理</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="價位" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>操作經驗非常方便</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>超美螢幕</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>影相對焦快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="對焦" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>用耳機聽歌音質清晰</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>bass沉穩有力</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手勢自拍好用又方便</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="自拍" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電力強勁</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>接收能力佳</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>通話品質佳</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機身顏色鮮艷</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>外觀質感非常的讚</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>外型設計很好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>GPS超快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機身輕巧</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>平板喇叭裡音質不錯</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>速度快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>大容量</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>充電快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>通話亦穩定清晰</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>影相對焦快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="對焦" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>前鏡頭自拍品質高</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="自拍" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>硬件鍵盤非常好用</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>立體聲揚聲器音質一流</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>通話聲音清淅</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕品質不錯</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>無缐充電功能一流</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>光學防震真的很強</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="防手震" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>32G容量大</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>相片品質好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>可擴充SD卡</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>揚聲器夠大聲</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>開機真快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池效能高</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>待機時間長</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>喇叭夠大聱</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>音質很好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>耗電快</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>發燙量高</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>Siri廢</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電量不太好</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>螢幕太小</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕尺寸" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>市價太貴</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="價位" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>機背略欠單調</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>ios8.1也不是很穩定</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>這次3種顏色我也覺得很醜…</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>最大的缺點是系統這然怎麼封閉</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>3DTOUCH是一個完全沒用的功能</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>沒閃光燈</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>反應慢</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>機身手感不夠輕薄</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>TouchScreen反應不是很好</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕觸控" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>不夠內置記憶體...</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>沒得插卡....</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>內存不夠多</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電量完全不夠一日用</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>配件少</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>影相差</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>不能換電池</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="換電池" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>手機好重</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>對焦不夠快</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="對焦" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>性價比太低</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機界面簡單</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>鈴聲非常小聲</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>螢幕色彩偏淡</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電池容量小</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>充電比較慢</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>底蓋易壞</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>介面不好用</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>機身滑手</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>鈴聲不算大</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機頗遜色</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>收音機接收差</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>螢幕非高清</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>耳機音質一般</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>運行時機身過熱</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="機身發熱" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>螢幕有點暗</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕畫質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>鏡頭不夠漂亮</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>鈴聲好小聲</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>遊戲性能比較弱</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>Home鍵有時遲鈍</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>APPS不多</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>OS做得真是好差</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>用中文介面會多問題出現</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>不支援MACBOOK</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>CPU慢了點</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機快門太大聲</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+</sentences>

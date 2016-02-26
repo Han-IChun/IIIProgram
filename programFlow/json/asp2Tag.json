@@ -1,0 +1,73 @@
+{
+	"防手震": {
+		"positive": "有防手震"
+	},
+	"自拍": {
+		"positive": "自拍神器"
+	},
+	"拍照攝影": {
+		"positive": "拍照攝影效果好"
+	},
+	"對焦": {
+		"positive": "對焦快",
+		"negative": "對焦慢"
+	},
+	"設計質感": {
+		"positive": "有質感",
+		"negative": "質感不好"
+	},
+	"體積重量": {
+		"positive": "輕薄",
+		"negative": "手機厚重"
+	},
+	"音量": {
+		"positive": "音量夠大",
+		"negative": "音量太小"
+	},
+	"音質": {
+		"positive": "音質好",
+		"negative": "音質差"
+	},
+	"操作經驗": {
+		"positive": "好用",
+		"negative": "難用"
+	},
+	"換電池": {
+		"positive": "可以換電池"
+	},
+	"續航力": {
+		"positive": "續航力不錯",
+		"negative": "續航力差"
+	},
+	"機身發熱": {
+		"negative": "有發熱問題"
+	},
+	"螢幕尺寸": {
+		"positive": "螢幕大",
+		"negative": "可單手操作"
+	},
+	"螢幕觸控": {
+		"positive": "觸控靈敏",
+		"negative": "觸控不良"
+	},
+	"螢幕畫質": {
+		"positive": "畫質高",
+		"negative": "畫質差"
+	},
+	"記憶體擴充": {
+		"positive": "可插記憶卡"
+	},
+	"雙卡雙待": {
+		"positive": "支援雙卡雙待"
+	},
+	"性價比": {
+		"positive": "CP值高"
+	},
+	"價位": {
+		"positive": "價格便宜",
+		"negative": "價格貴"
+	},
+	"軟體問題": {
+		"negative": "軟體有問題"
+	}
+}

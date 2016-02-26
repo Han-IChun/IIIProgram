@@ -1,0 +1,492 @@
+呈現	v	F	呈	現	Len<=2
+很	zg	F	很	很	Len<=2
+燙	v	F	燙	燙	Len<=2
+狀態	n	F	狀	態	Len<=2
+
+使用	n	T	使	用	Len<=2
+上	f	F	上	上	Len<=2
+頓	adj	F	頓	頓	Len<=2
+頓	adj	F	頓	頓	Len<=2
+的	uj	F	的	的	Len<=2
+
+雙擊	b	F	雙	擊	Len<=2
+喚醒	v	F	喚	醒	Len<=2
+失效	a	F	失	效	Len<=2
+
+外殼	n	T	外	殼	Len<=2
+會	zg	F	會	會	Len<=2
+裂	v	F	裂	裂	Len<=2
+
+直接	ad	F	直	接	Len<=2
+死機	n	F	死	機	Len<=2
+
+備料	n	F	備	料	Len<=2
+不足	adj	F	不	足	Len<=2
+
+黑白	z	F	黑	白	Len<=2
+兩	zg	F	兩	兩	Len<=2
+色	ng	F	色	色	Len<=2
+最	d	F	最	最	Len<=2
+耐看	a	F	耐	看	Len<=2
+
+卡	adj	F	卡	卡	Len<=2
+了	ul	F	了	了	Len<=2
+一堆	m	F	一	堆	Len<=2
+污垢	n	F	污	垢	Len<=2
+
+淺色系	n	F	淺	系	Len>2
+比較	d	F	比	較	Len<=2
+好看	v	F	好	看	Len<=2
+
+背蓋	n	T	背	蓋	Len<=2
+密合	v	F	密	合	Len<=2
+度	zg	F	度	度	Len<=2
+不佳	adj	F	不	佳	Len<=2
+
+皮	n	F	皮	皮	Len<=2
+的	uj	F	的	的	Len<=2
+無線充電	NA	F	無	電	Len>2
+背蓋	n	T	背	蓋	Len<=2
+，	NA	F	，	，	Len<=2
+還	d	F	還	還	Len<=2
+不錯	adj	F	不	錯	Len<=2
+
+v10	NA	F	v	0	Len>2
+耗電	n	T	耗	電	Len<=2
+較	zg	F	較	較	Len<=2
+凶	zg	F	凶	凶	Len<=2
+
+整體來說	NA	F	整	說	Len>2
+算	v	F	算	算	Len<=2
+滿意	adj	F	滿	意	Len<=2
+
+常常	d	F	常	常	Len<=2
+雙卡	n	T	雙	卡	Len<=2
+都	d	F	都	都	Len<=2
+在	p	F	在	在	Len<=2
+繞圈圈	n	F	繞	圈	Len>2
+
+上網	v	F	上	網	Len<=2
+時會	n	F	時	會	Len<=2
+斷	v	F	斷	斷	Len<=2
+訊	ng	F	訊	訊	Len<=2
+
+Lg	NA	F	L	g	Len<=2
+接收	v	F	接	收	Len<=2
+訊號	n	F	訊	號	Len<=2
+弱	adj	F	弱	弱	Len<=2
+
+講電話	NA	F	講	話	Len>2
+時	n	F	時	時	Len<=2
+燙燙	v	F	燙	燙	Len<=2
+的	uj	F	的	的	Len<=2
+
+背殼	n	T	背	殼	Len<=2
+質感	n	T	質	感	Len<=2
+很	zg	F	很	很	Len<=2
+好	adj	F	好	好	Len<=2
+
+續航力	n	T	續	力	Len>2
+頗	d	F	頗	頗	Len<=2
+悲劇	n	F	悲	劇	Len<=2
+
+非常	d	F	非	常	Len<=2
+省電	adj	F	省	電	Len<=2
+！	NA	F	！	！	Len<=2
+
+耗電	n	T	耗	電	Len<=2
+依然	d	F	依	然	Len<=2
+是	v	F	是	是	Len<=2
+用	p	F	用	用	Len<=2
+噴	v	F	噴	噴	Len<=2
+的	uj	F	的	的	Len<=2
+
+鏡頭	n	T	鏡	頭	Len<=2
+的	uj	F	的	的	Len<=2
+鏡片	n	F	鏡	片	Len<=2
+品質	n	F	品	質	Len<=2
+不好	adj	F	不	好	Len<=2
+
+黑色	n	F	黑	色	Len<=2
+的	uj	F	的	的	Len<=2
+蠻	d	F	蠻	蠻	Len<=2
+有	v	F	有	有	Len<=2
+質感	n	T	質	感	Len<=2
+的	uj	F	的	的	Len<=2
+
+成像	n	T	成	像	Len<=2
+整個	b	F	整	個	Len<=2
+糊糊	a	F	糊	糊	Len<=2
+
+按鍵	n	T	按	鍵	Len<=2
+鬆鬆	a	F	鬆	鬆	Len<=2
+的	uj	F	的	的	Len<=2
+
+通話	n	T	通	話	Len<=2
+清晰	adj	F	清	晰	Len<=2
+
+對	p	F	對	對	Len<=2
+不到	v	F	不	到	Len<=2
+焦	a	F	焦	焦	Len<=2
+
+輸入法	n	F	輸	法	Len>2
+真的	d	F	真	的	Len<=2
+超	v	F	超	超	Len<=2
+爛	adj	F	爛	爛	Len<=2
+
+溫度	n	T	溫	度	Len<=2
+很	zg	F	很	很	Len<=2
+容易	adj	F	容	易	Len<=2
+升高	v	F	升	高	Len<=2
+
+自拍	n	T	自	拍	Len<=2
+前鏡頭	n	T	前	頭	Len>2
+很	zg	F	很	很	Len<=2
+優	n	F	優	優	Len<=2
+
+高	adj	F	高	高	Len<=2
+畫素	n	T	畫	素	Len<=2
+又	d	F	又	又	Len<=2
+大光圈	NA	F	大	圈	Len>2
+
+主	b	F	主	主	Len<=2
+鏡頭	n	T	鏡	頭	Len<=2
+也	d	F	也	也	Len<=2
+不	d	F	不	不	Len<=2
+弱	adj	F	弱	弱	Len<=2
+
+儲存	n	F	儲	存	Len<=2
+空間	n	F	空	間	Len<=2
+悲劇	n	F	悲	劇	Len<=2
+
+稍微	d	F	稍	微	Len<=2
+光線	n	F	光	線	Len<=2
+不足	adj	F	不	足	Len<=2
+就	d	F	就	就	Len<=2
+馬上	d	F	馬	上	Len<=2
+油畫感	NA	F	油	感	Len>2
+
+看中	v	F	看	中	Len<=2
+防手震	n	T	防	震	Len>2
+
+質感	n	T	質	感	Len<=2
+好	adj	F	好	好	Len<=2
+棒	adj	F	棒	棒	Len<=2
+啊	zg	F	啊	啊	Len<=2
+
+UI	NA	F	U	I	Len<=2
+友善	adj	F	友	善	Len<=2
+
+夜拍	n	T	夜	拍	Len<=2
+跟	p	F	跟	跟	Len<=2
+本	r	F	本	本	Len<=2
+悲劇	n	F	悲	劇	Len<=2
+
+照相	n	T	照	相	Len<=2
+不能	adj	F	不	能	Len<=2
+靜音	n	F	靜	音	Len<=2
+
+組裝	v	F	組	裝	Len<=2
+質感	n	T	質	感	Len<=2
+可圈可點	l	F	可	點	Len>2
+
+包覆	v	F	包	覆	Len<=2
+性	n	F	性	性	Len<=2
+很	zg	F	很	很	Len<=2
+好	adj	F	好	好	Len<=2
+
+記憶體	n	T	記	體	Len>2
+夠大	NA	F	夠	大	Len<=2
+
+機背	n	T	機	背	Len<=2
+霧面	NA	F	霧	面	Len<=2
+削光	v	F	削	光	Len<=2
+整個	b	F	整	個	Len<=2
+質感	n	T	質	感	Len<=2
+很棒	a	F	很	棒	Len<=2
+!	NA	F	!	!	Len<=2
+
+防	v	F	防	防	Len<=2
+指紋	n	F	指	紋	Len<=2
+且	zg	F	且	且	Len<=2
+耐髒	n	F	耐	髒	Len<=2
+
+握	v	F	握	握	Len<=2
+感	v	F	感	感	Len<=2
+真的	d	F	真	的	Len<=2
+是	v	F	是	是	Len<=2
+不錯	adj	F	不	錯	Len<=2
+
+造型	n	T	造	型	Len<=2
+是	v	F	是	是	Len<=2
+我	r	F	我	我	Len<=2
+愛	v	F	愛	愛	Len<=2
+的	uj	F	的	的	Len<=2
+!	NA	F	!	!	Len<=2
+
+大光圈	NA	F	大	圈	Len>2
+真的	d	F	真	的	Len<=2
+很	zg	F	很	很	Len<=2
+好用	adj	F	好	用	Len<=2
+
+速度慢	n	F	速	慢	Len>2
+的	uj	F	的	的	Len<=2
+真	d	F	真	真	Len<=2
+誇張	v	F	誇	張	Len<=2
+
+手機	n	F	手	機	Len<=2
+反應	n	T	反	應	Len<=2
+順暢	adj	F	順	暢	Len<=2
+
+順暢度	n	T	順	度	Len>2
+感覺	n	F	感	覺	Len<=2
+跟	p	F	跟	跟	Len<=2
+以往	t	F	以	往	Len<=2
+一樣	r	F	一	樣	Len<=2
+順暢	adj	F	順	暢	Len<=2
+~	NA	F	~	~	Len<=2
+
+手機	n	F	手	機	Len<=2
+超	v	F	超	超	Len<=2
+燙	v	F	燙	燙	Len<=2
+~	NA	F	~	~	Len<=2
+~	NA	F	~	~	Len<=2
+
+省電	adj	F	省	電	Len<=2
+提升	v	F	提	升	Len<=2
+許多	m	F	許	多	Len<=2
+
+一秒	m	F	一	秒	Len<=2
+內	zg	F	內	內	Len<=2
+就	d	F	就	就	Len<=2
+可以	c	F	可	以	Len<=2
+解鎖	v	F	解	鎖	Len<=2
+。	NA	F	。	。	Len<=2
+
+拍照	n	T	拍	照	Len<=2
+錄影功能	n	T	錄	能	Len>2
+完整	a	F	完	整	Len<=2
+
+明顯	adj	F	明	顯	Len<=2
+發現	v	F	發	現	Len<=2
+漏光	n	T	漏	光	Len<=2
+
+像	v	F	像	像	Len<=2
+機	n	F	機	機	Len<=2
+功能	n	F	功	能	Len<=2
+太	d	F	太	太	Len<=2
+過	zg	F	過	過	Len<=2
+陽春	adj	F	陽	春	Len<=2
+
+隨心所欲	i	F	隨	欲	Len>2
+買	v	F	買	買	Len<=2
+電池蓋	n	T	電	蓋	Len>2
+直接	ad	F	直	接	Len<=2
+換	nz	F	換	換	Len<=2
+
+耗電量	n	T	耗	量	Len>2
+嚇人	v	F	嚇	人	Len<=2
+
+續航	n	T	續	航	Len<=2
+不算	v	F	不	算	Len<=2
+優	n	F	優	優	Len<=2
+
+太	d	F	太	太	Len<=2
+過	zg	F	過	過	Len<=2
+豔麗	a	F	豔	麗	Len<=2
+
+顏色	n	T	顏	色	Len<=2
+很	zg	F	很	很	Len<=2
+不	d	F	不	不	Len<=2
+飽滿	v	F	飽	滿	Len<=2
+
+異常	d	F	異	常	Len<=2
+耗電	n	T	耗	電	Len<=2
+
+耗電	n	T	耗	電	Len<=2
+控制	v	F	控	制	Len<=2
+的	uj	F	的	的	Len<=2
+相當不錯	NA	F	相	錯	Len>2
+
+溫度	n	T	溫	度	Len<=2
+都	d	F	都	都	Len<=2
+很	zg	F	很	很	Len<=2
+容易	adj	F	容	易	Len<=2
+上升	v	F	上	升	Len<=2
+
+需要	v	F	需	要	Len<=2
+每天	r	F	每	天	Len<=2
+充電	n	T	充	電	Len<=2
+
+充電	n	T	充	電	Len<=2
+超級	b	F	超	級	Len<=2
+慢	adj	F	慢	慢	Len<=2
+
+髮絲紋	n	T	髮	紋	Len>2
+，	NA	F	，	，	Len<=2
+質感	n	T	質	感	Len<=2
+真的	d	F	真	的	Len<=2
+很棒	a	F	很	棒	Len<=2
+
+單手	n	T	單	手	Len<=2
+就	d	F	就	就	Len<=2
+能	v	F	能	能	Len<=2
+指紋辨識	NA	F	指	識	Len>2
+解鎖	v	F	解	鎖	Len<=2
+
+喇叭	n	T	喇	叭	Len<=2
+很	zg	F	很	很	Len<=2
+小聲	n	F	小	聲	Len<=2
+
+使用	n	T	使	用	Len<=2
+相當	d	F	相	當	Len<=2
+輕鬆	adj	F	輕	鬆	Len<=2
+
+指紋	n	F	指	紋	Len<=2
+很	zg	F	很	很	Len<=2
+廢	v	F	廢	廢	Len<=2
+
+超	v	F	超	超	Len<=2
+有	v	F	有	有	Len<=2
+科技	n	F	科	技	Len<=2
+感	v	F	感	感	Len<=2
+
+真的	d	F	真	的	Len<=2
+很	zg	F	很	很	Len<=2
+容易	adj	F	容	易	Len<=2
+糊掉	NA	F	糊	掉	Len<=2
+
+做工	v	F	做	工	Len<=2
+細緻	adj	F	細	緻	Len<=2
+
+手感	n	T	手	感	Len<=2
+很	zg	F	很	很	Len<=2
+舒適	a	F	舒	適	Len<=2
+
+手紋	n	F	手	紋	Len<=2
+不易	a	F	不	易	Len<=2
+留	v	F	留	留	Len<=2
+
+金屬質感	n	T	金	感	Len>2
+讓	v	F	讓	讓	Len<=2
+整體	n	T	整	體	Len<=2
+加分	adj	F	加	分	Len<=2
+
+開	zg	F	開	開	Len<=2
+螢幕	n	T	螢	幕	Len<=2
+就	d	F	就	就	Len<=2
+噴	v	F	噴	噴	Len<=2
+電	n	F	電	電	Len<=2
+
+待機	n	T	待	機	Len<=2
+很	zg	F	很	很	Len<=2
+省電	adj	F	省	電	Len<=2
+
+反應速度	n	F	反	度	Len>2
+很快	d	F	很	快	Len<=2
+
+螢幕	n	T	螢	幕	Len<=2
+灰灰	n	F	灰	灰	Len<=2
+的	uj	F	的	的	Len<=2
+
+這	r	F	這	這	Len<=2
+價位	n	T	價	位	Len<=2
+cp值	n	T	c	值	Len>2
+爆	v	F	爆	爆	Len<=2
+表	v	F	表	表	Len<=2
+啊	zg	F	啊	啊	Len<=2
+～	NA	F	～	～	Len<=2
+～	NA	F	～	～	Len<=2
+
+畫質	n	T	畫	質	Len<=2
+更	d	F	更	更	Len<=2
+漂亮	adj	F	漂	亮	Len<=2
+
+耗電量	n	T	耗	量	Len>2
+增加	v	F	增	加	Len<=2
+
+這	r	F	這	這	Len<=2
+應該	v	F	應	該	Len<=2
+省電	adj	F	省	電	Len<=2
+到	v	F	到	到	Len<=2
+爆	v	F	爆	爆	Len<=2
+吧	y	F	吧	吧	Len<=2
+!	NA	F	!	!	Len<=2
+
+聲音	n	T	聲	音	Len<=2
+很	zg	F	很	很	Len<=2
+乾淨	adj	F	乾	淨	Len<=2
+
+喇叭	n	T	喇	叭	Len<=2
+破	v	F	破	破	Len<=2
+音	n	F	音	音	Len<=2
+的	uj	F	的	的	Len<=2
+聲音	n	T	聲	音	Len<=2
+
+規格	n	F	規	格	Len<=2
+也	d	F	也	也	Len<=2
+算是	v	F	算	是	Len<=2
+最	d	F	最	最	Len<=2
+頂尖	n	F	頂	尖	Len<=2
+的	uj	F	的	的	Len<=2
+
+螢幕	n	T	螢	幕	Len<=2
+漏光	n	T	漏	光	Len<=2
+
+測試	vn	F	測	試	Len<=2
+錄影	n	T	錄	影	Len<=2
+就	d	F	就	就	Len<=2
+有	v	F	有	有	Len<=2
+雜音	n	T	雜	音	Len<=2
+
+螢幕	n	T	螢	幕	Len<=2
+顏色	n	T	顏	色	Len<=2
+不	d	F	不	不	Len<=2
+飽滿	v	F	飽	滿	Len<=2
+
+照相	n	T	照	相	Len<=2
+功能	n	F	功	能	Len<=2
+挺	d	F	挺	挺	Len<=2
+弱	adj	F	弱	弱	Len<=2
+的	uj	F	的	的	Len<=2
+
+對焦	n	T	對	焦	Len<=2
+不知道	NA	F	不	道	Len>2
+對	p	F	對	對	Len<=2
+哪邊	r	F	哪	邊	Len<=2
+
+UI	NA	F	U	I	Len<=2
+不夠	adj	F	不	夠	Len<=2
+直覺	n	F	直	覺	Len<=2
+
+輸入法	n	F	輸	法	Len>2
+很	zg	F	很	很	Len<=2
+不	d	F	不	不	Len<=2
+人性化	n	T	人	化	Len>2
+
+使用	n	T	使	用	Len<=2
+上	f	F	上	上	Len<=2
+頓	adj	F	頓	頓	Len<=2
+頓	adj	F	頓	頓	Len<=2
+的	uj	F	的	的	Len<=2
+沒有	v	F	沒	有	Len<=2
+很	zg	F	很	很	Len<=2
+順暢	adj	F	順	暢	Len<=2
+。	NA	F	。	。	Len<=2
+
+電力	n	T	電	力	Len<=2
+非常	d	F	非	常	Len<=2
+夠	zg	F	夠	夠	Len<=2
+。	NA	F	。	。	Len<=2
+
+喇叭	n	T	喇	叭	Len<=2
+非常	d	F	非	常	Len<=2
+大聲	m	F	大	聲	Len<=2
+。	NA	F	。	。	Len<=2
+
+窄邊框	NA	F	窄	框	Len>2
+設計	n	T	設	計	Len<=2
+的	uj	F	的	的	Len<=2
+挺	d	F	挺	挺	Len<=2
+漂亮	adj	F	漂	亮	Len<=2
+

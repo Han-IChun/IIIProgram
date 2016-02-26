@@ -1,0 +1,5894 @@
+{
+	"價位": {
+		"比": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"確實": {
+			"positive": 0,
+			"negative": 1
+		},
+		"旗艦機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"市面上": {
+			"positive": 1,
+			"negative": 0
+		},
+		"id": {
+			"positive": 0,
+			"negative": 1
+		},
+		"便宜": {
+			"positive": 1,
+			"negative": 0
+		},
+		"貴": {
+			"positive": 0,
+			"negative": 1
+		},
+		"買": {
+			"positive": 1,
+			"negative": 0
+		},
+		"死硬": {
+			"positive": 0,
+			"negative": 1
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"價格": {
+			"positive": 0,
+			"negative": 1
+		},
+		"偏": {
+			"positive": 0,
+			"negative": 1
+		},
+		"了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"太貴": {
+			"positive": 0,
+			"negative": 1
+		},
+		"划算": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"M210": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相比": {
+			"positive": 0,
+			"negative": 1
+		},
+		"跟": {
+			"positive": 0,
+			"negative": 1
+		},
+		"Andro": {
+			"positive": 0,
+			"negative": 1
+		},
+		"oppo": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"對焦": {
+		"出": {
+			"positive": 0,
+			"negative": 1
+		},
+		"可以": {
+			"positive": 1,
+			"negative": 0
+		},
+		"鏡頭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"照片": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"編": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍照": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒": {
+			"positive": 0,
+			"negative": 1
+		},
+		"內": {
+			"positive": 1,
+			"negative": 0
+		},
+		"非常": {
+			"positive": 1,
+			"negative": 0
+		},
+		"降下來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"one": {
+			"positive": 1,
+			"negative": 0
+		},
+		"03": {
+			"positive": 1,
+			"negative": 0
+		},
+		"OneME": {
+			"positive": 1,
+			"negative": 0
+		},
+		"到": {
+			"positive": 0,
+			"negative": 1
+		},
+		"困擾": {
+			"positive": 0,
+			"negative": 1
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"這": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"達到": {
+			"positive": 1,
+			"negative": 0
+		},
+		".": {
+			"positive": 1,
+			"negative": 0
+		},
+		"0": {
+			"positive": 1,
+			"negative": 0
+		},
+		"是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"裡": {
+			"positive": 0,
+			"negative": 1
+		},
+		"方便": {
+			"positive": 1,
+			"negative": 0
+		},
+		"焦": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"下": {
+			"positive": 1,
+			"negative": 0
+		},
+		"實際": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時": {
+			"positive": 1,
+			"negative": 0
+		},
+		"慢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"速度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"步進式": {
+			"positive": 1,
+			"negative": 0
+		},
+		"馬達": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對焦速度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"Zoom": {
+			"positive": 1,
+			"negative": 0
+		},
+		"正常": {
+			"positive": 1,
+			"negative": 0
+		},
+		"ZenF": {
+			"positive": 1,
+			"negative": 0
+		},
+		"小": {
+			"positive": 1,
+			"negative": 0
+		},
+		"讓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 0,
+			"negative": 1
+		},
+		"其實": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"使用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"快": {
+			"positive": 1,
+			"negative": 0
+		},
+		"明亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"測光": {
+			"positive": 1,
+			"negative": 0
+		},
+		"搭配": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自動對焦": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對": {
+			"positive": 0,
+			"negative": 1
+		},
+		"分開": {
+			"positive": 1,
+			"negative": 0
+		},
+		"、": {
+			"positive": 1,
+			"negative": 0
+		},
+		"光線": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對焦": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"秒": {
+			"positive": 1,
+			"negative": 0
+		},
+		"啟動": {
+			"positive": 1,
+			"negative": 0
+		},
+		"完成": {
+			"positive": 1,
+			"negative": 0
+		},
+		"就": {
+			"positive": 0,
+			"negative": 1
+		},
+		"蠻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"跟": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"能夠": {
+			"positive": 1,
+			"negative": 0
+		},
+		"能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"點擊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"無法": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的確": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"記憶體擴充": {
+		"LG": {
+			"positive": 0,
+			"negative": 1
+		},
+		"可憐": {
+			"positive": 0,
+			"negative": 1
+		},
+		"ROM": {
+			"positive": 0,
+			"negative": 1
+		},
+		"到": {
+			"positive": 1,
+			"negative": 0
+		},
+		"得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"爛": {
+			"positive": 0,
+			"negative": 1
+		},
+		"Ram": {
+			"positive": 1,
+			"negative": 0
+		},
+		"記憶體": {
+			"positive": 1,
+			"negative": 0
+		},
+		"爆": {
+			"positive": 0,
+			"negative": 1
+		},
+		"內建": {
+			"positive": 0,
+			"negative": 1
+		},
+		"提升": {
+			"positive": 1,
+			"negative": 0
+		},
+		" ": {
+			"positive": 1,
+			"negative": 0
+		},
+		"少": {
+			"positive": 0,
+			"negative": 1
+		},
+		"3G": {
+			"positive": 1,
+			"negative": 0
+		},
+		"卻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"原廠": {
+			"positive": 0,
+			"negative": 1
+		}
+	},
+	"音質": {
+		"比": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"清晰": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"起來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"理想": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一定": {
+			"positive": 1,
+			"negative": 0
+		},
+		"較": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音樂": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在家": {
+			"positive": 1,
+			"negative": 0
+		},
+		"以往": {
+			"positive": 0,
+			"negative": 1
+		},
+		"普通": {
+			"positive": 0,
+			"negative": 1
+		},
+		"變好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"喇叭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"為": {
+			"positive": 1,
+			"negative": 0
+		},
+		"效果": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聲音": {
+			"positive": 1,
+			"negative": 0
+		},
+		"透過": {
+			"positive": 1,
+			"negative": 0
+		},
+		"前置雙喇叭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"G4": {
+			"positive": 0,
+			"negative": 1
+		},
+		"支援": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"裡": {
+			"positive": 1,
+			"negative": 0
+		},
+		"觀賞": {
+			"positive": 1,
+			"negative": 0
+		},
+		"水準": {
+			"positive": 1,
+			"negative": 0
+		},
+		"內建": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不": {
+			"positive": 0,
+			"negative": 1
+		},
+		"降噪": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"耳筒": {
+			"positive": 1,
+			"negative": 0
+		},
+		"減少": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一樣": {
+			"positive": 0,
+			"negative": 1
+		},
+		"爽度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"話音": {
+			"positive": 1,
+			"negative": 0
+		},
+		"影": {
+			"positive": 1,
+			"negative": 0
+		},
+		"增加": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"小": {
+			"positive": 0,
+			"negative": 1
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聽": {
+			"positive": 1,
+			"negative": 0
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音量": {
+			"positive": 1,
+			"negative": 0
+		},
+		"或": {
+			"positive": 1,
+			"negative": 0
+		},
+		"環繞": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"功能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"通透": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音效": {
+			"positive": 1,
+			"negative": 0
+		},
+		"體驗": {
+			"positive": 1,
+			"negative": 0
+		},
+		"環境": {
+			"positive": 1,
+			"negative": 0
+		},
+		"片時": {
+			"positive": 1,
+			"negative": 0
+		},
+		"夠": {
+			"positive": 1,
+			"negative": 0
+		},
+		"雜音": {
+			"positive": 1,
+			"negative": 0
+		},
+		"品質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"外放": {
+			"positive": 0,
+			"negative": 1
+		},
+		"跟": {
+			"positive": 0,
+			"negative": 1
+		},
+		"看": {
+			"positive": 1,
+			"negative": 0
+		},
+		"室內": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聽音樂": {
+			"positive": 1,
+			"negative": 0
+		},
+		"明顯": {
+			"positive": 0,
+			"negative": 1
+		},
+		"、": {
+			"positive": 1,
+			"negative": 0
+		},
+		"甚": {
+			"positive": 0,
+			"negative": 1
+		},
+		"喇叭音量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"立體": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"操作經驗": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音量鍵": {
+			"positive": 0,
+			"negative": 1
+		},
+		"其實": {
+			"positive": 0,
+			"negative": 1
+		},
+		"順暢度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"極佳": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"資費": {
+			"positive": 1,
+			"negative": 0
+		},
+		"會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"閃退": {
+			"positive": 0,
+			"negative": 1
+		},
+		"音樂": {
+			"positive": 0,
+			"negative": 1
+		},
+		"沒": {
+			"positive": 0,
+			"negative": 1
+		},
+		"幾乎": {
+			"positive": 1,
+			"negative": 0
+		},
+		"in810": {
+			"positive": 1,
+			"negative": 0
+		},
+		"如果": {
+			"positive": 0,
+			"negative": 1
+		},
+		"測試": {
+			"positive": 0,
+			"negative": 1
+		},
+		"度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一段時間": {
+			"positive": 0,
+			"negative": 1
+		},
+		"CPU": {
+			"positive": 0,
+			"negative": 1
+		},
+		"發現": {
+			"positive": 0,
+			"negative": 1
+		},
+		"最初": {
+			"positive": 1,
+			"negative": 0
+		},
+		" ": {
+			"positive": 1,
+			"negative": 1
+		},
+		"似乎": {
+			"positive": 0,
+			"negative": 1
+		},
+		"長距離": {
+			"positive": 0,
+			"negative": 1
+		},
+		"定": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不算": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不太好": {
+			"positive": 0,
+			"negative": 1
+		},
+		"著": {
+			"positive": 0,
+			"negative": 1
+		},
+		"按": {
+			"positive": 1,
+			"negative": 0
+		},
+		"絕對": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在": {
+			"positive": 0,
+			"negative": 1
+		},
+		"方便": {
+			"positive": 0,
+			"negative": 1
+		},
+		"做好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時間": {
+			"positive": 0,
+			"negative": 1
+		},
+		"掃": {
+			"positive": 1,
+			"negative": 0
+		},
+		"效率": {
+			"positive": 1,
+			"negative": 0
+		},
+		"再": {
+			"positive": 0,
+			"negative": 1
+		},
+		"穩定性": {
+			"positive": 1,
+			"negative": 0
+		},
+		"部分": {
+			"positive": 0,
+			"negative": 1
+		},
+		"收訊": {
+			"positive": 0,
+			"negative": 1
+		},
+		"歷史": {
+			"positive": 1,
+			"negative": 0
+		},
+		"R7": {
+			"positive": 1,
+			"negative": 0
+		},
+		"慢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"所有": {
+			"positive": 0,
+			"negative": 1
+		},
+		"了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"滑": {
+			"positive": 0,
+			"negative": 1
+		},
+		"播": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很順": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感應": {
+			"positive": 1,
+			"negative": 0
+		},
+		"穩定": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一下": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"兩年": {
+			"positive": 1,
+			"negative": 0
+		},
+		"變慢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"些": {
+			"positive": 0,
+			"negative": 1
+		},
+		"飄": {
+			"positive": 0,
+			"negative": 1
+		},
+		"影片": {
+			"positive": 1,
+			"negative": 0
+		},
+		"智慧型手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"神機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"GPS": {
+			"positive": 1,
+			"negative": 0
+		},
+		"嚴格來說": {
+			"positive": 0,
+			"negative": 1
+		},
+		"按壓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"斷線": {
+			"positive": 0,
+			"negative": 1
+		},
+		"艷": {
+			"positive": 1,
+			"negative": 0
+		},
+		"小工具": {
+			"positive": 0,
+			"negative": 1
+		},
+		"來說": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不順": {
+			"positive": 0,
+			"negative": 1
+		},
+		"相容性": {
+			"positive": 1,
+			"negative": 0
+		},
+		"藍芽": {
+			"positive": 0,
+			"negative": 1
+		},
+		"指紋辨識": {
+			"positive": 1,
+			"negative": 0
+		},
+		"驚": {
+			"positive": 1,
+			"negative": 0
+		},
+		"令人": {
+			"positive": 1,
+			"negative": 0
+		},
+		"信號": {
+			"positive": 0,
+			"negative": 1
+		},
+		"放在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"品牌": {
+			"positive": 0,
+			"negative": 1
+		},
+		"wifi": {
+			"positive": 0,
+			"negative": 1
+		},
+		"過程": {
+			"positive": 0,
+			"negative": 1
+		},
+		"綜合性": {
+			"positive": 1,
+			"negative": 0
+		},
+		"比": {
+			"positive": 1,
+			"negative": 0
+		},
+		"通話": {
+			"positive": 0,
+			"negative": 1
+		},
+		"條件": {
+			"positive": 1,
+			"negative": 0
+		},
+		"瞬間": {
+			"positive": 1,
+			"negative": 0
+		},
+		"兩三天": {
+			"positive": 0,
+			"negative": 1
+		},
+		"電腦": {
+			"positive": 1,
+			"negative": 0
+		},
+		"弱": {
+			"positive": 0,
+			"negative": 1
+		},
+		"直覺": {
+			"positive": 0,
+			"negative": 1
+		},
+		"會卡": {
+			"positive": 0,
+			"negative": 1
+		},
+		"服務": {
+			"positive": 0,
+			"negative": 1
+		},
+		"開": {
+			"positive": 1,
+			"negative": 0
+		},
+		"介面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"中": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有競爭力": {
+			"positive": 1,
+			"negative": 0
+		},
+		"定位": {
+			"positive": 1,
+			"negative": 0
+		},
+		"儲存": {
+			"positive": 1,
+			"negative": 0
+		},
+		"機子": {
+			"positive": 1,
+			"negative": 0
+		},
+		"下去": {
+			"positive": 1,
+			"negative": 0
+		},
+		"旗艦機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一隻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"非常": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相信": {
+			"positive": 1,
+			"negative": 0
+		},
+		"加強": {
+			"positive": 0,
+			"negative": 1
+		},
+		"輕鬆": {
+			"positive": 0,
+			"negative": 1
+		},
+		"透過": {
+			"positive": 1,
+			"negative": 0
+		},
+		"按鍵": {
+			"positive": 1,
+			"negative": 0
+		},
+		"到": {
+			"positive": 1,
+			"negative": 0
+		},
+		"+": {
+			"positive": 1,
+			"negative": 0
+		},
+		"傳奇": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有待": {
+			"positive": 0,
+			"negative": 1
+		},
+		"靈敏": {
+			"positive": 1,
+			"negative": 0
+		},
+		"常會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不": {
+			"positive": 0,
+			"negative": 1
+		},
+		"速度慢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"下": {
+			"positive": 1,
+			"negative": 0
+		},
+		"上": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"多": {
+			"positive": 1,
+			"negative": 0
+		},
+		"強悍": {
+			"positive": 1,
+			"negative": 0
+		},
+		"播放": {
+			"positive": 1,
+			"negative": 0
+		},
+		"Z3": {
+			"positive": 1,
+			"negative": 0
+		},
+		"程式": {
+			"positive": 1,
+			"negative": 0
+		},
+		"旗艦手機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒有": {
+			"positive": 0,
+			"negative": 1
+		},
+		"儲存速度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"清脆": {
+			"positive": 1,
+			"negative": 0
+		},
+		"操作介面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"建立": {
+			"positive": 0,
+			"negative": 1
+		},
+		"重開機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"很多": {
+			"positive": 1,
+			"negative": 0
+		},
+		"容易": {
+			"positive": 0,
+			"negative": 1
+		},
+		"位置": {
+			"positive": 1,
+			"negative": 0
+		},
+		"表現": {
+			"positive": 0,
+			"negative": 1
+		},
+		"流暢": {
+			"positive": 1,
+			"negative": 0
+		},
+		"首頁": {
+			"positive": 0,
+			"negative": 1
+		},
+		"單手": {
+			"positive": 0,
+			"negative": 1
+		},
+		"效能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"完勝": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"HTC": {
+			"positive": 2,
+			"negative": 0
+		},
+		"OneA9": {
+			"positive": 1,
+			"negative": 0
+		},
+		"十分": {
+			"positive": 1,
+			"negative": 0
+		},
+		"台灣": {
+			"positive": 1,
+			"negative": 0
+		},
+		"App": {
+			"positive": 1,
+			"negative": 0
+		},
+		"WIFI": {
+			"positive": 0,
+			"negative": 2
+		},
+		"軟體": {
+			"positive": 0,
+			"negative": 1
+		},
+		"品質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"蠻": {
+			"positive": 0,
+			"negative": 1
+		},
+		"設計": {
+			"positive": 1,
+			"negative": 0
+		},
+		"啟": {
+			"positive": 1,
+			"negative": 0
+		},
+		"真的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"整理": {
+			"positive": 0,
+			"negative": 1
+		},
+		"解鎖": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聽音樂": {
+			"positive": 0,
+			"negative": 1
+		},
+		"明顯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"UI": {
+			"positive": 2,
+			"negative": 0
+		},
+		"Andro": {
+			"positive": 1,
+			"negative": 1
+		},
+		"順暢": {
+			"positive": 1,
+			"negative": 0
+		},
+		"長": {
+			"positive": 0,
+			"negative": 1
+		},
+		"或是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"列入": {
+			"positive": 1,
+			"negative": 0
+		},
+		"指紋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"進步": {
+			"positive": 1,
+			"negative": 0
+		},
+		"個": {
+			"positive": 0,
+			"negative": 1
+		},
+		"起來": {
+			"positive": 1,
+			"negative": 0
+		},
+		"滿意": {
+			"positive": 1,
+			"negative": 0
+		},
+		"這個": {
+			"positive": 1,
+			"negative": 0
+		},
+		"app": {
+			"positive": 0,
+			"negative": 1
+		},
+		"隨身碟": {
+			"positive": 1,
+			"negative": 0
+		},
+		"可": {
+			"positive": 0,
+			"negative": 1
+		},
+		"機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"其它": {
+			"positive": 0,
+			"negative": 1
+		},
+		"斷斷續續": {
+			"positive": 0,
+			"negative": 1
+		},
+		"可以": {
+			"positive": 0,
+			"negative": 1
+		},
+		"今年": {
+			"positive": 0,
+			"negative": 1
+		},
+		"廠商": {
+			"positive": 1,
+			"negative": 0
+		},
+		"台": {
+			"positive": 1,
+			"negative": 0
+		},
+		"開機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"比較": {
+			"positive": 0,
+			"negative": 1
+		},
+		"吧": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手勢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"定位速度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"蝴蝶機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"差": {
+			"positive": 0,
+			"negative": 1
+		},
+		"內建的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"頗佳": {
+			"positive": 1,
+			"negative": 0
+		},
+		"影片播放": {
+			"positive": 0,
+			"negative": 1
+		},
+		"id": {
+			"positive": 1,
+			"negative": 1
+		},
+		"這": {
+			"positive": 0,
+			"negative": 1
+		},
+		"超": {
+			"positive": 1,
+			"negative": 0
+		},
+		"整體": {
+			"positive": 1,
+			"negative": 0
+		},
+		"導致": {
+			"positive": 0,
+			"negative": 1
+		},
+		"硬體效能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"同": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有時候": {
+			"positive": 0,
+			"negative": 1
+		},
+		"很": {
+			"positive": 0,
+			"negative": 1
+		},
+		"橫": {
+			"positive": 0,
+			"negative": 1
+		},
+		"或": {
+			"positive": 0,
+			"negative": 1
+		},
+		"快門": {
+			"positive": 1,
+			"negative": 0
+		},
+		"訊號": {
+			"positive": 0,
+			"negative": 1
+		},
+		"gps": {
+			"positive": 1,
+			"negative": 1
+		},
+		"時": {
+			"positive": 1,
+			"negative": 0
+		},
+		"覺得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"算": {
+			"positive": 1,
+			"negative": 0
+		},
+		"會斷線": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不會": {
+			"positive": 1,
+			"negative": 0
+		},
+		"輸入法": {
+			"positive": 0,
+			"negative": 1
+		},
+		"撥電話": {
+			"positive": 1,
+			"negative": 0
+		},
+		"漂亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"堅固耐用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"多餘": {
+			"positive": 1,
+			"negative": 0
+		},
+		"體驗": {
+			"positive": 1,
+			"negative": 0
+		},
+		"系統": {
+			"positive": 1,
+			"negative": 0
+		},
+		"方面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"要": {
+			"positive": 0,
+			"negative": 1
+		},
+		"變": {
+			"positive": 1,
+			"negative": 0
+		},
+		"關": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的確": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對": {
+			"positive": 1,
+			"negative": 0
+		},
+		"新": {
+			"positive": 0,
+			"negative": 1
+		},
+		"好": {
+			"positive": 0,
+			"negative": 1
+		},
+		"開始": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"實用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"啟動": {
+			"positive": 0,
+			"negative": 1
+		},
+		"我": {
+			"positive": 1,
+			"negative": 0
+		},
+		"動作": {
+			"positive": 1,
+			"negative": 0
+		},
+		"秒": {
+			"positive": 1,
+			"negative": 0
+		},
+		"足夠": {
+			"positive": 1,
+			"negative": 0
+		},
+		"us": {
+			"positive": 1,
+			"negative": 0
+		},
+		"跟": {
+			"positive": 0,
+			"negative": 1
+		},
+		"相機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"當中": {
+			"positive": 0,
+			"negative": 1
+		},
+		"迅速": {
+			"positive": 1,
+			"negative": 0
+		},
+		"使用": {
+			"positive": 0,
+			"negative": 1
+		},
+		"功能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拇指": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還要": {
+			"positive": 0,
+			"negative": 1
+		},
+		"感受": {
+			"positive": 1,
+			"negative": 0
+		},
+		"反饋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"又": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"滿": {
+			"positive": 0,
+			"negative": 1
+		},
+		"更": {
+			"positive": 1,
+			"negative": 0
+		},
+		"順手": {
+			"positive": 1,
+			"negative": 0
+		},
+		"挺": {
+			"positive": 1,
+			"negative": 0
+		},
+		"變更": {
+			"positive": 0,
+			"negative": 1
+		},
+		"當": {
+			"positive": 0,
+			"negative": 1
+		},
+		"屏": {
+			"positive": 0,
+			"negative": 1
+		},
+		"FB": {
+			"positive": 0,
+			"negative": 1
+		},
+		"幾隻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"OTG": {
+			"positive": 1,
+			"negative": 0
+		},
+		"處理": {
+			"positive": 0,
+			"negative": 1
+		},
+		"當掉": {
+			"positive": 0,
+			"negative": 1
+		},
+		"LG": {
+			"positive": 0,
+			"negative": 1
+		},
+		"以": {
+			"positive": 1,
+			"negative": 0
+		},
+		"花": {
+			"positive": 0,
+			"negative": 1
+		},
+		"支援": {
+			"positive": 1,
+			"negative": 0
+		},
+		"瀏覽器": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還": {
+			"positive": 1,
+			"negative": 0
+		},
+		"而且": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不支援": {
+			"positive": 0,
+			"negative": 1
+		},
+		"無比": {
+			"positive": 0,
+			"negative": 1
+		},
+		"裡": {
+			"positive": 0,
+			"negative": 1
+		},
+		"無法": {
+			"positive": 0,
+			"negative": 1
+		},
+		"回饋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"傳": {
+			"positive": 1,
+			"negative": 0
+		},
+		"9": {
+			"positive": 1,
+			"negative": 0
+		},
+		"Mate7": {
+			"positive": 1,
+			"negative": 0
+		},
+		"令人滿意": {
+			"positive": 1,
+			"negative": 0
+		},
+		"規格": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"其他": {
+			"positive": 1,
+			"negative": 0
+		},
+		"操作": {
+			"positive": 1,
+			"negative": 0
+		},
+		"頓": {
+			"positive": 0,
+			"negative": 1
+		},
+		"多工": {
+			"positive": 0,
+			"negative": 1
+		},
+		"主流": {
+			"positive": 0,
+			"negative": 1
+		},
+		"瞄": {
+			"positive": 1,
+			"negative": 0
+		},
+		"速度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"偏": {
+			"positive": 0,
+			"negative": 1
+		},
+		"用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"檔案": {
+			"positive": 1,
+			"negative": 0
+		},
+		"G7Pl": {
+			"positive": 1,
+			"negative": 0
+		},
+		"能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"AP": {
+			"positive": 0,
+			"negative": 1
+		},
+		"是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"做": {
+			"positive": 1,
+			"negative": 0
+		},
+		"常常": {
+			"positive": 0,
+			"negative": 1
+		},
+		"4K": {
+			"positive": 1,
+			"negative": 0
+		},
+		"運行": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拿": {
+			"positive": 1,
+			"negative": 0
+		},
+		"快": {
+			"positive": 1,
+			"negative": 0
+		},
+		"4G": {
+			"positive": 1,
+			"negative": 1
+		},
+		"記憶體": {
+			"positive": 0,
+			"negative": 1
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"智慧": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相當": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"80": {
+			"positive": 0,
+			"negative": 1
+		},
+		"真": {
+			"positive": 1,
+			"negative": 0
+		},
+		"寫": {
+			"positive": 0,
+			"negative": 1
+		},
+		"畫面": {
+			"positive": 0,
+			"negative": 1
+		},
+		"完成": {
+			"positive": 1,
+			"negative": 0
+		},
+		"就": {
+			"positive": 1,
+			"negative": 0
+		},
+		"硬體": {
+			"positive": 1,
+			"negative": 0
+		},
+		"R7S": {
+			"positive": 0,
+			"negative": 1
+		},
+		"常": {
+			"positive": 0,
+			"negative": 1
+		},
+		"但": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有時": {
+			"positive": 0,
+			"negative": 1
+		},
+		"打不開": {
+			"positive": 0,
+			"negative": 1
+		},
+		"%": {
+			"positive": 0,
+			"negative": 1
+		},
+		"會斷斷續續": {
+			"positive": 0,
+			"negative": 1
+		}
+	},
+	"設計質感": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"圓形": {
+			"positive": 1,
+			"negative": 0
+		},
+		"金屬機身": {
+			"positive": 1,
+			"negative": 0
+		},
+		"可以": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最": {
+			"positive": 1,
+			"negative": 0
+		},
+		"會": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一流": {
+			"positive": 1,
+			"negative": 0
+		},
+		"與": {
+			"positive": 1,
+			"negative": 0
+		},
+		"用心": {
+			"positive": 1,
+			"negative": 0
+		},
+		"流行": {
+			"positive": 0,
+			"negative": 1
+		},
+		"竹": {
+			"positive": 1,
+			"negative": 0
+		},
+		" ": {
+			"positive": 0,
+			"negative": 1
+		},
+		"輸入": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不算": {
+			"positive": 0,
+			"negative": 1
+		},
+		"條": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拿在手上": {
+			"positive": 1,
+			"negative": 0
+		},
+		"iPh": {
+			"positive": 0,
+			"negative": 1
+		},
+		"搶眼": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"弧度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一款": {
+			"positive": 1,
+			"negative": 0
+		},
+		"此": {
+			"positive": 1,
+			"negative": 0
+		},
+		"生活": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手指": {
+			"positive": 0,
+			"negative": 1
+		},
+		"感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"俐落": {
+			"positive": 1,
+			"negative": 0
+		},
+		"破壞": {
+			"positive": 0,
+			"negative": 1
+		},
+		"剛好": {
+			"positive": 0,
+			"negative": 1
+		},
+		"了": {
+			"positive": 0,
+			"negative": 1
+		},
+		"質": {
+			"positive": 1,
+			"negative": 0
+		},
+		"標出": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"就是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"紅色": {
+			"positive": 1,
+			"negative": 0
+		},
+		"喜氣": {
+			"positive": 1,
+			"negative": 0
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"機身": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有型": {
+			"positive": 1,
+			"negative": 0
+		},
+		"塗裝": {
+			"positive": 1,
+			"negative": 0
+		},
+		"棒": {
+			"positive": 1,
+			"negative": 0
+		},
+		"給": {
+			"positive": 1,
+			"negative": 0
+		},
+		"金屬": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"面版": {
+			"positive": 1,
+			"negative": 0
+		},
+		"背蓋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"做": {
+			"positive": 1,
+			"negative": 0
+		},
+		"亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"鏡面": {
+			"positive": 0,
+			"negative": 1
+		},
+		"人": {
+			"positive": 1,
+			"negative": 0
+		},
+		"紮紮實實": {
+			"positive": 1,
+			"negative": 0
+		},
+		"中文": {
+			"positive": 0,
+			"negative": 1
+		},
+		"叫做": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一點點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"過去": {
+			"positive": 1,
+			"negative": 0
+		},
+		"古錐": {
+			"positive": 1,
+			"negative": 0
+		},
+		"天線": {
+			"positive": 0,
+			"negative": 1
+		},
+		"刮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"鏡頭": {
+			"positive": 0,
+			"negative": 1
+		},
+		"塑膠感": {
+			"positive": 0,
+			"negative": 1
+		},
+		"太": {
+			"positive": 0,
+			"negative": 1
+		},
+		"邊框": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不會": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聽說": {
+			"positive": 1,
+			"negative": 0
+		},
+		"面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"Nex": {
+			"positive": 1,
+			"negative": 0
+		},
+		"巧思": {
+			"positive": 1,
+			"negative": 0
+		},
+		"突兀": {
+			"positive": 0,
+			"negative": 1
+		},
+		"底下": {
+			"positive": 0,
+			"negative": 1
+		},
+		"弧": {
+			"positive": 1,
+			"negative": 0
+		},
+		"按鍵": {
+			"positive": 0,
+			"negative": 1
+		},
+		"材質": {
+			"positive": 1,
+			"negative": 0
+		},
+		"細紋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"企圖": {
+			"positive": 1,
+			"negative": 0
+		},
+		"直接": {
+			"positive": 0,
+			"negative": 1
+		},
+		"改": {
+			"positive": 1,
+			"negative": 0
+		},
+		"外": {
+			"positive": 1,
+			"negative": 0
+		},
+		"上": {
+			"positive": 0,
+			"negative": 1
+		},
+		"抗": {
+			"positive": 0,
+			"negative": 1
+		},
+		"Sony": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有現代感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不佳": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一": {
+			"positive": 0,
+			"negative": 1
+		},
+		"清涼": {
+			"positive": 1,
+			"negative": 0
+		},
+		"NFC": {
+			"positive": 0,
+			"negative": 1
+		},
+		"留下": {
+			"positive": 0,
+			"negative": 1
+		},
+		"玫瑰": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相當": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒有": {
+			"positive": 0,
+			"negative": 1
+		},
+		"像是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"外形": {
+			"positive": 0,
+			"negative": 1
+		},
+		"做出": {
+			"positive": 1,
+			"negative": 0
+		},
+		"容易": {
+			"positive": 0,
+			"negative": 1
+		},
+		"位置": {
+			"positive": 0,
+			"negative": 1
+		},
+		"外型": {
+			"positive": 1,
+			"negative": 0
+		},
+		"簡約": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一點": {
+			"positive": 1,
+			"negative": 0
+		},
+		"漂亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"HTC": {
+			"positive": 1,
+			"negative": 0
+		},
+		"滿": {
+			"positive": 1,
+			"negative": 0
+		},
+		"款": {
+			"positive": 1,
+			"negative": 0
+		},
+		"十分": {
+			"positive": 1,
+			"negative": 0
+		},
+		"蠻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"設計": {
+			"positive": 1,
+			"negative": 0
+		},
+		"真的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"磨": {
+			"positive": 0,
+			"negative": 1
+		},
+		"明顯": {
+			"positive": 0,
+			"negative": 1
+		},
+		"來說": {
+			"positive": 0,
+			"negative": 1
+		},
+		"化": {
+			"positive": 1,
+			"negative": 0
+		},
+		"性": {
+			"positive": 0,
+			"negative": 1
+		},
+		"握": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音量鍵": {
+			"positive": 1,
+			"negative": 0
+		},
+		"那麼": {
+			"positive": 0,
+			"negative": 1
+		},
+		"起來": {
+			"positive": 1,
+			"negative": 0
+		},
+		"滿意": {
+			"positive": 1,
+			"negative": 0
+		},
+		"美": {
+			"positive": 1,
+			"negative": 0
+		},
+		"可": {
+			"positive": 1,
+			"negative": 0
+		},
+		"one": {
+			"positive": 0,
+			"negative": 1
+		},
+		"優點": {
+			"positive": 1,
+			"negative": 0
+		},
+		"台": {
+			"positive": 1,
+			"negative": 0
+		},
+		"非常容易": {
+			"positive": 0,
+			"negative": 1
+		},
+		"比較": {
+			"positive": 1,
+			"negative": 0
+		},
+		"吧": {
+			"positive": 1,
+			"negative": 0
+		},
+		"表層": {
+			"positive": 0,
+			"negative": 1
+		},
+		"美觀": {
+			"positive": 0,
+			"negative": 1
+		},
+		"大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"金色": {
+			"positive": 0,
+			"negative": 1
+		},
+		"蝴蝶機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"霧面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"差": {
+			"positive": 0,
+			"negative": 1
+		},
+		"這": {
+			"positive": 1,
+			"negative": 0
+		},
+		"超": {
+			"positive": 1,
+			"negative": 0
+		},
+		"整體": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手": {
+			"positive": 1,
+			"negative": 0
+		},
+		"精緻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不喜歡": {
+			"positive": 0,
+			"negative": 1
+		},
+		"高調": {
+			"positive": 0,
+			"negative": 1
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"全金屬": {
+			"positive": 1,
+			"negative": 0
+		},
+		"我": {
+			"positive": 1,
+			"negative": 0
+		},
+		"成": {
+			"positive": 1,
+			"negative": 0
+		},
+		"配色": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一樣": {
+			"positive": 0,
+			"negative": 1
+		},
+		"時尚": {
+			"positive": 1,
+			"negative": 0
+		},
+		"螢幕": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很爛": {
+			"positive": 0,
+			"negative": 1
+		},
+		"算": {
+			"positive": 1,
+			"negative": 0
+		},
+		"更": {
+			"positive": 1,
+			"negative": 0
+		},
+		"6": {
+			"positive": 0,
+			"negative": 1
+		},
+		"相機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"感覺": {
+			"positive": 1,
+			"negative": 0
+		},
+		"雖然": {
+			"positive": 0,
+			"negative": 1
+		},
+		"讓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手中": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一種": {
+			"positive": 1,
+			"negative": 0
+		},
+		"歷代": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"微微": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"金": {
+			"positive": 1,
+			"negative": 0
+		},
+		"粗粗的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"指紋": {
+			"positive": 0,
+			"negative": 1
+		},
+		"淡": {
+			"positive": 0,
+			"negative": 1
+		},
+		"us": {
+			"positive": 1,
+			"negative": 0
+		},
+		"側邊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"6P": {
+			"positive": 1,
+			"negative": 0
+		},
+		"跟": {
+			"positive": 0,
+			"negative": 1
+		},
+		"擋住": {
+			"positive": 0,
+			"negative": 1
+		},
+		"砂紙": {
+			"positive": 0,
+			"negative": 1
+		},
+		"沾染": {
+			"positive": 1,
+			"negative": 0
+		},
+		"細節": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感受": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不易": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時": {
+			"positive": 1,
+			"negative": 0
+		},
+		"觸感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"機子": {
+			"positive": 1,
+			"negative": 0
+		},
+		"略": {
+			"positive": 0,
+			"negative": 1
+		},
+		"精美": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"喜歡": {
+			"positive": 1,
+			"negative": 0
+		},
+		"較": {
+			"positive": 1,
+			"negative": 0
+		},
+		"打造": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一些": {
+			"positive": 1,
+			"negative": 0
+		},
+		"屌": {
+			"positive": 1,
+			"negative": 0
+		},
+		"美感": {
+			"positive": 0,
+			"negative": 1
+		},
+		"並": {
+			"positive": 1,
+			"negative": 0
+		},
+		"看起來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"就": {
+			"positive": 0,
+			"negative": 1
+		},
+		"為": {
+			"positive": 1,
+			"negative": 0
+		},
+		"處理": {
+			"positive": 0,
+			"negative": 1
+		},
+		"把": {
+			"positive": 0,
+			"negative": 1
+		},
+		"邊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"油": {
+			"positive": 0,
+			"negative": 1
+		},
+		"背面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"顧": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還": {
+			"positive": 1,
+			"negative": 0
+		},
+		"風格": {
+			"positive": 1,
+			"negative": 0
+		},
+		"個人": {
+			"positive": 0,
+			"negative": 1
+		},
+		"電池蓋": {
+			"positive": 0,
+			"negative": 1
+		},
+		"視覺": {
+			"positive": 1,
+			"negative": 0
+		},
+		"各家": {
+			"positive": 0,
+			"negative": 1
+		},
+		"截": {
+			"positive": 0,
+			"negative": 1
+		},
+		"刷": {
+			"positive": 1,
+			"negative": 0
+		},
+		"曲面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"到": {
+			"positive": 1,
+			"negative": 0
+		},
+		"現在": {
+			"positive": 0,
+			"negative": 1
+		},
+		"用": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"髮絲紋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"汙": {
+			"positive": 0,
+			"negative": 1
+		},
+		"小": {
+			"positive": 0,
+			"negative": 1
+		},
+		"是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"對": {
+			"positive": 0,
+			"negative": 1
+		},
+		"凸出": {
+			"positive": 0,
+			"negative": 1
+		},
+		"將": {
+			"positive": 1,
+			"negative": 0
+		},
+		"仍然": {
+			"positive": 0,
+			"negative": 1
+		},
+		"，": {
+			"positive": 0,
+			"negative": 1
+		},
+		"重視": {
+			"positive": 1,
+			"negative": 0
+		},
+		"氣質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有質感": {
+			"positive": 0,
+			"negative": 1
+		},
+		"彎曲": {
+			"positive": 1,
+			"negative": 0
+		},
+		"質感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"污": {
+			"positive": 0,
+			"negative": 1
+		},
+		"顏色": {
+			"positive": 1,
+			"negative": 0
+		},
+		"玻璃": {
+			"positive": 1,
+			"negative": 0
+		},
+		"使用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很醜": {
+			"positive": 0,
+			"negative": 1
+		},
+		"M812": {
+			"positive": 0,
+			"negative": 1
+		},
+		"但": {
+			"positive": 0,
+			"negative": 1
+		},
+		"缺點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"除了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"減少": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"自拍": {
+		"G4": {
+			"positive": 1,
+			"negative": 0
+		},
+		"前相機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"勝出": {
+			"positive": 1,
+			"negative": 0
+		},
+		"V10": {
+			"positive": 1,
+			"negative": 0
+		},
+		"高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自拍": {
+			"positive": 1,
+			"negative": 0
+		},
+		"水準": {
+			"positive": 1,
+			"negative": 0
+		},
+		"前鏡頭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"維持": {
+			"positive": 1,
+			"negative": 0
+		},
+		"比起": {
+			"positive": 1,
+			"negative": 0
+		},
+		"依舊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"A9": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"廣角": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"螢幕畫質": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"那麼": {
+			"positive": 0,
+			"negative": 1
+		},
+		"清晰": {
+			"positive": 1,
+			"negative": 0
+		},
+		"顏色": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"更": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒話說": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒": {
+			"positive": 0,
+			"negative": 1
+		},
+		"調整": {
+			"positive": 0,
+			"negative": 1
+		},
+		"全": {
+			"positive": 1,
+			"negative": 0
+		},
+		"測試": {
+			"positive": 1,
+			"negative": 0
+		},
+		"看起來": {
+			"positive": 1,
+			"negative": 0
+		},
+		"1080P": {
+			"positive": 1,
+			"negative": 0
+		},
+		"效果": {
+			"positive": 1,
+			"negative": 0
+		},
+		"鮮豔": {
+			"positive": 1,
+			"negative": 0
+		},
+		"太漂亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"提高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一點": {
+			"positive": 1,
+			"negative": 0
+		},
+		"呈現": {
+			"positive": 1,
+			"negative": 0
+		},
+		"螢幕畫質": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"下": {
+			"positive": 0,
+			"negative": 1
+		},
+		"討": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"喜": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自動亮度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"效": {
+			"positive": 1,
+			"negative": 0
+		},
+		"舒服": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時": {
+			"positive": 1,
+			"negative": 0
+		},
+		"螢幕": {
+			"positive": 1,
+			"negative": 0
+		},
+		"陽光": {
+			"positive": 0,
+			"negative": 1
+		},
+		"速度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"到": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有點慢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"蓋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"更好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"色彩": {
+			"positive": 1,
+			"negative": 0
+		},
+		"視": {
+			"positive": 1,
+			"negative": 0
+		},
+		"飽和度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"讓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"就是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"畫素": {
+			"positive": 1,
+			"negative": 0
+		},
+		"螢幕顯示": {
+			"positive": 1,
+			"negative": 0
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"、": {
+			"positive": 1,
+			"negative": 0
+		},
+		"要": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"漂亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對比度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很棒": {
+			"positive": 1,
+			"negative": 0
+		},
+		"十分": {
+			"positive": 1,
+			"negative": 0
+		},
+		"眼睛": {
+			"positive": 1,
+			"negative": 0
+		},
+		"比": {
+			"positive": 1,
+			"negative": 0
+		},
+		"畫面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"室外": {
+			"positive": 1,
+			"negative": 0
+		},
+		"播放": {
+			"positive": 1,
+			"negative": 0
+		},
+		"動感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感應": {
+			"positive": 0,
+			"negative": 1
+		},
+		"真的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"銳利度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"飽和": {
+			"positive": 1,
+			"negative": 0
+		},
+		"絢麗": {
+			"positive": 1,
+			"negative": 0
+		},
+		"4K": {
+			"positive": 1,
+			"negative": 0
+		},
+		"但是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"或是": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"性價比": {
+		"這": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"超高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大勝": {
+			"positive": 1,
+			"negative": 0
+		},
+		"期": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一隻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"表": {
+			"positive": 1,
+			"negative": 0
+		},
+		"保值": {
+			"positive": 1,
+			"negative": 0
+		},
+		"值": {
+			"positive": 1,
+			"negative": 0
+		},
+		"/": {
+			"positive": 2,
+			"negative": 0
+		},
+		"爆": {
+			"positive": 1,
+			"negative": 0
+		},
+		"IPHONE": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"C": {
+			"positive": 1,
+			"negative": 0
+		},
+		"價格": {
+			"positive": 1,
+			"negative": 0
+		},
+		"算": {
+			"positive": 1,
+			"negative": 0
+		},
+		"了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"P": {
+			"positive": 1,
+			"negative": 0
+		},
+		"超值": {
+			"positive": 1,
+			"negative": 0
+		},
+		"CP": {
+			"positive": 4,
+			"negative": 0
+		},
+		"c": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"p": {
+			"positive": 1,
+			"negative": 0
+		},
+		"長": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"軟體問題": {
+		"豐富": {
+			"positive": 1,
+			"negative": 0
+		},
+		"內建的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"app": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有問題": {
+			"positive": 0,
+			"negative": 1
+		},
+		"軟體": {
+			"positive": 0,
+			"negative": 1
+		},
+		"已經": {
+			"positive": 1,
+			"negative": 0
+		},
+		"佳": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一直": {
+			"positive": 0,
+			"negative": 1
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"質感": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"螢幕尺寸": {
+		"大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"電源鍵": {
+			"positive": 0,
+			"negative": 1
+		},
+		"變得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"音量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"以前": {
+			"positive": 0,
+			"negative": 1
+		},
+		"比較": {
+			"positive": 0,
+			"negative": 1
+		},
+		"單手": {
+			"positive": 0,
+			"negative": 1
+		},
+		"這麼": {
+			"positive": 0,
+			"negative": 1
+		},
+		"尺寸": {
+			"positive": 0,
+			"negative": 1
+		},
+		"金屬機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"困難": {
+			"positive": 0,
+			"negative": 1
+		},
+		")": {
+			"positive": 0,
+			"negative": 2
+		},
+		"(": {
+			"positive": 0,
+			"negative": 2
+		},
+		"按": {
+			"positive": 0,
+			"negative": 1
+		},
+		"由於": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不": {
+			"positive": 0,
+			"negative": 1
+		},
+		"大螢幕": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"降低": {
+			"positive": 0,
+			"negative": 1
+		},
+		"時": {
+			"positive": 0,
+			"negative": 1
+		},
+		"螢幕": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大小": {
+			"positive": 1,
+			"negative": 0
+		},
+		"用": {
+			"positive": 0,
+			"negative": 1
+		},
+		"單手操作": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"偏重": {
+			"positive": 0,
+			"negative": 1
+		},
+		"容易": {
+			"positive": 0,
+			"negative": 1
+		},
+		"要": {
+			"positive": 0,
+			"negative": 1
+		},
+		"機身": {
+			"positive": 0,
+			"negative": 1
+		},
+		"＋": {
+			"positive": 0,
+			"negative": 1
+		},
+		"，": {
+			"positive": 0,
+			"negative": 1
+		},
+		"好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"剛剛": {
+			"positive": 1,
+			"negative": 0
+		},
+		"截圖": {
+			"positive": 0,
+			"negative": 1
+		},
+		"19": {
+			"positive": 0,
+			"negative": 1
+		},
+		"而且": {
+			"positive": 0,
+			"negative": 1
+		},
+		"2g": {
+			"positive": 0,
+			"negative": 1
+		},
+		"時會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"像": {
+			"positive": 0,
+			"negative": 1
+		},
+		"鍵": {
+			"positive": 0,
+			"negative": 1
+		},
+		"握": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"續航力": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"比": {
+			"positive": 1,
+			"negative": 0
+		},
+		"夠": {
+			"positive": 1,
+			"negative": 0
+		},
+		"又": {
+			"positive": 1,
+			"negative": 0
+		},
+		"充電": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"壞掉": {
+			"positive": 0,
+			"negative": 1
+		},
+		"閃": {
+			"positive": 1,
+			"negative": 0
+		},
+		"耗電": {
+			"positive": 0,
+			"negative": 1
+		},
+		"超": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"更": {
+			"positive": 1,
+			"negative": 0
+		},
+		"結果": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一整天": {
+			"positive": 1,
+			"negative": 0
+		},
+		"電": {
+			"positive": 0,
+			"negative": 1
+		},
+		"快充": {
+			"positive": 1,
+			"negative": 0
+		},
+		"行動電源": {
+			"positive": 1,
+			"negative": 0
+		},
+		"續航": {
+			"positive": 1,
+			"negative": 0
+		},
+		"比較": {
+			"positive": 1,
+			"negative": 0
+		},
+		"電量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"電池": {
+			"positive": 0,
+			"negative": 1
+		},
+		"上一代": {
+			"positive": 1,
+			"negative": 0
+		},
+		"原因": {
+			"positive": 1,
+			"negative": 0
+		},
+		"算": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相對": {
+			"positive": 1,
+			"negative": 0
+		},
+		"以": {
+			"positive": 1,
+			"negative": 0
+		},
+		"就是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"優": {
+			"positive": 1,
+			"negative": 0
+		},
+		"電池容量": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還": {
+			"positive": 1,
+			"negative": 0
+		},
+		"耗電量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"測": {
+			"positive": 0,
+			"negative": 1
+		},
+		"在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"真的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"方便": {
+			"positive": 1,
+			"negative": 0
+		},
+		"家": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有力": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"效率": {
+			"positive": 1,
+			"negative": 0
+		},
+		"無敵": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不佳": {
+			"positive": 0,
+			"negative": 1
+		},
+		"容量": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好": {
+			"positive": 0,
+			"negative": 1
+		},
+		"超級": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很爛": {
+			"positive": 0,
+			"negative": 1
+		},
+		"速度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"到": {
+			"positive": 0,
+			"negative": 1
+		},
+		"了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"出來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"續航力": {
+			"positive": 1,
+			"negative": 0
+		},
+		"變": {
+			"positive": 1,
+			"negative": 0
+		},
+		"待機時間": {
+			"positive": 1,
+			"negative": 0
+		},
+		"少": {
+			"positive": 0,
+			"negative": 1
+		},
+		"充": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"容易": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"表現": {
+			"positive": 1,
+			"negative": 0
+		},
+		"快": {
+			"positive": 0,
+			"negative": 1
+		},
+		"HTC": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"顯示": {
+			"positive": 0,
+			"negative": 1
+		},
+		"電池續航力": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"過": {
+			"positive": 0,
+			"negative": 1
+		},
+		"ok": {
+			"positive": 1,
+			"negative": 0
+		},
+		"膨脹": {
+			"positive": 0,
+			"negative": 1
+		},
+		"來看": {
+			"positive": 1,
+			"negative": 0
+		},
+		" ": {
+			"positive": 1,
+			"negative": 0
+		},
+		"2525mAh": {
+			"positive": 1,
+			"negative": 0
+		},
+		"V10": {
+			"positive": 0,
+			"negative": 1
+		},
+		"高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒問題": {
+			"positive": 1,
+			"negative": 0
+		},
+		"蠻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"R7S": {
+			"positive": 1,
+			"negative": 0
+		},
+		"其中": {
+			"positive": 1,
+			"negative": 0
+		},
+		"使用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"強大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"選擇": {
+			"positive": 1,
+			"negative": 0
+		},
+		"長": {
+			"positive": 1,
+			"negative": 0
+		},
+		"噴": {
+			"positive": 0,
+			"negative": 1
+		}
+	},
+	"螢幕觸控": {
+		"最": {
+			"positive": 1,
+			"negative": 0
+		},
+		"會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"失效": {
+			"positive": 0,
+			"negative": 1
+		},
+		"某些": {
+			"positive": 0,
+			"negative": 1
+		},
+		"touch": {
+			"positive": 0,
+			"negative": 1
+		},
+		"為": {
+			"positive": 1,
+			"negative": 0
+		},
+		" ": {
+			"positive": 0,
+			"negative": 1
+		},
+		"突然": {
+			"positive": 0,
+			"negative": 1
+		},
+		"靈敏": {
+			"positive": 1,
+			"negative": 0
+		},
+		"下": {
+			"positive": 0,
+			"negative": 1
+		},
+		"之一": {
+			"positive": 1,
+			"negative": 0
+		},
+		"認": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好像": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"狀況": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"流暢": {
+			"positive": 1,
+			"negative": 0
+		},
+		"觸控": {
+			"positive": 1,
+			"negative": 0
+		},
+		"反應": {
+			"positive": 1,
+			"negative": 0
+		},
+		"我": {
+			"positive": 1,
+			"negative": 0
+		},
+		"非常": {
+			"positive": 1,
+			"negative": 0
+		},
+		"功能": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"音量": {
+		"功率": {
+			"positive": 0,
+			"negative": 1
+		},
+		"比": {
+			"positive": 0,
+			"negative": 1
+		},
+		"夠": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"起來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"喇叭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"理想": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"弱": {
+			"positive": 0,
+			"negative": 1
+		},
+		"較": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"現場": {
+			"positive": 0,
+			"negative": 1
+		},
+		"內建": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在家": {
+			"positive": 1,
+			"negative": 0
+		},
+		"以往": {
+			"positive": 0,
+			"negative": 1
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"普通": {
+			"positive": 0,
+			"negative": 1
+		},
+		"外放": {
+			"positive": 0,
+			"negative": 1
+		},
+		"為": {
+			"positive": 1,
+			"negative": 0
+		},
+		"效果": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聲音": {
+			"positive": 0,
+			"negative": 1
+		},
+		"透過": {
+			"positive": 1,
+			"negative": 0
+		},
+		"前置雙喇叭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"似乎": {
+			"positive": 0,
+			"negative": 1
+		},
+		"觀賞": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不": {
+			"positive": 0,
+			"negative": 1
+		},
+		"裡": {
+			"positive": 1,
+			"negative": 0
+		},
+		"太小": {
+			"positive": 0,
+			"negative": 1
+		},
+		"輸出": {
+			"positive": 0,
+			"negative": 1
+		},
+		"或": {
+			"positive": 1,
+			"negative": 0
+		},
+		"快門": {
+			"positive": 0,
+			"negative": 1
+		},
+		"耳機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"感": {
+			"positive": 1,
+			"negative": 0
+		},
+		"喇叭音量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"爽度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"影": {
+			"positive": 1,
+			"negative": 0
+		},
+		"聽音樂": {
+			"positive": 1,
+			"negative": 0
+		},
+		"增加": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"試聽": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"鈴聲": {
+			"positive": 0,
+			"negative": 1
+		},
+		"小": {
+			"positive": 0,
+			"negative": 1
+		},
+		"聽筒": {
+			"positive": 0,
+			"negative": 1
+		},
+		"G4": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"音量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"環繞": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"老人家": {
+			"positive": 0,
+			"negative": 1
+		},
+		"對": {
+			"positive": 0,
+			"negative": 1
+		},
+		"可能": {
+			"positive": 0,
+			"negative": 1
+		},
+		"體驗": {
+			"positive": 1,
+			"negative": 0
+		},
+		"片時": {
+			"positive": 1,
+			"negative": 0
+		},
+		"過": {
+			"positive": 0,
+			"negative": 1
+		},
+		"來說": {
+			"positive": 0,
+			"negative": 1
+		},
+		"品質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"響亮": {
+			"positive": 1,
+			"negative": 0
+		},
+		"跟": {
+			"positive": 0,
+			"negative": 1
+		},
+		"看": {
+			"positive": 1,
+			"negative": 0
+		},
+		"室內": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大小": {
+			"positive": 0,
+			"negative": 1
+		},
+		"明顯": {
+			"positive": 0,
+			"negative": 1
+		},
+		"、": {
+			"positive": 1,
+			"negative": 0
+		},
+		"甚": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一樣": {
+			"positive": 0,
+			"negative": 1
+		},
+		"照相": {
+			"positive": 0,
+			"negative": 1
+		}
+	},
+	"換電池": {
+		"時": {
+			"positive": 0,
+			"negative": 1
+		},
+		"可換電池": {
+			"positive": 1,
+			"negative": 0
+		},
+		"背蓋": {
+			"positive": 0,
+			"negative": 1
+		},
+		"好像": {
+			"positive": 0,
+			"negative": 1
+		},
+		"好用": {
+			"positive": 0,
+			"negative": 1
+		},
+		"很": {
+			"positive": 0,
+			"negative": 1
+		},
+		"換電池": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不是": {
+			"positive": 0,
+			"negative": 1
+		}
+	},
+	"機身發熱": {
+		"宣稱": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"導致": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"安兔兔": {
+			"positive": 1,
+			"negative": 0
+		},
+		"散熱": {
+			"positive": 1,
+			"negative": 0
+		},
+		"中": {
+			"positive": 1,
+			"negative": 0
+		},
+		"確實": {
+			"positive": 1,
+			"negative": 0
+		},
+		"當機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"測試": {
+			"positive": 1,
+			"negative": 0
+		},
+		"度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"顆": {
+			"positive": 1,
+			"negative": 0
+		},
+		"處理": {
+			"positive": 1,
+			"negative": 0
+		},
+		"變化": {
+			"positive": 1,
+			"negative": 0
+		},
+		"得": {
+			"positive": 1,
+			"negative": 0
+		},
+		"這": {
+			"positive": 1,
+			"negative": 0
+		},
+		"CPU": {
+			"positive": 0,
+			"negative": 1
+		},
+		"處理器": {
+			"positive": 1,
+			"negative": 0
+		},
+		".": {
+			"positive": 2,
+			"negative": 0
+		},
+		"優化": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最低": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"2": {
+			"positive": 1,
+			"negative": 0
+		},
+		"5": {
+			"positive": 2,
+			"negative": 0
+		},
+		"遊戲": {
+			"positive": 0,
+			"negative": 1
+		},
+		"6": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"溫度控制": {
+			"positive": 1,
+			"negative": 0
+		},
+		"溫度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"穩定性": {
+			"positive": 1,
+			"negative": 0
+		},
+		"會": {
+			"positive": 1,
+			"negative": 0
+		},
+		"Snapdragon801": {
+			"positive": 1,
+			"negative": 0
+		},
+		"華為": {
+			"positive": 1,
+			"negative": 0
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"達到": {
+			"positive": 1,
+			"negative": 0
+		},
+		"過熱": {
+			"positive": 0,
+			"negative": 1
+		},
+		"少": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"只有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"容易": {
+			"positive": 0,
+			"negative": 1
+		},
+		"顯見": {
+			"positive": 1,
+			"negative": 0
+		},
+		"機身": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相差": {
+			"positive": 1,
+			"negative": 0
+		},
+		"38": {
+			"positive": 1,
+			"negative": 0
+		},
+		"期間": {
+			"positive": 1,
+			"negative": 0
+		},
+		"31": {
+			"positive": 1,
+			"negative": 0
+		},
+		"高": {
+			"positive": 0,
+			"negative": 1
+		},
+		"而已": {
+			"positive": 1,
+			"negative": 0
+		},
+		"做": {
+			"positive": 1,
+			"negative": 0
+		},
+		"、": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一般": {
+			"positive": 1,
+			"negative": 0
+		},
+		"成效": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"雙卡雙待": {
+		"雙卡雙待": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"體積重量": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"它": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大": {
+			"positive": 0,
+			"negative": 1
+		},
+		"厚重": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"喜歡": {
+			"positive": 1,
+			"negative": 0
+		},
+		"將": {
+			"positive": 1,
+			"negative": 0
+		},
+		"出乎": {
+			"positive": 1,
+			"negative": 0
+		},
+		"機子": {
+			"positive": 1,
+			"negative": 0
+		},
+		"X": {
+			"positive": 1,
+			"negative": 0
+		},
+		"比較": {
+			"positive": 0,
+			"negative": 1
+		},
+		"看起來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"輕": {
+			"positive": 1,
+			"negative": 0
+		},
+		"尺寸": {
+			"positive": 0,
+			"negative": 1
+		},
+		"而": {
+			"positive": 1,
+			"negative": 0
+		},
+		")": {
+			"positive": 0,
+			"negative": 1
+		},
+		"(": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還": {
+			"positive": 1,
+			"negative": 0
+		},
+		"想像": {
+			"positive": 1,
+			"negative": 0
+		},
+		".": {
+			"positive": 1,
+			"negative": 0
+		},
+		"由於": {
+			"positive": 0,
+			"negative": 1
+		},
+		"在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"上": {
+			"positive": 1,
+			"negative": 0
+		},
+		"6": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 0,
+			"negative": 1
+		},
+		"喜愛": {
+			"positive": 1,
+			"negative": 0
+		},
+		"紮實": {
+			"positive": 1,
+			"negative": 0
+		},
+		"重量": {
+			"positive": 0,
+			"negative": 1
+		},
+		"一": {
+			"positive": 1,
+			"negative": 0
+		},
+		"困難": {
+			"positive": 0,
+			"negative": 1
+		},
+		"對於": {
+			"positive": 1,
+			"negative": 0
+		},
+		"吸引力": {
+			"positive": 1,
+			"negative": 0
+		},
+		"8g": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"加": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感覺": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"厚度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"小": {
+			"positive": 1,
+			"negative": 0
+		},
+		"是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"只有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"偏重": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"外型": {
+			"positive": 1,
+			"negative": 0
+		},
+		"要": {
+			"positive": 0,
+			"negative": 1
+		},
+		"機身": {
+			"positive": 0,
+			"negative": 1
+		},
+		"，": {
+			"positive": 0,
+			"negative": 1
+		},
+		"13": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 0,
+			"negative": 1
+		},
+		"給": {
+			"positive": 1,
+			"negative": 0
+		},
+		"19": {
+			"positive": 0,
+			"negative": 2
+		},
+		"輕薄": {
+			"positive": 1,
+			"negative": 0
+		},
+		"來說": {
+			"positive": 1,
+			"negative": 0
+		},
+		"蠻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"設計": {
+			"positive": 1,
+			"negative": 0
+		},
+		"而且": {
+			"positive": 0,
+			"negative": 1
+		},
+		"2g": {
+			"positive": 0,
+			"negative": 2
+		},
+		"壓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"單手操作": {
+			"positive": 0,
+			"negative": 1
+		},
+		"、": {
+			"positive": 1,
+			"negative": 0
+		},
+		"厚": {
+			"positive": 0,
+			"negative": 1
+		},
+		"人": {
+			"positive": 1,
+			"negative": 0
+		},
+		"9mm": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很薄": {
+			"positive": 1,
+			"negative": 0
+		}
+	},
+	"防手震": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"光學防震": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 0,
+			"negative": 1
+		},
+		"的": {
+			"positive": 0,
+			"negative": 1
+		},
+		"甚至": {
+			"positive": 1,
+			"negative": 0
+		},
+		"新機": {
+			"positive": 0,
+			"negative": 1
+		},
+		"精進": {
+			"positive": 1,
+			"negative": 0
+		},
+		"了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"RAW": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"可惜": {
+			"positive": 0,
+			"negative": 1
+		},
+		"現在": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"拍照功能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"後續": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有沒有": {
+			"positive": 0,
+			"negative": 1
+		},
+		"，": {
+			"positive": 1,
+			"negative": 0
+		},
+		"檔": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍": {
+			"positive": 1,
+			"negative": 0
+		},
+		"光學防手震": {
+			"positive": 1,
+			"negative": 0
+		},
+		"已經": {
+			"positive": 1,
+			"negative": 0
+		},
+		"跟": {
+			"positive": 1,
+			"negative": 0
+		},
+		"加入": {
+			"positive": 0,
+			"negative": 1
+		}
+	},
+	"拍照攝影": {
+		"有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"尤其": {
+			"positive": 0,
+			"negative": 1
+		},
+		"喜": {
+			"positive": 1,
+			"negative": 0
+		},
+		"可以": {
+			"positive": 1,
+			"negative": 0
+		},
+		"模式": {
+			"positive": 0,
+			"negative": 1
+		},
+		"錄影功能": {
+			"positive": 0,
+			"negative": 1
+		},
+		"會": {
+			"positive": 0,
+			"negative": 1
+		},
+		"圖片庫": {
+			"positive": 0,
+			"negative": 1
+		},
+		"測光": {
+			"positive": 0,
+			"negative": 1
+		},
+		"整體而言": {
+			"positive": 1,
+			"negative": 0
+		},
+		"與": {
+			"positive": 1,
+			"negative": 0
+		},
+		"水準": {
+			"positive": 1,
+			"negative": 0
+		},
+		"細部畫質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"耶": {
+			"positive": 1,
+			"negative": 0
+		},
+		"兩支": {
+			"positive": 1,
+			"negative": 0
+		},
+		"說": {
+			"positive": 1,
+			"negative": 0
+		},
+		" ": {
+			"positive": 3,
+			"negative": 1
+		},
+		"不穩定": {
+			"positive": 0,
+			"negative": 1
+		},
+		"似乎": {
+			"positive": 1,
+			"negative": 0
+		},
+		"優": {
+			"positive": 0,
+			"negative": 1
+		},
+		"這": {
+			"positive": 1,
+			"negative": 0
+		},
+		"清晰度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"色澤": {
+			"positive": 1,
+			"negative": 0
+		},
+		"在": {
+			"positive": 0,
+			"negative": 1
+		},
+		"方便": {
+			"positive": 1,
+			"negative": 0
+		},
+		"處": {
+			"positive": 1,
+			"negative": 0
+		},
+		"方面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"錄影": {
+			"positive": 0,
+			"negative": 1
+		},
+		"檔": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好像": {
+			"positive": 0,
+			"negative": 1
+		},
+		"目前": {
+			"positive": 1,
+			"negative": 0
+		},
+		"極光": {
+			"positive": 1,
+			"negative": 0
+		},
+		"高畫質": {
+			"positive": 1,
+			"negative": 0
+		},
+		"了": {
+			"positive": 1,
+			"negative": 0
+		},
+		"日拍": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不錯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"120": {
+			"positive": 0,
+			"negative": 1
+		},
+		"A9": {
+			"positive": 1,
+			"negative": 0
+		},
+		"皮膚": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍照功能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最強": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還有": {
+			"positive": 1,
+			"negative": 0
+		},
+		"SONY": {
+			"positive": 2,
+			"negative": 0
+		},
+		"濾鏡": {
+			"positive": 1,
+			"negative": 0
+		},
+		"最大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"分開": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不穩": {
+			"positive": 0,
+			"negative": 1
+		},
+		"雜訊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自拍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"比方": {
+			"positive": 1,
+			"negative": 0
+		},
+		"非常": {
+			"positive": 1,
+			"negative": 0
+		},
+		"Raw": {
+			"positive": 1,
+			"negative": 0
+		},
+		"近拍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"強大": {
+			"positive": 0,
+			"negative": 1
+		},
+		"夠": {
+			"positive": 0,
+			"negative": 1
+		},
+		"光": {
+			"positive": 1,
+			"negative": 0
+		},
+		"鮮明動人": {
+			"positive": 1,
+			"negative": 0
+		},
+		"大": {
+			"positive": 0,
+			"negative": 1
+		},
+		"能力": {
+			"positive": 1,
+			"negative": 0
+		},
+		"太": {
+			"positive": 0,
+			"negative": 1
+		},
+		"大部份": {
+			"positive": 1,
+			"negative": 0
+		},
+		"強": {
+			"positive": 1,
+			"negative": 0
+		},
+		"內黃": {
+			"positive": 0,
+			"negative": 1
+		},
+		"手動錄影": {
+			"positive": 0,
+			"negative": 1
+		},
+		"經過": {
+			"positive": 1,
+			"negative": 0
+		},
+		"確定": {
+			"positive": 0,
+			"negative": 1
+		},
+		"內": {
+			"positive": 0,
+			"negative": 1
+		},
+		"M9": {
+			"positive": 2,
+			"negative": 0
+		},
+		"加強": {
+			"positive": 0,
+			"negative": 1
+		},
+		"毫無疑問": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感光度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不行": {
+			"positive": 0,
+			"negative": 1
+		},
+		"相": {
+			"positive": 1,
+			"negative": 0
+		},
+		"+": {
+			"positive": 2,
+			"negative": 0
+		},
+		"且": {
+			"positive": 1,
+			"negative": 0
+		},
+		"照片": {
+			"positive": 0,
+			"negative": 1
+		},
+		"偏暗": {
+			"positive": 0,
+			"negative": 1
+		},
+		"下": {
+			"positive": 0,
+			"negative": 1
+		},
+		"不": {
+			"positive": 0,
+			"negative": 1
+		},
+		"外": {
+			"positive": 0,
+			"negative": 1
+		},
+		"三": {
+			"positive": 1,
+			"negative": 0
+		},
+		"兩款": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手動模式": {
+			"positive": 1,
+			"negative": 0
+		},
+		"Z5": {
+			"positive": 1,
+			"negative": 0
+		},
+		"素質": {
+			"positive": 1,
+			"negative": 0
+		},
+		"夢幻": {
+			"positive": 1,
+			"negative": 0
+		},
+		"穩": {
+			"positive": 0,
+			"negative": 1
+		},
+		"影像": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不過": {
+			"positive": 0,
+			"negative": 1
+		},
+		"白平衡": {
+			"positive": 0,
+			"negative": 1
+		},
+		"專業模式": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"沒有": {
+			"positive": 0,
+			"negative": 1
+		},
+		"G4": {
+			"positive": 1,
+			"negative": 0
+		},
+		"成": {
+			"positive": 1,
+			"negative": 0
+		},
+		"賣點": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感光": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不差": {
+			"positive": 1,
+			"negative": 0
+		},
+		"糊": {
+			"positive": 0,
+			"negative": 1
+		},
+		"廢": {
+			"positive": 0,
+			"negative": 1
+		},
+		"拍出來": {
+			"positive": 0,
+			"negative": 1
+		},
+		"進入": {
+			"positive": 0,
+			"negative": 1
+		},
+		"UHD": {
+			"positive": 1,
+			"negative": 0
+		},
+		"也": {
+			"positive": 1,
+			"negative": 0
+		},
+		"HTC": {
+			"positive": 1,
+			"negative": 0
+		},
+		"影像處理": {
+			"positive": 1,
+			"negative": 0
+		},
+		"十分": {
+			"positive": 1,
+			"negative": 0
+		},
+		"高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"太強大": {
+			"positive": 1,
+			"negative": 0
+		},
+		"品質": {
+			"positive": 1,
+			"negative": 0
+		},
+		"立體": {
+			"positive": 0,
+			"negative": 1
+		},
+		"鏡頭": {
+			"positive": 1,
+			"negative": 0
+		},
+		"設計": {
+			"positive": 1,
+			"negative": 0
+		},
+		"真的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"加入": {
+			"positive": 0,
+			"negative": 1
+		},
+		"風景": {
+			"positive": 0,
+			"negative": 1
+		},
+		"需": {
+			"positive": 0,
+			"negative": 1
+		},
+		"明顯": {
+			"positive": 1,
+			"negative": 0
+		},
+		"、": {
+			"positive": 0,
+			"negative": 1
+		},
+		"都": {
+			"positive": 1,
+			"negative": 0
+		},
+		"認證": {
+			"positive": 1,
+			"negative": 0
+		},
+		"後鏡": {
+			"positive": 1,
+			"negative": 0
+		},
+		"版": {
+			"positive": 1,
+			"negative": 0
+		},
+		"進步": {
+			"positive": 0,
+			"negative": 1
+		},
+		"變得": {
+			"positive": 1,
+			"negative": 0
+		},
+		"超": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很暗": {
+			"positive": 0,
+			"negative": 1
+		},
+		"表現": {
+			"positive": 1,
+			"negative": 0
+		},
+		"可": {
+			"positive": 1,
+			"negative": 0
+		},
+		"餐廳": {
+			"positive": 0,
+			"negative": 1
+		},
+		"照相手機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"立體感": {
+			"positive": 0,
+			"negative": 1
+		},
+		"夜景": {
+			"positive": 0,
+			"negative": 1
+		},
+		"比較": {
+			"positive": 0,
+			"negative": 1
+		},
+		"拍照介面": {
+			"positive": 1,
+			"negative": 0
+		},
+		"團隊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"室": {
+			"positive": 0,
+			"negative": 1
+		},
+		"差": {
+			"positive": 0,
+			"negative": 1
+		},
+		"內建的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"又": {
+			"positive": 1,
+			"negative": 0
+		},
+		"更勝一籌": {
+			"positive": 1,
+			"negative": 0
+		},
+		"手動": {
+			"positive": 0,
+			"negative": 1
+		},
+		"點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有點": {
+			"positive": 0,
+			"negative": 1
+		},
+		"吋": {
+			"positive": 1,
+			"negative": 0
+		},
+		"焦": {
+			"positive": 0,
+			"negative": 1
+		},
+		"討": {
+			"positive": 1,
+			"negative": 0
+		},
+		"很": {
+			"positive": 1,
+			"negative": 0
+		},
+		"不夠": {
+			"positive": 0,
+			"negative": 1
+		},
+		"或": {
+			"positive": 0,
+			"negative": 1
+		},
+		"後": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有FU": {
+			"positive": 1,
+			"negative": 0
+		},
+		"一樣": {
+			"positive": 1,
+			"negative": 0
+		},
+		"時": {
+			"positive": 0,
+			"negative": 1
+		},
+		"覺得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"算": {
+			"positive": 1,
+			"negative": 0
+		},
+		"操刀": {
+			"positive": 1,
+			"negative": 0
+		},
+		"感覺": {
+			"positive": 0,
+			"negative": 1
+		},
+		"點擊": {
+			"positive": 1,
+			"negative": 0
+		},
+		"影片": {
+			"positive": 1,
+			"negative": 0
+		},
+		"飽和度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"讓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對焦": {
+			"positive": 1,
+			"negative": 0
+		},
+		"獨立": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍攝": {
+			"positive": 1,
+			"negative": 0
+		},
+		"更上一層樓": {
+			"positive": 1,
+			"negative": 0
+		},
+		"讚": {
+			"positive": 1,
+			"negative": 0
+		},
+		"新": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好": {
+			"positive": 1,
+			"negative": 0
+		},
+		"還是": {
+			"positive": 0,
+			"negative": 1
+		},
+		"技術": {
+			"positive": 1,
+			"negative": 0
+		},
+		"照相": {
+			"positive": 1,
+			"negative": 0
+		},
+		"環境": {
+			"positive": 1,
+			"negative": 0
+		},
+		"錄製": {
+			"positive": 1,
+			"negative": 0
+		},
+		"跟": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相機": {
+			"positive": 1,
+			"negative": 0
+		},
+		"相機功能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"攝影": {
+			"positive": 1,
+			"negative": 0
+		},
+		"好用": {
+			"positive": 1,
+			"negative": 0
+		},
+		"功能": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自動模式": {
+			"positive": 0,
+			"negative": 1
+		},
+		"廣角": {
+			"positive": 0,
+			"negative": 1
+		},
+		"相機規格": {
+			"positive": 1,
+			"negative": 0
+		},
+		"顯得": {
+			"positive": 0,
+			"negative": 1
+		},
+		"低光源": {
+			"positive": 0,
+			"negative": 1
+		},
+		"體驗": {
+			"positive": 1,
+			"negative": 0
+		},
+		"的": {
+			"positive": 1,
+			"negative": 0
+		},
+		"仍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"更": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拍照": {
+			"positive": 0,
+			"negative": 1
+		},
+		"成像": {
+			"positive": 0,
+			"negative": 1
+		},
+		"畫質": {
+			"positive": 0,
+			"negative": 1
+		},
+		"輸出": {
+			"positive": 0,
+			"negative": 1
+		},
+		"市面上": {
+			"positive": 1,
+			"negative": 0
+		},
+		"效果": {
+			"positive": 1,
+			"negative": 0
+		},
+		"蠻": {
+			"positive": 0,
+			"negative": 1
+		},
+		"提高": {
+			"positive": 1,
+			"negative": 0
+		},
+		"拉近": {
+			"positive": 0,
+			"negative": 1
+		},
+		"還": {
+			"positive": 0,
+			"negative": 1
+		},
+		"色彩": {
+			"positive": 1,
+			"negative": 0
+		},
+		"美顏": {
+			"positive": 1,
+			"negative": 0
+		},
+		"1": {
+			"positive": 1,
+			"negative": 0
+		},
+		"看": {
+			"positive": 0,
+			"negative": 1
+		},
+		"網路上": {
+			"positive": 1,
+			"negative": 0
+		},
+		"和": {
+			"positive": 1,
+			"negative": 0
+		},
+		"延續": {
+			"positive": 1,
+			"negative": 0
+		},
+		"較": {
+			"positive": 1,
+			"negative": 0
+		},
+		"昏暗": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自動亮度": {
+			"positive": 0,
+			"negative": 1
+		},
+		"速度": {
+			"positive": 1,
+			"negative": 0
+		},
+		"到": {
+			"positive": 0,
+			"negative": 1
+		},
+		"線條": {
+			"positive": 0,
+			"negative": 1
+		},
+		"器": {
+			"positive": 1,
+			"negative": 0
+		},
+		"產品線": {
+			"positive": 1,
+			"negative": 0
+		},
+		"720P": {
+			"positive": 0,
+			"negative": 1
+		},
+		"感光元件": {
+			"positive": 1,
+			"negative": 0
+		},
+		"導入": {
+			"positive": 1,
+			"negative": 0
+		},
+		"由": {
+			"positive": 1,
+			"negative": 0
+		},
+		"是": {
+			"positive": 1,
+			"negative": 0
+		},
+		"對": {
+			"positive": 0,
+			"negative": 1
+		},
+		"4K": {
+			"positive": 1,
+			"negative": 0
+		},
+		"快": {
+			"positive": 1,
+			"negative": 0
+		},
+		"自家": {
+			"positive": 1,
+			"negative": 0
+		},
+		"仍然": {
+			"positive": 1,
+			"negative": 0
+		},
+		"，": {
+			"positive": 0,
+			"negative": 1
+		},
+		"短片": {
+			"positive": 0,
+			"negative": 1
+		},
+		"相當": {
+			"positive": 1,
+			"negative": 0
+		},
+		"夜拍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"拍": {
+			"positive": 0,
+			"negative": 1
+		},
+		"有提升": {
+			"positive": 1,
+			"negative": 0
+		},
+		"雖然": {
+			"positive": 0,
+			"negative": 1
+		},
+		"模糊": {
+			"positive": 0,
+			"negative": 1
+		},
+		"使用": {
+			"positive": 0,
+			"negative": 1
+		},
+		"空間": {
+			"positive": 0,
+			"negative": 1
+		},
+		"Leica": {
+			"positive": 1,
+			"negative": 0
+		},
+		"α": {
+			"positive": 1,
+			"negative": 0
+		},
+		"PanasonicCM1": {
+			"positive": 1,
+			"negative": 0
+		},
+		"戶外": {
+			"positive": 1,
+			"negative": 0
+		},
+		"低": {
+			"positive": 1,
+			"negative": 0
+		}
+	}
+}

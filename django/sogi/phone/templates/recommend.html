@@ -1,0 +1,144 @@
+<!doctype html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="">
+	<title>好點子智慧手機館-手機推薦</title>
+	<link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css" />
+	
+	<script src="{% static 'js/skel.min.js' %}"></script>
+	<script src="{% static 'js/init.min.js' %}"></script>
+	
+	<!-- 左邊浮動推薦 -->
+	<link rel="stylesheet" href="{% static 'css/normalize.css' %}">
+	<link rel="stylesheet" href="{% static 'css/main.css' %}">
+	<script src="{% static 'js/vendor/jquery-1.10.2.min.js' %}"></script>
+	<script src="{% static 'js/vendor/jquery-ui-1.10.3.custom.min.js' %}"></script>
+
+	<script type="text/javascript">
+		$(function(){
+    //
+    var duration = 300;
+
+    // aside ----------------------------------------
+    var $aside = $('.page-main > aside');
+    var $asidButton = $aside.find('button')
+        .on('click', function(){
+            $aside.toggleClass('open');
+            if($aside.hasClass('open')){
+                $aside.stop(true).animate({left: '-70px'}, duration, 'easeOutBack');
+                $asidButton.find('img').attr('src', "{% static 'img/btn_close.png' %}");
+            }else{
+                $aside.stop(true).animate({left: '-280px'}, duration, 'easeInBack');
+                $asidButton.find('img').attr('src', "{% static 'img/btn_open.png' %}");
+            };
+        });
+
+});
+
+	</script>
+
+	
+</head>
+<body>
+	<div id="header">
+		<a href="http://10.120.26.60:8000/phone">
+			<div id="logo"></div>
+		</a>
+	</div>
+	<div id="content">	
+		<div id="push">
+			<h2>族群推薦-->{{aspect}}</h2>
+			<div class="wrap">
+				<!-- <div class="section group"> -->
+					<div class="cont span_2_of_3">
+						<h2 class="head">高階手機</h2>
+						<div class="top-box">
+							{% for phone in finalHightLevelPhoneList %}
+							<div class="col_1_of_3 span_1_of_3">
+								<a href={{phone.url}}>
+									<div class="inner_content clearfix">
+										<div class="product_image">
+											<img src="{{phone.photo}}" alt=""/>
+										</div>
+										<div class="price">
+											<div class="cart-left">
+												<p class="title">{{phone.name}}</p>
+												<div class="price1">
+													<span class="actual">${{phone.priceCellphone}}</span>
+												</div>
+											</div>
+										<!-- <div class="cart-right"></div> -->
+									</div>				
+									</div>
+								</a>
+							</div>
+							{% endfor %}
+						</div>
+					</div>
+				<!-- </div> -->
+			</div>
+			
+			<div class="wrap">
+				<!-- <div class="section group"> -->
+					<div class="cont span_2_of_3">
+						<h2 class="head">中階手機</h2>
+						<div class="top-box">
+							{% for phone in finalMediumLevelPhoneList %}
+							<div class="col_1_of_3 span_1_of_3">
+								<a href={{phone.url}}>
+									<div class="inner_content clearfix">
+										<div class="product_image">
+											<img src="{{phone.photo}}" alt=""/>
+										</div>
+										<div class="price">
+											<div class="cart-left">
+												<p class="title">{{phone.name}}</p>
+												<div class="price1">
+													<span class="actual">${{phone.priceCellphone}}</span>
+												</div>
+											</div>
+										<!-- <div class="cart-right"></div> -->
+									</div>
+									</div>
+								</a>
+							</div>
+							{% endfor %}
+						</div>
+					</div>
+				<!-- </div> -->
+			</div>
+			
+		</div>
+	</div>
+	
+	<!-- 左側推薦 -->
+	<div class="page-main" role="main">
+		<aside>
+			<ul>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/business/"><img src="{% static 'img/business.jpg' %}" id="six1"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/camera/"><img src="{% static 'img/camera.jpg' %}" id="six2"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/game/"><img src="{% static 'img/game.jpg' %}" id="six3"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/money/"><img src="{% static 'img/money.jpg' %}" id="six4"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/music/"><img src="{% static 'img/music.jpg' %}" id="six5"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/shap/"><img src="{% static 'img/shap.jpg' %}" id="six6"/></a></div></li>
+			</ul>
+			<button><img src="{% static 'img/btn_open.png' %}"></button>
+		</aside>
+	</div>
+	
+	<!-- 收尋 -->
+	<div id="search">
+		<form class="searchform" action="http://10.120.26.60:8000/phone/phone_info" method="get">
+			<input type="text" class="searput" name="id" placeholder=" 輸入手機名稱...">
+			<button type="submit" class="searmit">
+				<img src="{% static 'img/bigphoto1.png' %}" id="bigphoto"/>
+			</button>
+		</form>
+	</div>
+	
+	<!-- 回主頁 -->
+</body>
+</html>
+<!--template.html-->

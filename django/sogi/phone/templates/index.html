@@ -1,0 +1,52 @@
+<!doctype html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="">
+	<title>好點子智慧手機館</title>
+	<link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+	<div id="header">
+		<div id="logo"></div>
+	</div>
+	<div id="search">
+		<form class="searchform" action="http://10.120.26.60:8000/phone/phone_info" method="get">
+			<input type="text" class="searput" name="id" placeholder=" 輸入手機名稱...">
+			<button type="submit" class="searmit">
+				<img src="{% static 'img/bigphoto1.png' %}" id="bigphoto"/>
+			</button>
+		</form>
+	</div>
+	<div id="content">	
+      <div class="circle">
+      	<a href="http://10.120.26.60:8000/phone/recommend/business/"><img src="{% static 'img/business.jpg' %}"></a>
+          <h2>業務機</h2>
+      </div>
+		<div class="circle">
+      	<a href="http://10.120.26.60:8000/phone/recommend/camera"><img src="{% static 'img/camera.jpg' %}"></a>
+          <h2>愛拍照</h2>
+      </div>
+      <div class="circle">
+      	<a href="http://10.120.26.60:8000/phone/recommend/game"><img src="{% static 'img/game.jpg' %}"></a>
+          <h2>手遊族</h2>
+      </div>
+      <div class="circle">
+      	<a href="http://10.120.26.60:8000/phone/recommend/money"><img src="{% static 'img/money.jpg' %}"></a>
+          <h2>小資族</h2>
+      </div>
+      <div class="circle">
+      	<a href="http://10.120.26.60:8000/phone/recommend/music"><img src="{% static 'img/music.jpg' %}"></a>
+          <h2>愛音樂</h2>               
+      </div>   
+		<div class="circle">
+      	<a href="http://10.120.26.60:8000/phone/recommend/shap"><img src="{% static 'img/shap.jpg' %}"></a>
+          <h2>重外型</h2>               
+      </div> 
+     </div>
+	
+</body>
+</html>
+<!--template.html-->

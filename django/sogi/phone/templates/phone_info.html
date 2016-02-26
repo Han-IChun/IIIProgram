@@ -1,0 +1,381 @@
+<!doctype html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="">
+	<title>好點子智慧手機館</title>
+	<link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css" />
+	
+	<script src="{% static 'js/echarts.js' %}"></script>
+	<script src="{% static 'js/jquery.min.js' %}"></script>
+	<link rel="stylesheet" href="{% static 'css/graph.css' %}" />
+	
+	
+	<script src="https://sites.google.com/site/bioankeyang/study/javascript/d3/d3.js"></script>
+	<script src="https://sites.google.com/site/bioankeyang/study/javascript/d3/d3.layout.cloud.js"></script>
+
+	<!-- 左邊浮動推薦 -->
+	<link rel="stylesheet" href="{% static 'css/normalize.css' %}">
+	<link rel="stylesheet" href="{% static 'css/main.css' %}">
+	<script src="{% static 'js/vendor/jquery-1.10.2.min.js' %}"></script>
+	<script src="{% static 'js/vendor/jquery-ui-1.10.3.custom.min.js' %}"></script>
+
+
+	
+
+	
+</head>
+<body>
+	<div id="header">
+		<a href="http://10.120.26.60:8000/phone">
+			<div id="logo"></div>
+		</a>
+	</div>
+	<div id="content">	
+		<div id="single">
+			<h2>單機頁面-->{{info.name}}</h2>
+			<div class="wrap">
+				<div class="top-box">
+					<div class="col_1_of_3 span_1_of_3">
+						<div class="product_image">
+							<img src="{{info.photo}}"  alt=""/>
+						</div>
+						<div class="price">
+							<div class="cart-left">
+								<p class="title">{{info.name}}</p>
+								<div class="price1">
+									<span class="actual">${{info.priceCellphone}}</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="longpic" style="width:1050px; height:400px;">
+			</div>
+				<script type="text/javascript">
+					var myChart=echarts.init(document.getElementById('longpic'));
+
+						option = {
+							tooltip : {
+								trigger: 'axis',
+								padding:10,
+							},
+							
+							
+							
+							grid: {
+								left: '2%',
+								right: '8%',
+								bottom: '1%',
+								containLabel: true
+							},
+							xAxis : [
+								{
+									name:'百分比(%)',
+									type : 'value',
+									boundaryGap : [0, 0.05]
+								}
+							],
+							yAxis : [
+								{
+									name:'各項分類',
+									type : 'category',
+									data : [
+									{
+										value:'硬體',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'遊戲',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'相機',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'電量',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'價錢',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'音樂',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'外型',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									{
+										value:'系統',
+											textStyle: {
+												fontSize: 16,
+												color: 'black'
+											}
+									},
+									],
+									
+								}
+							],
+							series : [
+								{
+									type:'bar',
+									data:[{{aspectScore.hardware}}, {{aspectScore.game}}, {{aspectScore.camera}}, {{aspectScore.battery}}, {{aspectScore.price}}, {{aspectScore.audio}},{{aspectScore.shape}},{{aspectScore.system}}],
+								},
+							
+								
+							]};
+							
+							
+						myChart.setOption(option);
+				</script>
+		</div>
+		<div id="page">
+			<div id="gerbage"></div>
+			<ul class="tabs">
+					<li>
+					<input type="radio" name="tabs" id="tab1" checked />
+					<label for="tab1" class="label1">評價</label>
+					<div id="tab-contentl" class="tab-content">
+						<div id="good">
+						<script>
+							(function() {
+								var fill = d3.scale.category20();
+								//要顯示於標籤雲的資料內容，為一個JSON物件的陣列
+								var data = [
+									{% for i in tagsList %}
+									{
+										text : "{{ i.tag }}",
+										size : {{ i.count }},
+										url :'{{ i.tag }}'
+									},
+									{% endfor %}
+									];
+								d3.layout.cloud().size([ 400, 400 ]).words(data).padding(3).rotate(
+									0).rotate(function() {return ~~(Math.random()*2 )*60; } )
+									.font('"微軟正黑體",Impact').fontSize(function(d) {
+									return d.size;
+								}).on("end", draw).start();
+								
+								function draw(words) {
+									output = ""
+									d3.select("#good") //要插入標籤雲的tag id
+									.append("svg").attr("width", 500).attr("height", 620)
+									.append("g").attr("transform", "translate(250,300)") //這裡的值要對應到繪圖區域的寬、高的一半，針對不同的瀏覽器要設可以使用的值，如Chrome為-webkit-transform
+									.selectAll("text").data(words).enter().append("text")
+									.style("font-size", function(d) {
+										return d.size + "px";
+										})
+									.style("font-family", '"微軟正黑體",Arial')
+									.style("cursor", 'pointer')//當滑鼠移上去時，變換cursor
+									.style("fill", function(d, i) {
+									return fill(i);
+									}).attr("text-anchor", "middle")
+									.attr("transform",//跟上面的transform一樣，需依不同的瀏覽器設定對應的值
+										function(d) {
+										return "translate(" + [ d.x, d.y ] + ")rotate(" + d.rotate + ")";
+										d.rotate+ ")";
+										})
+									.text(function(d) {
+									return d.text;
+									}).on('click', function(d) {//點按文字後，開啟超連結
+										$("#other").attr("src","other?tagAndId="+d.url+"/{{info.name}}");
+										d3.selectAll("text").attr("fill-opacity","0.6");
+										d3.select(this).attr("fill-opacity","1")
+									});
+								}
+								}());
+							</script>
+						</div>
+						<iframe	id="other" src=""></iframe>
+					</div>
+				</li>
+					<li>
+					<input type="radio" name="tabs" id="tab2" checked />
+					<label for="tab2" class="label2">推薦</label>
+					<div id="tab-content2" class="tab-content">
+						<!-- <div class="top-box"> -->
+							{% for i in returnCosinSimilaritySortedList %}
+							<div class="col_1_of_3 span_1_of_3">
+								<a href={{i.url}}>
+									<div class="inner_content clearfix">
+										<div class="product_image">
+											<img src={{i.photo}} alt=""/>
+										</div>
+										<div class="price">
+											<div class="cart-left">
+												<p class="title">{{i.name}}</p>
+												<div class="price1">
+													<span class="actual">${{i.price}}</span>
+												</div>
+											</div>
+										<div class="cart-right"></div>
+									</div>				
+									</div>
+								</a>
+							</div>
+							{% endfor %}
+						<!-- </div> -->
+					</div>
+				</li>
+					<li>
+					<input type="radio" name="tabs" id="tab3" checked />
+					<label for="tab3" class="label3">規格</label>
+					<div id="tab-content3" class="tab-content">
+						<table class="onetable" border="1">
+							<tr>
+								<th>功能</th>
+								<th>內容</th>
+							</tr>
+							{% for key,value in spec.items %}
+							<tr>
+								<th>{{key}}</th>
+								<th>{{value}}</th>
+							</tr>
+							{% endfor %}
+						</table>
+					</div>
+				</li>
+					<li>
+					<input type="radio" name="tabs" id="tab4" checked />
+					<label for="tab4" class="label4">正向百分比分佈圖</label>
+					<div id="tab-content4" class="tab-content">
+						<div id="ttprecent">
+							<ul>
+								<div id="precent">
+									<div id="precentL">
+										各項分類:
+									</div>
+									<div id="precentR">
+										<li id="system">系統</li>
+										<li id="shape">外型</li>
+										<li id="audio">音樂</li>
+										<li id="price">價錢</li>
+										<li id="battery">電量</li>
+										<li id="camera">相機</li>
+										<li id="game">遊戲</li>
+										<li id="hardware">硬體</li>
+									</div>
+								</div>
+							</ul>
+						</div>
+
+						<iframe	id="precentbox" src=""></iframe>
+
+						<script>
+							$(document).ready(function(){
+								$("#system").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=system/{{info.name}}");
+										});
+								$("#shape").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=shape/{{info.name}}");
+										});
+								$("#audio").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=audio/{{info.name}}");
+										});
+								$("#price").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=price/{{info.name}}");
+										});
+								$("#battery").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=battery/{{info.name}}");
+										});
+								$("#camera").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=camera/{{info.name}}");
+										});
+								$("#game").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=game/{{info.name}}");
+										});
+								$("#hardware").click(function(d) {//點按文字後，開啟超連結
+											$("#precentbox").attr("src","percent?aspAndId=hardware/{{info.name}}");
+										});
+							});
+						</script>
+					</div>
+
+				</li>
+			</ul>
+		</div>
+	<script type="text/javascript">
+		$(function(){
+    //
+    var duration = 300;
+
+    // aside ----------------------------------------
+    var $aside = $('.page-main > aside');
+    var $asidButton = $aside.find('button')
+        .on('click', function(){
+            $aside.toggleClass('open');
+            if($aside.hasClass('open')){
+                $aside.stop(true).animate({left: '-70px'}, duration, 'easeOutBack');
+                $asidButton.find('img').attr('src', "{% static 'img/btn_close.png' %}");
+            }else{
+                $aside.stop(true).animate({left: '-280px'}, duration, 'easeInBack');
+                $asidButton.find('img').attr('src', "{% static 'img/btn_open.png' %}");
+            };
+        });
+
+});
+
+	</script>
+	</div>
+
+	<!-- 左側推薦 -->
+	<div class="page-main" role="main">
+		<aside>
+			<ul>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/business/"><img src="{% static 'img/business.jpg' %}" id="six1"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/camera/"><img src="{% static 'img/camera.jpg' %}" id="six2"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/game/"><img src="{% static 'img/game.jpg' %}" id="six3"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/money/"><img src="{% static 'img/money.jpg' %}" id="six4"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/music/"><img src="{% static 'img/music.jpg' %}" id="six5"/></a></div></li>
+				<li><div class="circle1"><a href="http://10.120.26.60:8000/phone/recommend/shap/"><img src="{% static 'img/shap.jpg' %}" id="six6"/></a></div></li>
+			</ul>
+			<button><img src="{% static 'img/btn_open.png' %}"></button>
+		</aside>
+	</div>
+	
+	
+	<div id="search">
+		<form class="searchform" action="http://10.120.26.60:8000/phone/phone_info" method="get">
+			<input type="text" class="searput" name="id" placeholder=" 輸入手機名稱...">
+			<button type="submit" class="searmit">
+				<img src="{% static 'img/bigphoto1.png' %}" id="bigphoto"/>
+			</button>
+		</form>
+	</div>
+	
+	
+	<!-- <div class="home">
+		<a href="index.html">
+			<img src="img/button.png" />
+		</a>
+	</div> -->
+</body>
+</html>
+<!--template.html-->

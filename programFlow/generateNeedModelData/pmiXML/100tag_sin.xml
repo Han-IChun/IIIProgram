@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sentences>
+	<sentence polarity="positive">
+		<text>A9支援光學防手震 光源充足時隨手拍還蠻穩的 然而室內的時候還是會容易晃到 至於夜拍目前還沒時間測</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="防手震" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>iphone6 只有數位後處理防手震</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="防手震" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>其實我個人也常有遇到聲音忽大呼小的問題</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>可是玩的遊戲都還沒有問題說</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>除了電量不夠之外沒什麼問題</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>剛剛用e9 試試加上螢幕錄影感覺還是很順</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>不到2個月手機開始出現觸控失靈 發熱 通話不穩問題</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="螢幕觸控" />
+			<aspectCategory polarity="negative" term="機身發熱" />
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>今天發現電子羅盤好像有問題 轉一轉會當掉 方向就不變了</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>用m8拍小孩也比較不會糊</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>M7夜拍高反差場景 比較容易有過曝的問題</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>高通s810用久手機容易發燙</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="機身發熱" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>我蝴蝶2更新5.0以後也是變充電超慢</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>E9 充電超慢 就算沒快充至少也來個2A吧</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>我最重視的其實是耗電 目前htc在賣的手機應該是M8的待機時間最久 而且還可以支援快速充電.</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相對起來Eye或是820的電池容量小 似乎待機時間沒那樣長</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>唯獨續航力不太夠</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>我看我朋友有開一般的 省電模式  遊戲依然可以正常執行 在速度上沒有任何異狀...</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>它是我目前唯一用4G還可以讓我正常使用兩天不充電的機種</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>聽筒的喇叭撥音樂沒有聲音 接聽電話也沒有聲音</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="軟體問題" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>小弟目前正在用一代的蝴蝶機 續航力已經差到拔掉插頭後持續使用不到３小時就要充電</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>另外續航力也不理想</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>還有一點是充電速度 這支只有1a...充滿要兩個多小時</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>一開始覺得不是很滿意電量跟發熱</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>省電是我使用上最直接又清楚的感受</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>指紋辨識跟防水防塵雖然不是讓人會發出驚嘆聲的功能 但確實很實用 而且S5的1 2.6吋感光元件面積也有增大</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>sony的感光元件開發能力最好</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>首先我個人是特別推薦它的前鏡頭 提升到5百萬畫素 畫素的細膩以及感光程度是我目前用過所有手機裡面最好的</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="自拍" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>整體來說 我甚至還認為當初htc使用up感光原件是失策</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>不單是畫質 更重要的是 感光元件形式不同而產生的特殊質感</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8贏蝴蝶自拍有廣角 夜拍感光較佳 前置雙喇叭比蝴蝶大聲</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="自拍" />
+			<aspectCategory polarity="positive" term="拍照攝影" />
+			<aspectCategory polarity="positive" term="音量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>說到底可換電池的手機就是比不可換的彈性更高 在很多狀況下會更有選擇</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="換電池" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電池容量卻連3000mAh都不到</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>智慧型手機本身電池續航力本身就不佳</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>到現在電池還是頭好壯壯</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>漂亮 沒想到2150的電池這麼威</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>在外時可換電池不用慢慢回充</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="換電池" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8 是我用過手機裡面CP值最高的</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>但蝴蝶的CP值真的很高</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>手機性價比一直不甚理想</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>另外親民價格 CP值數一數二....</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="價位" />
+			<aspectCategory polarity="positive" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>外觀有嚴重瑕疵</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>HTC Sense 6 操作界面 呈現更加簡潔俐落視覺風格</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>右下角耳機孔外觀明顯凹痕</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8的外型好看多了吧</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>個人覺得比較遺憾的是指紋辨識破壞了外型</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>應該是因為金屬殼跟圓弧的外型拿起來很順手吧</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>畢竟外型有點讓人止步</text>
+		<aspectCategories>
+			<aspectCategory polarity="" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這種外觀看起來塑膠感才不會那麼重</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>一開始是被超高質感的外型吸引 家人也有用i6  放一起比較 m9 美多了</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>整體外觀很完美</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>可惜沒有雙卡設計</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="雙卡雙待" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M2開雙卡雙待與分享網路以及講電話 可以用15小時</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>雙卡雙待超方便</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="雙卡雙待" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>就喜歡上這種厚實的手感了 XD</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>機身時常溫熱 冷不下來</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="機身發熱" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8大小剛好 手感超棒</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>重點是用藍芽連接耳機聽音樂會跳針跟LAG..</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>說到手感它的弧度真的蠻好抓的</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>A7金屬機身重量輕</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8跟蝴蝶2算省電 重點是充電也快</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手感真是不錯 可以單手操作</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+			<aspectCategory polarity="positive" term="螢幕尺寸" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>沒事默默陽極氧化鋁材質 握握扎實的機身 真的會有塑膠手機無法提供的爽感</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="體積重量" />
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>我的M7就很差  早上八點輕量使用到下午五點就差不多沒電了.</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="續航力" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這次 M9 極光版相機對焦令人驚豔</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="對焦" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>因為HTC特有的對焦測光連動 它牌沒有</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="對焦" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>對焦及快門感覺更順更快 照片細節不錯 前鏡頭廣角很爽 濾鏡及事後修改功能多</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="自拍" />
+			<aspectCategory polarity="positive" term="對焦" />
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>事後對焦和特殊手機皮套都很有創意</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>後續可點選任意位置來進行再對焦 達到先拍照後對焦的效果 景深照片DIY輕輕鬆鬆...</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>光源不足的狀況下 M9 極光版的對焦速度會慢很多..甚至比S6還慢...</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="對焦" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>高通雖然熱 但穩定度讓人放心</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="機身發熱" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>有就說 啊 真的有過熱問題耶</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="機身發熱" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>我的816也有熱點分享斷訊問題 會變完全沒有訊號 需要重新開機 這情況幾乎快要天天一次了</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>高通  s810 過熱....要降頻跑</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="機身發熱" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>位置剛好是拇指可以操作 觸控時最常用的指頭單手雙手都好操作</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>多了可以插卡擴充的功能當然很好啊</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="記憶體擴充" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>牽手用白蝴蝶2 我則使用灰M8 使用上一切順利</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>那時候看到雙喇叭跟其他功能感覺很威風忍不住換了</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>就是因為連在Line裡面各個聊天室之間的轉換 FB捲動螢幕觀看最新訊息 或是用mobile01的APP掌握科技脈動 這麼單純的軟體操作都有那麼一點卡卡的感覺呀</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>各方面都是M8較強</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>Sense 7.0 UI調校優</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>畫質 顏色都比M7進步不少 還可以無限玩淺景深啊</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>推m9 現在的價格入手其實很棒 而且更新機會會比m8還要多</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="價位" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>同樣的價錢  硬體規格大耀進</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="性價比" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>這款雖然是3月份上市的 但價格一樣不便宜</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="價位" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>恭喜入手好手機 M8現在的價錢真便宜</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="價位" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8邊框金包金 背面裸機質感沒話說</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>灰色金屬拉絲真好看</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這次白平衡在黃光下自拍臉部色調不錯</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="自拍" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>專業相機再提升像素方面算都蠻謹慎的</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>背面的兩個相機鏡頭都有開孔 將手機放在桌面上時 也有保護鏡頭防止刮傷的作用</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>m8說真的 喇叭夠大聲 外型也超有質感 真的很心動</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>其實不得不說對於htc的照相系統及外型，算是市面上不錯的了</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="拍照攝影" />
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>記憶卡速度慢 壽命較短</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>速度快 螢幕漂亮 聲音美 造型也很美</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+			<aspectCategory polarity="positive" term="螢幕畫質" />
+			<aspectCategory polarity="positive" term="音質" />
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>音效 E9  完勝</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="negative">
+		<text>eye的音質比m8還悶</text>
+		<aspectCategories>
+			<aspectCategory polarity="negative" term="音質" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>操作手感 發現M8的處理效果真的很快 起碼比我上一支快了五倍以上 不論是操作上或是整體質感上 都有大幅度的提升</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+	<sentence polarity="positive">
+		<text>M8的質感 外型 整體操作流暢度還有相機都沒有讓我失望</text>
+		<aspectCategories>
+			<aspectCategory polarity="positive" term="操作經驗" />
+			<aspectCategory polarity="positive" term="設計質感" />
+		</aspectCategories>
+	</sentence>
+</sentences>

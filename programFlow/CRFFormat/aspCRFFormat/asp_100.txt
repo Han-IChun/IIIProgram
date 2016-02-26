@@ -1,0 +1,537 @@
+照片	n	F	照	片	Len<=2	B_A
+的	uj	F	的	的	Len<=2	I_A
+畫質	n	T	畫	質	Len<=2	E_A
+不錯	adj	F	不	錯	Len<=2	O
+
+電池蓋	n	T	電	蓋	Len>2	B_A
+的	uj	F	的	的	Len<=2	I_A
+設計	n	T	設	計	Len<=2	E_A
+真的	d	F	真	的	Len<=2	none
+很爛	a	F	很	爛	Len<=2	O
+
+面版	NA	F	面	版	Len<=2	B_A
+質感	n	T	質	感	Len<=2	E_A
+不錯	adj	F	不	錯	Len<=2	O
+
+CPU	NA	F	C	U	Len>2	A
+速度慢	n	F	速	慢	Len>2	O
+
+相機	n	T	相	機	Len<=2	B_A
+開	zg	F	開	開	Len<=2	I_A
+啟	NA	F	啟	啟	Len<=2	E_A
+超	v	F	超	超	Len<=2	none
+慢	adj	F	慢	慢	Len<=2	O
+無比	v	F	無	比	Len<=2	none
+
+內建	ns	F	內	建	Len<=2	B_A
+記憶體	n	T	記	體	Len>2	E_A
+少	adj	F	少	少	Len<=2	O
+得	ud	F	得	得	Len<=2	none
+可憐	v	F	可	憐	Len<=2	none
+
+撥電話	v	F	撥	話	Len>2	B_A
+的	uj	F	的	的	Len<=2	I_A
+操作介面	n	T	操	面	Len>2	E_A
+超	v	F	超	超	Len<=2	none
+智慧	nr	F	智	慧	Len<=2	O
+
+耗電量	n	T	耗	量	Len>2	A
+過	zg	F	過	過	Len<=2	none
+快	adj	F	快	快	Len<=2	O
+
+內建的	NA	F	內	的	Len>2	B_A
+軟體	n	F	軟	體	Len<=2	E_A
+已經	d	F	已	經	Len<=2	none
+很	zg	F	很	很	Len<=2	none
+豐富	a	F	豐	富	Len<=2	O
+
+這	r	F	這	這	Len<=2	none
+台	q	F	台	台	Len<=2	none
+機子	n	F	機	子	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+硬體效能	NA	F	硬	能	Len>2	A
+頗佳	v	F	頗	佳	Len<=2	O
+
+螢幕	n	T	螢	幕	Len<=2	A
+很棒	a	F	很	棒	Len<=2	O
+
+鈴聲	n	T	鈴	聲	Len<=2	B_A
+聲音	n	T	聲	音	Len<=2	E_A
+夠	zg	F	夠	夠	Len<=2	none
+響亮	a	F	響	亮	Len<=2	O
+
+鈴聲	n	T	鈴	聲	Len<=2	B_A
+大小	n	T	大	小	Len<=2	E_A
+普通	nz	F	普	通	Len<=2	O
+
+gps	NA	F	g	s	Len>2	B_A
+定位速度	n	T	定	度	Len>2	E_A
+蠻	d	F	蠻	蠻	Len<=2	none
+快	adj	F	快	快	Len<=2	O
+的	uj	F	的	的	Len<=2	none
+
+外型	n	T	外	型	Len<=2	A
+有	v	F	有	有	Len<=2	none
+質感	n	T	質	感	Len<=2	O
+
+穩定性	n	F	穩	性	Len>2	A
+還	d	F	還	還	Len<=2	none
+蠻	d	F	蠻	蠻	Len<=2	none
+好	adj	F	好	好	Len<=2	O
+的	uj	F	的	的	Len<=2	none
+
+相容性	l	F	相	性	Len>2	A
+很	zg	F	很	很	Len<=2	none
+好	adj	F	好	好	Len<=2	O
+
+1080P	NA	F	1	P	Len>2	none
+的	uj	F	的	的	Len<=2	none
+螢幕	n	T	螢	幕	Len<=2	A
+真的	d	F	真	的	Len<=2	none
+不是	c	F	不	是	Len<=2	B_O
+蓋	zg	F	蓋	蓋	Len<=2	I_O
+的	uj	F	的	的	Len<=2	E_O
+
+設計	n	T	設	計	Len<=2	A
+上	f	F	上	上	Len<=2	none
+很	zg	F	很	很	Len<=2	none
+有	v	F	有	有	Len<=2	none
+巧思	nr	F	巧	思	Len<=2	O
+
+超	v	F	超	超	Len<=2	none
+耗電	n	T	耗	電	Len<=2	O
+
+CP	NA	F	C	P	Len<=2	B_A
+值	n	F	值	值	Len<=2	E_A
+算	v	F	算	算	Len<=2	none
+高	adj	F	高	高	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+
+機身	n	T	機	身	Len<=2	B_A
+質感	n	T	質	感	Len<=2	E_A
+好	adj	F	好	好	Len<=2	none
+棒	adj	F	棒	棒	Len<=2	O
+
+設計	n	T	設	計	Len<=2	A
+還	d	F	還	還	Len<=2	none
+蠻	d	F	蠻	蠻	Len<=2	none
+有	v	F	有	有	Len<=2	none
+時尚	n	F	時	尚	Len<=2	B_O
+感	v	F	感	感	Len<=2	E_O
+的	uj	F	的	的	Len<=2	none
+
+螢幕	n	T	螢	幕	Len<=2	A
+漂亮	adj	F	漂	亮	Len<=2	O
+
+爆	v	F	爆	爆	Len<=2	none
+高	adj	F	高	高	Len<=2	O
+的	uj	F	的	的	Len<=2	none
+C	NA	F	C	C	Len<=2	B_A
+/	NA	F	/	/	Len<=2	I_A
+P	NA	F	P	P	Len<=2	I_A
+值	n	F	值	值	Len<=2	E_A
+
+錄影	n	T	錄	影	Len<=2	A
+好像	v	F	好	像	Len<=2	none
+使用	n	T	使	用	Len<=2	none
+720P	NA	F	7	P	Len>2	none
+會	zg	F	會	會	Len<=2	none
+不	d	F	不	不	Len<=2	B_O
+太	d	F	太	太	Len<=2	I_O
+穩	a	F	穩	穩	Len<=2	E_O
+
+LG	NA	F	L	G	Len<=2	none
+原廠	n	F	原	廠	Len<=2	none
+ROM	NA	F	R	M	Len>2	A
+爆	v	F	爆	爆	Len<=2	none
+爛	adj	F	爛	爛	Len<=2	O
+
+螢幕	n	T	螢	幕	Len<=2	A
+沒	zg	F	沒	沒	Len<=2	B_O
+那麼	r	F	那	麼	Len<=2	I_O
+漂亮	adj	F	漂	亮	Len<=2	E_O
+
+處理	v	F	處	理	Len<=2	B_A
+效能	n	T	效	能	Len<=2	E_A
+真的	d	F	真	的	Len<=2	none
+很	zg	F	很	很	Len<=2	none
+差	a	F	差	差	Len<=2	O
+
+質感	n	T	質	感	Len<=2	A
+一流	adj	F	一	流	Len<=2	O
+
+螢幕	n	T	螢	幕	Len<=2	A
+是	v	F	是	是	Len<=2	none
+曲面	n	T	曲	面	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+也	d	F	也	也	Len<=2	none
+太	d	F	太	太	Len<=2	none
+屌	zg	F	屌	屌	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+吧	y	F	吧	吧	Len<=2	none
+
+這	r	F	這	這	Len<=2	none
+台	q	F	台	台	Len<=2	none
+最	d	F	最	最	Len<=2	none
+讓	v	F	讓	讓	Len<=2	none
+我	r	F	我	我	Len<=2	none
+滿意	adj	F	滿	意	Len<=2	O
+的	uj	F	的	的	Len<=2	none
+就是	d	F	就	是	Len<=2	none
+外型	n	T	外	型	Len<=2	A
+
+待機時間	n	F	待	間	Len>2	A
+也	d	F	也	也	Len<=2	none
+有夠	NA	F	有	夠	Len<=2	none
+長	a	F	長	長	Len<=2	O
+
+4K	NA	F	4	K	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+影片	n	F	影	片	Len<=2	A
+放在	v	F	放	在	Len<=2	none
+手機	n	F	手	機	Len<=2	none
+裡	zg	F	裡	裡	Len<=2	none
+播放	n	T	播	放	Len<=2	none
+，	NA	F	，	，	Len<=2	none
+非常	d	F	非	常	Len<=2	none
+流暢	a	F	流	暢	Len<=2	O
+
+出乎	v	F	出	乎	Len<=2	none
+想像	v	F	想	像	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+輕薄	a	F	輕	薄	Len<=2	O
+
+觸控	n	T	觸	控	Len<=2	B_A
+反應	n	T	反	應	Len<=2	E_A
+最	d	F	最	最	Len<=2	none
+流暢	a	F	流	暢	Len<=2	A
+的	uj	F	的	的	Len<=2	none
+手機	n	F	手	機	Len<=2	none
+之一	r	F	之	一	Len<=2	none
+
+耳機	n	F	耳	機	Len<=2	B_A
+輸出	v	F	輸	出	Len<=2	I_A
+的	uj	F	的	的	Len<=2	I_A
+功率	n	F	功	率	Len<=2	E_A
+似乎	d	F	似	乎	Len<=2	none
+有點	n	F	有	點	Len<=2	none
+小	a	F	小	小	Len<=2	O
+
+音質	n	T	音	質	Len<=2	A
+普通	nz	F	普	通	Len<=2	O
+
+電池	n	T	電	池	Len<=2	A
+很	zg	F	很	很	Len<=2	none
+有力	n	F	有	力	Len<=2	O
+
+續航力	n	T	續	力	Len>2	A
+蠻	d	F	蠻	蠻	Len<=2	none
+強大	adj	F	強	大	Len<=2	O
+
+螢幕畫質	n	T	螢	質	Len>2	A
+漂亮	adj	F	漂	亮	Len<=2	O
+到	v	F	到	到	Len<=2	none
+沒話說	l	F	沒	說	Len>2	none
+
+螢幕	n	T	螢	幕	Len<=2	A
+看起來	v	F	看	來	Len>2	none
+就是	d	F	就	是	Len<=2	none
+舒服	adj	F	舒	服	Len<=2	O
+
+喜歡	adj	F	喜	歡	Len<=2	O
+它	r	F	它	它	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+輕薄	a	F	輕	薄	Len<=2	B_A
+機身	n	T	機	身	Len<=2	E_A
+
+WIFI	NA	F	W	I	Len>2	B_A
+收訊	NA	F	收	訊	Len<=2	E_A
+真的	d	F	真	的	Len<=2	none
+比較	d	F	比	較	Len<=2	none
+弱	adj	F	弱	弱	Len<=2	O
+
+拍照	n	T	拍	照	Len<=2	A
+也	d	F	也	也	Len<=2	none
+還	d	F	還	還	Len<=2	none
+不	d	F	不	不	Len<=2	B_O
+差	a	F	差	差	Len<=2	E_O
+
+指紋辨識	NA	F	指	識	Len>2	A
+很	zg	F	很	很	Len<=2	none
+靈敏	adj	F	靈	敏	Len<=2	O
+
+相機	n	T	相	機	Len<=2	A
+和	c	F	和	和	Len<=2	none
+網路上	s	F	網	上	Len>2	none
+說	v	F	說	說	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+一樣	r	F	一	樣	Len<=2	none
+讚	adj	F	讚	讚	Len<=2	O
+
+便宜	adj	F	便	宜	Len<=2	O
+的	uj	F	的	的	Len<=2	none
+價格	n	T	價	格	Len<=2	A
+
+順暢度	n	T	順	度	Len>2	A
+完勝	v	F	完	勝	Len<=2	O
+其他	r	F	其	他	Len<=2	none
+幾隻	m	F	幾	隻	Len<=2	none
+
+相機功能	n	T	相	能	Len>2	B_A
+專業模式	n	T	專	式	Len>2	E_A
+很	zg	F	很	很	Len<=2	none
+強大	adj	F	強	大	Len<=2	O
+
+整體	n	T	整	體	Len<=2	A
+起來	v	F	起	來	Len<=2	none
+還	d	F	還	還	Len<=2	none
+算	v	F	算	算	Len<=2	none
+滿意	adj	F	滿	意	Len<=2	O
+
+介面	n	F	介	面	Len<=2	A
+相當	d	F	相	當	Len<=2	none
+流暢	a	F	流	暢	Len<=2	O
+
+價格	n	T	價	格	Len<=2	A
+死硬	a	F	死	硬	Len<=2	O
+
+手機	n	F	手	機	Len<=2	none
+畫面	n	F	畫	面	Len<=2	A
+太漂亮	nr	F	太	亮	Len>2	O
+
+首頁	m	F	首	頁	Len<=2	none
+啟動	NA	F	啟	動	Len<=2	B_A
+速度	n	T	速	度	Len<=2	E_A
+似乎	d	F	似	乎	Len<=2	none
+慢	adj	F	慢	慢	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+些	q	F	些	些	Len<=2	none
+
+中文	nz	F	中	文	Len<=2	none
+輸入	v	F	輸	入	Len<=2	B_A
+按鍵	n	T	按	鍵	Len<=2	E_A
+小	a	F	小	小	Len<=2	O
+
+充電	n	T	充	電	Len<=2	B_A
+速度	n	T	速	度	Len<=2	E_A
+算	v	F	算	算	Len<=2	none
+快	adj	F	快	快	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+
+拍照	n	T	拍	照	Len<=2	B_A
+速度	n	T	速	度	Len<=2	E_A
+比較	d	F	比	較	Len<=2	none
+快	adj	F	快	快	Len<=2	O
+
+對焦	n	T	對	焦	Len<=2	A
+慢	adj	F	慢	慢	Len<=2	O
+
+拍照	n	T	拍	照	Len<=2	A
+太	d	F	太	太	Len<=2	none
+廢	v	F	廢	廢	Len<=2	O
+
+超高	v	F	超	高	Len<=2	O
+c	NA	F	c	c	Len<=2	B_A
+/	NA	F	/	/	Len<=2	I_A
+p	NA	F	p	p	Len<=2	I_A
+值	n	F	值	值	Len<=2	E_A
+
+收訊	NA	F	收	訊	Len<=2	A
+明顯	adj	F	明	顯	Len<=2	none
+有待	v	F	有	待	Len<=2	B_O
+加強	v	F	加	強	Len<=2	E_O
+
+信號	n	F	信	號	Len<=2	A
+都	d	F	都	都	Len<=2	none
+非常	d	F	非	常	Len<=2	none
+穩定	adj	F	穩	定	Len<=2	O
+
+尺寸	n	T	尺	寸	Len<=2	A
+不錯	adj	F	不	錯	Len<=2	O
+
+換電池	n	T	換	池	Len>2	none
+時	n	F	時	時	Len<=2	none
+背蓋	n	T	背	蓋	Len<=2	A
+好像	v	F	好	像	Len<=2	none
+不是	c	F	不	是	Len<=2	B_O
+很	zg	F	很	很	Len<=2	I_O
+好用	adj	F	好	用	Len<=2	E_O
+
+耳筒	NA	F	耳	筒	Len<=2	B_A
+話音	n	F	話	音	Len<=2	E_A
+清晰	adj	F	清	晰	Len<=2	O
+
+機身	n	T	機	身	Len<=2	B_A
+溫度	n	T	溫	度	Len<=2	E_A
+不高	adj	F	不	高	Len<=2	O
+
+觸控	n	T	觸	控	Len<=2	B_A
+功能	n	F	功	能	Len<=2	E_A
+我	r	F	我	我	Len<=2	none
+認	v	F	認	認	Len<=2	none
+為	zg	F	為	為	Len<=2	none
+是	v	F	是	是	Len<=2	none
+非常	d	F	非	常	Len<=2	none
+靈敏	adj	F	靈	敏	Len<=2	O
+的	uj	F	的	的	Len<=2	none
+
+CP	NA	F	C	P	Len<=2	B_A
+值	n	F	值	值	Len<=2	E_A
+爆	v	F	爆	爆	Len<=2	B_O
+表	v	F	表	表	Len<=2	E_O
+
+電池續航力	n	T	電	力	Len>2	A
+ok	NA	F	o	k	Len<=2	O
+
+手機	n	F	手	機	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+感光度	n	T	感	度	Len>2	A
+很	zg	F	很	很	Len<=2	none
+強	a	F	強	強	Len<=2	O
+耶	nr	F	耶	耶	Len<=2	none
+
+自動亮度	NA	F	自	度	Len>2	A
+效果	n	F	效	果	Len<=2	none
+不	d	F	不	不	Len<=2	B_O
+優	n	F	優	優	Len<=2	E_O
+
+機身	n	T	機	身	Len<=2	A
+紮實	a	F	紮	實	Len<=2	O
+
+app	NA	F	a	p	Len>2	B_A
+質感	n	T	質	感	Len<=2	E_A
+佳	adj	F	佳	佳	Len<=2	O
+
+續航力	n	T	續	力	Len>2	A
+優	n	F	優	優	Len<=2	O
+
+指紋辨識	NA	F	指	識	Len>2	A
+功能	n	F	功	能	Len<=2	none
+方便	adj	F	方	便	Len<=2	O
+迅速	adj	F	迅	速	Len<=2	O
+
+太貴	nr	F	太	貴	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+
+開機慢	NA	F	開	慢	Len>2	O
+
+後鏡	n	F	後	鏡	Len<=2	B_A
+相機	n	T	相	機	Len<=2	E_A
+素質	n	F	素	質	Len<=2	none
+大	adj	F	大	大	Len<=2	none
+進步	adj	F	進	步	Len<=2	O
+
+充電	n	T	充	電	Len<=2	B_A
+速度	n	T	速	度	Len<=2	E_A
+超級	b	F	超	級	Len<=2	none
+無敵	v	F	無	敵	Len<=2	none
+快	adj	F	快	快	Len<=2	O
+
+容易	adj	F	容	易	Len<=2	none
+耗電	n	T	耗	電	Len<=2	O
+
+瀏覽器	n	F	瀏	器	Len>2	A
+使用	n	T	使	用	Len<=2	none
+順暢	adj	F	順	暢	Len<=2	O
+
+電量	n	T	電	量	Len<=2	A
+有點	n	F	有	點	Len<=2	none
+少	adj	F	少	少	Len<=2	O
+
+通話	n	T	通	話	Len<=2	B_A
+品質	n	F	品	質	Len<=2	E_A
+就	d	F	就	就	Len<=2	none
+不太好	v	F	不	好	Len>2	O
+
+邊框	n	T	邊	框	Len<=2	A
+聽說	v	F	聽	說	Len<=2	none
+叫做	v	F	叫	做	Len<=2	none
+玫瑰	n	F	玫	瑰	Len<=2	none
+金	nr	F	金	金	Len<=2	none
+，	NA	F	，	，	Len<=2	none
+很漂亮	n	F	很	亮	Len>2	O
+
+手感	n	T	手	感	Len<=2	A
+就是	d	F	就	是	Len<=2	none
+差	a	F	差	差	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+那麼	r	F	那	麼	Len<=2	none
+一點點	m	F	一	點	Len>2	none
+
+拍照介面	n	T	拍	面	Len>2	A
+也	d	F	也	也	Len<=2	none
+是	v	F	是	是	Len<=2	none
+SONY	NA	F	S	Y	Len>2	none
+的	uj	F	的	的	Len<=2	none
+比較	d	F	比	較	Len<=2	none
+好用	adj	F	好	用	Len<=2	O
+
+開	zg	F	開	開	Len<=2	B_A
+啟	NA	F	啟	啟	Len<=2	I_A
+相機	n	T	相	機	Len<=2	I_A
+的	uj	F	的	的	Len<=2	I_A
+速度	n	T	速	度	Len<=2	E_A
+很	zg	F	很	很	Len<=2	none
+令人	nrt	F	令	人	Len<=2	B_O
+驚	v	F	驚	驚	Len<=2	I_O
+艷	NA	F	艷	艷	Len<=2	E_O
+
+相機	n	T	相	機	Len<=2	A
+也	d	F	也	也	Len<=2	none
+無法	n	F	無	法	Len<=2	B_O
+自動對焦	n	T	自	焦	Len>2	E_O
+
+影片播放	NA	F	影	放	Len>2	A
+不	d	F	不	不	Len<=2	B_O
+順暢	adj	F	順	暢	Len<=2	E_O
+
+軟體	n	F	軟	體	Len<=2	A
+一直	d	F	一	直	Len<=2	none
+有問題	adj	F	有	題	Len>2	O
+
+拍照功能	n	T	拍	能	Len>2	A
+似乎	d	F	似	乎	Len<=2	none
+又	d	F	又	又	Len<=2	none
+更	d	F	更	更	Len<=2	none
+強大	adj	F	強	大	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+
+飽和度	n	T	飽	度	Len>2	A
+仍然	d	F	仍	然	Len<=2	none
+不錯	adj	F	不	錯	Len<=2	O
+
+HTC	NA	F	H	C	Len>2	none
+金屬	n	F	金	屬	Len<=2	none
+好	adj	F	好	好	Len<=2	O
+質感	n	T	質	感	Len<=2	A
+
+背蓋	n	T	背	蓋	Len<=2	A
+金色	n	F	金	色	Len<=2	none
+的	uj	F	的	的	Len<=2	none
+不算	v	F	不	算	Len<=2	B_O
+很	zg	F	很	很	Len<=2	I_O
+有	v	F	有	有	Len<=2	I_O
+質感	n	T	質	感	Len<=2	E_O
+
+螢幕顯示	NA	F	螢	示	Len>2	B_A
+效果	n	F	效	果	Len<=2	E_A
+也	d	F	也	也	Len<=2	none
+很	zg	F	很	很	Len<=2	none
+好	adj	F	好	好	Len<=2	O
+
+滑	v	F	滑	滑	Len<=2	none
+個	q	F	個	個	Len<=2	none
+多工	NA	F	多	工	Len<=2	B_A
+畫面	n	F	畫	面	Len<=2	E_A
+會	zg	F	會	會	Len<=2	none
+頓	adj	F	頓	頓	Len<=2	O
+
+拍照	n	T	拍	照	Len<=2	A
+差	a	F	差	差	Len<=2	O
+了	ul	F	了	了	Len<=2	none
+點	m	F	點	點	Len<=2	none
+
+重量	n	T	重	量	Len<=2	A
+很	zg	F	很	很	Len<=2	none
+不錯	adj	F	不	錯	Len<=2	O
+

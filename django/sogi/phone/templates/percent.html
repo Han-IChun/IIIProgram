@@ -1,0 +1,128 @@
+<!doctype html>
+{% load staticfiles %}
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="">
+	<title>百分比分佈圖</title>
+	
+	<script src="{% static 'js/jquery.min.js' %}"></script>
+	<link rel="stylesheet" href="{% static 'css/graph.css' %}" />
+	
+</head>
+<body>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			<!-- 改herecent即可 -->
+			var herecent={{percentDic.phoneScore}};
+			$('#precentone').is(function(){
+				if(herecent<10){
+					$("#box1").css("background","#B2312D");
+				}else if(herecent>=10 && herecent<20){
+					$("#box2").css("background","#B2312D");
+				}else if(herecent>=20 && herecent<30){
+					$("#box3").css("background","#B2312D");
+				}else if(herecent>=30 && herecent<40){
+					$("#box4").css("background","#B2312D");
+				}else if(herecent>=40 && herecent<50){
+					$("#box5").css("background","#B2312D");
+				}else if(herecent>=50 && herecent<60){
+					$("#box6").css("background","#B2312D");
+				}else if(herecent>=60 && herecent<70){
+					$("#box7").css("background","#B2312D");
+				}else if(herecent>=70 && herecent<80){
+					$("#box8").css("background","#B2312D");
+				}else if(herecent>=80 && herecent<90){
+					$("#box9").css("background","#B2312D");
+				}else if(herecent>=90 && herecent<=100){
+					$("#box10").css("background","#B2312D");
+				}
+				
+			});
+		});
+	</script>
+	<div id="precentone">
+	<!-- <table border="3"> -->
+		<!--背景方格-->
+		<div class="histogram-bg-line">
+			<ul><li><div>18</div></li></ul>
+			<ul><li><div>16</div></li></ul>
+			<ul><li><div>14</div></li></ul>
+			<ul><li><div>12</div></li></ul>
+			<ul><li><div>10</div></li></ul>
+			<ul><li><div>8</div></li></ul>
+			<ul><li><div>6</div></li></ul>
+			<ul><li><div>4</div></li></ul>
+			<ul><li><div>2</div></li></ul>
+		</div>
+		
+		<div id="pcontents">
+			<!--柱状条-->
+			<div>
+				<div class="histogram-content">
+					<ul>
+						<li>
+							<span class="name">0</span>
+						</li>
+						<li>
+							<span class="histogram-box"><a id="box1" style="height:{{percentDic.10}}%"></a></span>
+							<span class="name">10</span>
+						</li>
+						<li>
+							<span class="histogram-box"><a id="box2" style="height:{{percentDic.20}}%"></a></span>
+							<span class="name">20</span>
+						</li>
+						<li>
+							<span class="histogram-box"><a id="box3" style="height:{{percentDic.30}}%" title="33%"></a></span>
+							<span class="name">30</span>    
+						</li>                               
+						<li>                                
+							<span class="histogram-box"><a id="box4" style="height:{{percentDic.40}}%" title="66%"></a></span>
+							<span class="name">40</span>    
+						</li>                               
+															
+						<li>                                
+							<span class="histogram-box"><a id="box5" style="height:{{percentDic.50}}%" title="88%"></a></span>
+							<span class="name">50</span>    
+						</li>                               
+						<li>                                
+							<span class="histogram-box"><a id="box6" style="height:{{percentDic.60}}%" title="55%"></a></span>
+							<span class="name">60</span>    
+						</li>                               
+						<li>                                
+							<span class="histogram-box"><a id="box7" style="height:{{percentDic.70}}%;" title="44%"></a></span>
+							<span class="name">70</span>    
+						</li>                               
+						<li>                                
+							<span class="histogram-box"><a id="box8" style="height:{{percentDic.80}}%" title="11%"></a></span>
+							<span class="name">80</span>    
+						</li>                               
+						<li>                                
+							<span class="histogram-box"><a id="box9" style="height:{{percentDic.90}}%" title="11%"></a></span>
+							<span class="name">90</span>
+						</li>
+						<li>
+							<span class="histogram-box"><a id="box10" style="height:{{percentDic.100}}%" title="36%"></a></span>
+							<span class="name">100</span>
+						</li>
+						
+						<li>
+							<span class="name">百分比(%)</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+		</div>
+		<!--百分比 y轴-->
+		<div class="histogram-y">
+			<ul>
+				<li>手機(支)</li>
+			</ul>
+		
+		</div>	
+	<!-- </table> -->
+</div>
+</body>
+</html>
+<!--template.html-->

@@ -1,0 +1,2136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sentences>
+	<sentence polarity="positive">
+		<text>照相品質有提升</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>照相	品質	有提升</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>照片的畫質不錯</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>照片	的	畫質	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電池蓋的設計真的很爛</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>電池蓋	的	設計	真的	很爛</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>面版質感不錯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>面版	質感	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>CPU速度慢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>CPU	速度慢</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機開啟超慢無比</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>相機	開	啟	超	慢	無比</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>內建記憶體少得可憐</text>
+		<aspectCategories>
+			<aspectCategory category="記憶體擴充" polarity="negative" />
+		</aspectCategories>
+		<jieba>內建	記憶體	少	得	可憐</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>撥電話的操作介面超智慧</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>撥電話	的	操作介面	超	智慧</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>耗電量過快</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>耗電量	過	快</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>內建的軟體已經很豐富</text>
+		<aspectCategories>
+			<aspectCategory category="軟體問題" polarity="positive" />
+		</aspectCategories>
+		<jieba>內建的	軟體	已經	很	豐富</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這台機子的硬體效能頗佳</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>這	台	機子	的	硬體效能	頗佳</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕很棒</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕	很棒</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>鈴聲聲音夠響亮</text>
+		<aspectCategories>
+			<aspectCategory category="音量" polarity="positive" />
+		</aspectCategories>
+		<jieba>鈴聲	聲音	夠	響亮</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>鈴聲大小普通</text>
+		<aspectCategories>
+			<aspectCategory category="音量" polarity="negative" />
+		</aspectCategories>
+		<jieba>鈴聲	大小	普通</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>gps定位速度蠻快的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>gps	定位速度	蠻	快	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>外型有質感</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>外型	有質感</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>穩定性還蠻好的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>穩定性	還	蠻	好	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>相容性很好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>相容性	很	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>1080P的螢幕真的不是蓋的</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>1080P	的	螢幕	真的	不是	蓋	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>設計上很有巧思</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>設計	上	很	有	巧思</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>超耗電</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>超	耗電</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>CP值算高了</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>CP	值	算	高	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機身質感好棒</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>機身	質感	好	棒</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>設計還蠻有時尚感的</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>設計	還	蠻	有	時尚	感	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕漂亮</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕	漂亮</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>爆高的C/P值</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>爆	高	的	C	/	P	值</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>錄影好像使用720P 會不太穩</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>錄影	好像	使用	720P	 	會	不	太	穩</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>LG原廠ROM爆爛</text>
+		<aspectCategories>
+			<aspectCategory category="記憶體擴充" polarity="negative" />
+		</aspectCategories>
+		<jieba>LG	原廠	ROM	爆	爛</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>螢幕沒那麼漂亮</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="negative" />
+		</aspectCategories>
+		<jieba>螢幕	沒	那麼	漂亮</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>處理效能真的很差</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>處理	效能	真的	很	差</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>質感一流</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>質感	一流</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕是曲面的也太屌了吧</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕	是	曲面	的	也	太	屌	了	吧</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這台最讓我滿意的就是外型</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>這	台	最	讓	我	滿意	的	就是	外型</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>待機時間也有夠長</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>待機時間	也	有	夠	長</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>4K的影片放在手機裡播放，非常流暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>4K	的	影片	放在	手機	裡	播放	，	非常	流暢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>出乎想像的輕薄</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>出乎	想像	的	輕薄</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>觸控反應最流暢的手機之一</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕觸控" polarity="positive" />
+		</aspectCategories>
+		<jieba>觸控	反應	最	流暢	的	手機	之一</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>耳機輸出的功率似乎有點小</text>
+		<aspectCategories>
+			<aspectCategory category="音量" polarity="negative" />
+		</aspectCategories>
+		<jieba>耳機	輸出	的	功率	似乎	有點	小</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>音質普通</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="negative" />
+		</aspectCategories>
+		<jieba>音質	普通</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池很有力</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池	很	有力</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>續航力蠻強大</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>續航力	蠻	強大</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕畫質漂亮到沒話說</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕畫質	漂亮	到	沒話說</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕看起來就是舒服</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕	看起來	就是	舒服</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>喜歡它的輕薄機身</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>喜歡	它	的	輕薄	機身</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>WIFI收訊真的比較弱</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>WIFI	收訊	真的	比較	弱</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍照也還不差</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍照	也	還	不差</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>指紋辨識很靈敏</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>指紋辨識	很	靈敏</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>相機和網路上說的一樣讚</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>相機	和	網路上	說	的	一樣	讚</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>便宜的價格</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="positive" />
+		</aspectCategories>
+		<jieba>便宜	的	價格</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>順暢度完勝其他幾隻</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>順暢度	完勝	其他	幾隻</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>相機功能專業模式很強大</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>相機功能	專業模式	很	強大</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>整體起來還算滿意</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>整體	起來	還	算	滿意</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>介面相當流暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>介面	相當	流暢</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>價格死硬</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="negative" />
+		</aspectCategories>
+		<jieba>價格	死硬</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手機畫面太漂亮</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>手機	畫面	太漂亮</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>首頁啟動速度似乎慢了些</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>首頁	啟動	速度	似乎	慢	了	些</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>中文輸入按鍵小</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>中文	輸入	按鍵	小</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>充電速度算快了</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>充電	速度	算	快	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍照速度比較快</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍照	速度	比較	快</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>對焦慢</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="negative" />
+		</aspectCategories>
+		<jieba>對焦	慢</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>拍照太廢</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>拍照	太	廢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>超高c/p值</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>超高	c	/	p	值</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>收訊明顯有待加強</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>收訊	明顯	有待	加強</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>信號都非常穩定</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>信號	都	非常	穩定</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>尺寸不錯</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="positive" />
+		</aspectCategories>
+		<jieba>尺寸	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>換電池時背蓋好像不是很好用</text>
+		<aspectCategories>
+			<aspectCategory category="換電池" polarity="negative" />
+		</aspectCategories>
+		<jieba>換電池	時	背蓋	好像	不是	很	好用</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>耳筒話音清晰</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+		</aspectCategories>
+		<jieba>耳筒	話音	清晰</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機身溫度不高</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="positive" />
+		</aspectCategories>
+		<jieba>機身	溫度	不高</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>觸控功能我認為是非常靈敏的</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕觸控" polarity="positive" />
+		</aspectCategories>
+		<jieba>觸控	功能	我	認	為	是	非常	靈敏	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>CP值爆表</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>CP	值	爆	表</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池續航力ok</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池續航力	ok</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手機的感光度很強耶</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>手機	的	感光度	很	強	耶</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>自動亮度效果不優</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>自動亮度	效果	不	優</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機身紮實</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>機身	紮實</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>app質感佳</text>
+		<aspectCategories>
+			<aspectCategory category="軟體問題" polarity="positive" />
+		</aspectCategories>
+		<jieba>app	質感	佳</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>續航力優</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>續航力	優</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>指紋辨識功能方便迅速</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>指紋辨識	功能	方便	迅速</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>太貴了</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="negative" />
+		</aspectCategories>
+		<jieba>太貴	了</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>開機慢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>開機	慢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>後鏡相機素質大進步</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>後鏡	相機	素質	大	進步</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>充電速度超級無敵快</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>充電	速度	超級	無敵	快</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>容易耗電</text>
+		<aspectCategories>
+			<aspectCategory category="positive" polarity="negative" />
+		</aspectCategories>
+		<jieba>容易	耗電</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>瀏覽器使用順暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>瀏覽器	使用	順暢</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電量有點少</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>電量	有點	少</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>通話品質就不太好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>通話	品質	就	不太好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>邊框聽說叫做玫瑰金，很漂亮</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>邊框	聽說	叫做	玫瑰	金	，	很	漂亮</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>手感就是差了那麼一點點</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>手感	就是	差	了	那麼	一點點</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍照介面也是SONY的比較好用</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍照介面	也	是	SONY	的	比較	好用</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>開啟相機的速度很令人驚艷</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>開	啟	相機	的	速度	很	令人	驚	艷</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機也無法自動對焦</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="negative" />
+		</aspectCategories>
+		<jieba>相機	也	無法	自動對焦</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>影片播放不順暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>影片播放	不	順暢</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>軟體一直有問題</text>
+		<aspectCategories>
+			<aspectCategory category="軟體問題" polarity="negative" />
+		</aspectCategories>
+		<jieba>軟體	一直	有問題</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍照功能似乎又更強大了</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍照功能	似乎	又	更	強大	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>飽和度仍然不錯</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>飽和度	仍然	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>HTC金屬好質感</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>HTC	金屬	好	質感</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>背蓋金色的不算很有質感</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>背蓋	金色	的	不算	很	有質感</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕顯示效果也很好</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕顯示	效果	也	很	好</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>滑個多工畫面會頓</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>滑	個	多工	畫面	會	頓</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>拍照差了點</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>拍照	差	了	點</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>重量很不錯</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>重量	很	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>現在手機的拍照功能已經很精進了，甚至都有光學防手震跟拍RAW檔了</text>
+		<aspectCategories>
+			<aspectCategory category="防手震" polarity="positive" />
+		</aspectCategories>
+		<jieba>現在	手機	的	拍照功能	已經	很	精進	了	，	甚至	都	有	光學防手震	跟	拍	RAW	檔	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>比方PanasonicCM1，有1吋感光元件，鏡頭也經過Leica認證，還有獨立影像處器，相機規格非常夢幻</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>比方	PanasonicCM1	，	有	1	吋	感光元件	，	鏡頭	也	經過	Leica	認證	，	還有	獨立	影像	處	器	，	相機規格	非常	夢幻</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>拍風景或拉近拍，線條清晰度或立體感還是沒有很夠</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>拍	風景	或	拉近	拍	，	線條	清晰度	或	立體感	還是	沒有	很	夠</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>在外型上都給人厚重的感覺，而一加X將厚度壓在6.9mm、重量只有138g，對於喜愛小手機的人來說，還蠻有吸引力</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>在	外型	上	都	給	人	厚重	的	感覺	，	而	一	加	X	將	厚度	壓	在	6	.	9mm	、	重量	只有	13	8g	，	對於	喜愛	小	手機	的	人	來說	，	還	蠻	有	吸引力</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>Snapdragon801這顆處理器一般很少會過熱</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="positive" />
+		</aspectCategories>
+		<jieba>Snapdragon801	這	顆	處理器	一般	很	少	會	過熱</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>以2525mAh容量的電池來看，續航表現還算不錯</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>以	2525mAh	容量	的	電池	來看	，	續航	表現	還	算	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機細部畫質仍有很大進步空間</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>相機	細部畫質	仍	有	很	大	進步	空間</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>背蓋上有刷一些髮絲紋，算有顧到一點視覺美觀，有做出一點弧邊，手感還不錯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>背蓋	上	有	刷	一些	髮絲紋	，	算	有	顧	到	一點	視覺	美觀	，	有	做出	一點	弧	邊	，	手感	還	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>在陽光下自動亮度感應調整的速度有點慢</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="negative" />
+		</aspectCategories>
+		<jieba>在	陽光	下	自動亮度	感應	調整	的	速度	有點慢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍照時對焦跟測光可以分開點擊，這還蠻方便的</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+			<aspectCategory category="對焦" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍照	時	對焦	跟	測光	可以	分開	點擊	，	這	還	蠻	方便	的</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>當手機兩三天沒整理或重開機，操作就開始有變慢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>當	手機	兩三天	沒	整理	或	重開機	，	操作	就	開始	有	變慢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>延續G4的強大相機功能、手動模式與Raw檔，新加入了手動錄影模式、三鏡頭錄影的短片模式功能</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>延續	G4	的	強大	相機功能	、	手動模式	與	Raw	檔	，	新	加入	了	手動錄影	模式	、	三	鏡頭	錄影	的	短片	模式	功能</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>雖然質感上與各家比較起來還是略差</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>雖然	質感	上	與	各家	比較	起來	還是	略	差</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>由於機身尺寸比較大而且偏重(192g)，要單手操作時會比較困難</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="negative" />
+			<aspectCategory category="螢幕尺寸" polarity="negative" />
+		</aspectCategories>
+		<jieba>由於	機身	尺寸	比較	大	而且	偏重	(	19	2g	)	，	要	單手操作	時會	比較	困難</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>用單手截圖(電源鍵＋音量降低鍵)時不像以前這麼好按</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="negative" />
+		</aspectCategories>
+		<jieba>用	單手	截圖	(	電源鍵	＋	音量	降低	鍵	)	時	不	像	以前	這麼	好	按</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>儲存速度也令人滿意，幾乎在按下快門的瞬間，就完成儲存的動作</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>儲存速度	也	令人滿意	，	幾乎	在	按	下	快門	的	瞬間	，	就	完成	儲存	的	動作</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>V10的前相機廣角比起G4勝出</text>
+		<aspectCategories>
+			<aspectCategory category="自拍" polarity="positive" />
+		</aspectCategories>
+		<jieba>V10	的	前相機	廣角	比起	G4	勝出</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>自動模式拍夜景畫質會比較差</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>自動模式	拍	夜景	畫質	會	比較	差</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>嚴格來說，跟今年的主流旗艦機比較起來，效能表現不算好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>嚴格來說	，	跟	今年	的	主流	旗艦機	比較	起來	，	效能	表現	不算	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>在安兔兔的穩定性測試中，溫度變化只有2度，溫度控制處理的很好</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="positive" />
+		</aspectCategories>
+		<jieba>在	安兔兔	的	穩定性	測試	中	，	溫度	變化	只有	2	度	，	溫度控制	處理	的	很	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>綜合性能強悍</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>綜合性	能	強悍</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>遊戲性能出色</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>遊戲	性能	出色</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>跟今年旗艦手機比起來速度偏慢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>跟	今年	旗艦手機	比	起來	速度	偏	慢</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>測出來的結果都顯示V10續航力不佳</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>測	出來	的	結果	都	顯示	V10	續航力	不佳</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>我在測試時發現，LG的指紋辨識建立過程，比其它品牌還要慢，過程要花比較長的時間</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>我	在	測試	時	發現	，	LG	的	指紋辨識	建立	過程	，	比	其它	品牌	還要	慢	，	過程	要	花	比較	長	的	時間</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手動相機模式外，還加入了廣角120度自拍、手動錄影模式與短片模式，尤其錄影功能更強大</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>手動	相機	模式	外	，	還	加入	了	廣角	120	度	自拍	、	手動錄影	模式	與	短片	模式	，	尤其	錄影功能	更	強大</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>外型質感不佳，整體看起來塑膠感較為明顯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>外型	質感	不佳	，	整體	看起來	塑膠感	較	為	明顯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>192g的重量也是偏重</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="negative" />
+		</aspectCategories>
+		<jieba>19	2g	的	重量	也	是	偏重</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>喇叭音量跟G4比起來明顯較小外放品質跟以往手機一樣不甚理想</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="negative" />
+			<aspectCategory category="音量" polarity="negative" />
+		</aspectCategories>
+		<jieba>喇叭音量	跟	G4	比	起來	明顯	較	小	外放	品質	跟	以往	手機	一樣	不	甚	理想</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>搭配鏡頭內的步進式對焦馬達，能夠讓ZenFoneZoom達到0.03秒內就能完成的自動對焦，小編實際使用的確非常快</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="positive" />
+		</aspectCategories>
+		<jieba>搭配	鏡頭	內	的	步進式	對焦	馬達	，	能夠	讓	ZenF	one	Zoom	達到	0	.	03	秒	內	就	能	完成	的	自動對焦	，	小	編	實際	使用	的確	非常	快</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>Nexus6P是此歷代質感最好的一款</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>Nex	us	6P	是	此	歷代	質感	最好	的	一款</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>測試期間溫度最低31.5度、最高38度，相差只有6.5度而已，顯見華為宣稱優化散熱確實有達到成效</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="positive" />
+		</aspectCategories>
+		<jieba>測試	期間	溫度	最低	31	.	5	度	、	最高	38	度	，	相差	只有	6	.	5	度	而已	，	顯見	華為	宣稱	優化	散熱	確實	有	達到	成效</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>在規格上其實相當有誠意</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>在	規格	上	其實	相當	有	誠意</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>其中3D繪圖只有6392分並不算高，若是要玩大型3D遊戲Adreno405可能有點不足</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>其中	3D	繪圖	只有	6392	分	並	不算	高	，	若	是	要	玩	大型	3D	遊戲	Adreno405	可能	有點	不足</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>G7Plus的指紋辨識速度很快，而且比Mate7更穩定</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>G7Pl	us	的	指紋辨識	速度	很	快	，	而且	比	Mate7	更	穩定</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>聽音樂的體驗也不錯，看影片時前置雙喇叭效果很有感，環繞感、音量都夠</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+			<aspectCategory category="音量" polarity="positive" />
+		</aspectCategories>
+		<jieba>聽音樂	的	體驗	也	不錯	，	看	影	片時	前置雙喇叭	效果	很	有感	，	環繞	感	、	音量	都	夠</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>支援降噪耳機聽音樂，隔噪音的效果很好</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>支援	降噪	耳機	聽音樂	，	隔	噪音	的	效果	很	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>續航力表現很不錯</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>續航力	表現	很	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>相對在HTC家續航力比較好</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>相對	在	HTC	家	續航力	比較	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>整體而言M9+極光版在拍照體驗方面更勝一籌</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>整體而言	M9	+	極光	版	在	拍照	體驗	方面	更勝一籌</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>A9與M9+極光版毫無疑問是目前HTC最強的兩款照相手機</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>A9	與	M9	+	極光	版	毫無疑問	是	目前	HTC	最強	的	兩款	照相手機</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這兩支日拍的體驗都很好</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>這	兩支	日拍	的	體驗	都	很	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>A9的自拍依舊維持高水準</text>
+		<aspectCategories>
+			<aspectCategory category="自拍" polarity="positive" />
+		</aspectCategories>
+		<jieba>A9	的	自拍	依舊	維持	高	水準</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>合成出來的精選影片還蠻無聊</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>合成	出來	的	精選	影片	還	蠻	無聊</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>我覺得HTC的音樂App是所有Android廠商中做得做好的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>我	覺得	HTC	的	音樂	App	是	所有	Andro	id	廠商	中	做	得	做好	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>全畫面的動感視效播放，畫面呈現很絢麗</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>全	畫面	的	動感	視	效	播放	，	畫面	呈現	很	絢麗</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>溫度控制做得很不錯</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="positive" />
+		</aspectCategories>
+		<jieba>溫度控制	做	得	很	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>手指很容易擋住鏡頭位置</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>手指	很	容易	擋住	鏡頭	位置</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>HTC相信以OneA9的條件，在同資費手機裡是很有競爭力的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>HTC	相信	以	OneA9	的	條件	，	在	同	資費	手機	裡	是	很	有競爭力	的</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>很遺憾已拿掉原本內建的音樂功能</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>很	遺憾	已	拿掉	原本	內建的	音樂	功能</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>現場試聽喇叭的音量有點弱</text>
+		<aspectCategories>
+			<aspectCategory category="音量" polarity="negative" />
+		</aspectCategories>
+		<jieba>現場	試聽	喇叭	的	音量	有點	弱</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>在室外測試時螢幕也十分清晰</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>在	室外	測試	時	螢幕	也	十分	清晰</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>立體音效還是有一定的水準</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+		</aspectCategories>
+		<jieba>立體	音效	還是	有	一定	的	水準</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>整體規格是進步蠻多的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>整體	規格	是	進步	蠻	多	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>紅色款蝴蝶機給人喜氣的感覺，拿在手上時也十分搶眼</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>紅色	款	蝴蝶機	給	人	喜氣	的	感覺	，	拿在手上	時	也	十分	搶眼</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>蝴蝶機在台灣的智慧型手機歷史上，可以列入傳奇神機了</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>蝴蝶機	在	台灣	的	智慧型手機	歷史	上	，	可以	列入	傳奇	神機	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>霧面塗裝設計，可減少指紋的沾染</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>霧面	塗裝	設計	，	可	減少	指紋	的	沾染</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>銳利度或是色彩飽和度都有不錯的效果</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>銳利度	或是	色彩	飽和度	都	有	不錯	的	效果</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>導入了自家相機產品線的影像處理技術，讓照相品質更上一層樓</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>導入	了	自家	相機	產品線	的	影像處理	技術	，	讓	照相	品質	更上一層樓</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>支援降噪功能，減少環境雜音</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+		</aspectCategories>
+		<jieba>支援	降噪	功能	，	減少	環境	雜音</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>簡約但重視細節的精緻化設計可以感受到企圖讓使用Sony手機成為一種生活風格的用心</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>簡約	但	重視	細節	的	精緻	化	設計	可以	感受	到	企圖	讓	使用	Sony	手機	成	為	一種	生活	風格	的	用心</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>將過去亮面的玻璃材質改為霧面，除了更有簡約美感外更有不易沾染指紋的優點</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>將	過去	亮	面	的	玻璃	材質	改	為	霧面	，	除了	更	有	簡約	美感	外	更	有	不易	沾染	指紋	的	優點</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>由SONYα相機團隊操刀設計的相機設計也是Z5最大的賣點</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>由	SONY	α	相機	團隊	操刀	設計	的	相機	設計	也	是	Z5	最大	的	賣點</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>4K螢幕讓銳利度更好、對比度提高、色彩更鮮豔</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>4K	螢幕	讓	銳利度	更好	、	對比度	提高	、	色彩	更	鮮豔</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機身背面有微微的彎曲弧度，握感還不錯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>機身	背面	有	微微	的	彎曲	弧度	，	握	感	還	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>觸感上就像是磨砂紙一樣粗粗的，個人不是很喜歡</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>觸感	上	就	像是	磨	砂紙	一樣	粗粗的	，	個人	不是	很	喜歡</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>竹質背蓋竹質的配色與觸感是我最喜歡的，握在手中有清涼感</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>竹	質	背蓋	竹	質	的	配色	與	觸感	是	我	最	喜歡	的	，	握	在	手中	有	清涼	感</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>感應解鎖的速度的確很快</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>感應	解鎖	的	速度	的確	很	快</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>OneME的對焦速度、啟動速度都還不錯</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="positive" />
+		</aspectCategories>
+		<jieba>OneME	的	對焦速度	、	啟動	速度	都	還	不錯</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>錄影時畫質還蠻不穩定</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>錄影	時	畫質	還	蠻	不穩定</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>自動模式拍出來的照片明顯偏暗</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>自動模式	拍出來	的	照片	明顯	偏暗</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>近拍時雖然確定有對到焦，不過輸出後的照片還是會覺得有點糊，感覺成像不夠立體</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>近拍	時	雖然	確定	有	對	到	焦	，	不過	輸出	後	的	照片	還是	會	覺得	有點	糊	，	感覺	成像	不夠	立體</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>9在整體效能上還是最好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>9	在	整體	效能	上	還是	最好</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>室內黃光下白平衡不穩</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>室	內黃	光	下	白平衡	不穩</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>耗電的速度很快</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>耗電	的	速度	很	快</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>M812把底下NFC的位置很明顯標出，很直接但對美感來說有點突兀了</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>M812	把	底下	NFC	的	位置	很	明顯	標出	，	很	直接	但	對	美感	來說	有點	突兀	了</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>拍出的照片其實是沒對到焦的，這裡有點困擾</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="negative" />
+		</aspectCategories>
+		<jieba>拍	出	的	照片	其實	是	沒	對	到	焦	的	，	這	裡	有點	困擾</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>使用起來的順暢度比最初的Z3+好很多</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>使用	起來	的	順暢度	比	最初	的	Z3	+	好	很多</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這個位置對解鎖手機來說真還蠻順手的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>這個	位置	對	解鎖	手機	來說	真	還	蠻	順手	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>旗艦機這方面表現都不差了</text>
+		<aspectCategories>
+			<aspectCategory category="" polarity="" />
+		</aspectCategories>
+		<jieba>旗艦機	這方面	表現	都	不差	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>指紋解鎖體驗也很順</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>指紋	解鎖	體驗	也	很順</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>鏡面的缺點就是非常容易留下指紋</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>鏡面	的	缺點	就是	非常容易	留下	指紋</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>在輸入法當中，拇指也無法輕鬆按到所有的按鍵</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>在	輸入法	當中	，	拇指	也	無法	輕鬆	按	到	所有	的	按鍵</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>相機仍然凸出機身一截，破壞了整體的美觀性</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>相機	仍然	凸出	機身	一	截	，	破壞	了	整體	的	美觀	性</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>透過電腦或是OTG隨身碟傳檔案時，會明顯感受到效率極佳</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>透過	電腦	或是	OTG	隨身碟	傳	檔案	時	，	會	明顯	感受	到	效率	極佳</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>單手操作變得不容易</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="negative" />
+		</aspectCategories>
+		<jieba>單手操作	變得	不	容易</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>價格跟市面上Android旗艦機相比確實偏貴</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="negative" />
+		</aspectCategories>
+		<jieba>價格	跟	市面上	Andro	id	旗艦機	相比	確實	偏	貴</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>用的是現在很流行的淡金色，氣質剛好，不會太高調</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>用	的	是	現在	很	流行	的	淡	金色	，	氣質	剛好	，	不會	太	高調</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>背面側邊還是有做一點弧度，並不會有刮手的感覺</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>背面	側邊	還是	有	做	一點	弧度	，	並	不會	有	刮	手	的	感覺</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>大手機起來較俐落有現代感，會比較有型</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>大	手機	起來	較	俐落	有現代感	，	會	比較	有型</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>開啟速度還不錯</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>開	啟	速度	還	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>比眼睛看起來要飽和一點，但是討喜的顏色</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>比	眼睛	看起來	要	飽和	一點	，	但是	討	喜	的	顏色</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>直覺跟方便度來說，這裡可以再加強吧</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>直覺	跟	方便	度	來說	，	這	裡	可以	再	加強	吧</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>如果要按音量鍵拿橫著單手拍，也是可但手勢會覺得有點不順</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>如果	要	按	音量鍵	拿	橫	著	單手	拍	，	也	是	可	但	手勢	會	覺得	有點	不順</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>按壓下去的反饋感還不錯</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>按壓	下去	的	反饋	感	還	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>美顏後的皮膚色澤也很討喜</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>美顏	後	的	皮膚	色澤	也	很	討	喜</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>昏暗環境下感光明顯較市面上大部份手機好</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>昏暗	環境	下	感光	明顯	較	市面上	大部份	手機	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>在正常明亮的光線下，對焦速度的確是蠻快的</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="positive" />
+		</aspectCategories>
+		<jieba>在	正常	明亮	的	光線	下	，	對焦速度	的確	是	蠻	快	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>在家裡或室內透過內建喇叭觀賞影片時，爽度大為增加</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+			<aspectCategory category="音量" polarity="positive" />
+		</aspectCategories>
+		<jieba>在家	裡	或	室內	透過	內建	喇叭	觀賞	影	片時	，	爽度	大	為	增加</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>表層沒有抗污處理，很容易留下指紋跟油汙</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>表層	沒有	抗	污	處理	，	很	容易	留下	指紋	跟	油	汙</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>配色也相當不錯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>配色	也	相當	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>顏色條的很不錯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>顏色	條	的	很	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>紮紮實實的全金屬打造</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>紮紮實實	的	全金屬	打造</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>充電效率變高</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>充電	效率	變	高</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>最好握的金屬機</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="positive" />
+		</aspectCategories>
+		<jieba>最好	握	的	金屬機</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>聲音通透感不錯</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+		</aspectCategories>
+		<jieba>聲音	通透	感	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>按鍵回饋感都十分清脆好按</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>按鍵	回饋	感	都	十分	清脆	好	按</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>按鍵回饋感都十分好按</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>按鍵	回饋	感	都	十分	好	按</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>介面變漂亮</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>介面	變	漂亮</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>音樂也變好聽</text>
+		<aspectCategories>
+			<aspectCategory category="音質" polarity="positive" />
+		</aspectCategories>
+		<jieba>音樂	也	變好	聽</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>記憶體卻提升到3G Ram</text>
+		<aspectCategories>
+			<aspectCategory category="記憶體擴充" polarity="positive" />
+		</aspectCategories>
+		<jieba>記憶體	卻	提升	到	3G	 	Ram</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>順暢度是絕對足夠的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>順暢度	是	絕對	足夠	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>GPS定位也是秒定</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>GPS	定位	也	是	秒	定</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>戶外拍攝的水準不錯</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>戶外	拍攝	的	水準	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>高光低光都有不錯的表現</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>高	光	低	光	都	有	不錯	的	表現</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>內建的濾鏡十分有FU</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>內建的	濾鏡	十分	有FU</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍攝的能力算強</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍攝	的	能力	算	強</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>拍攝效果變得相當好</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>拍攝	效果	變得	相當	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>感光度提高</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>感光度	提高</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>超精美的外型</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>超	精美	的	外型</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>設計成圓形的音量鍵還滿古錐的</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>設計	成	圓形	的	音量鍵	還	滿	古錐	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機子背面的細紋很漂亮</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>機子	背面	的	細紋	很	漂亮</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>機子很輕很薄</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>機子	很	輕	很薄</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>UI介面設計的很好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>UI	介面	設計	的	很	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>不會有多餘的操作設計</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>不會	有	多餘	的	操作	設計</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>這價格CP值很高</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>這	價格	CP	值	很	高</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池容易膨脹到壞掉</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>電池	容易	膨脹	到	壞掉</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>沒有跟新Android的服務</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>沒有	跟	新	Andro	id	的	服務</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池很大使用一整天不用行動電源都沒問題</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池	很	大	使用	一整天	不用	行動電源	都	沒問題</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>支援4G </text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>支援	4G	 </jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>CP值大勝</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>CP	值	大勝</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>UI還挺順暢的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>UI	還	挺	順暢	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>規格不錯</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>規格	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>WIFI會斷線</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>WIFI	會斷線</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>外形不喜歡</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>外形	不喜歡</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>播音樂有時會卡一下</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>播	音樂	有時	會卡	一下</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>藍芽也是會斷斷續續</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>藍芽	也	是	會斷斷續續</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手感不錯</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="positive" />
+		</aspectCategories>
+		<jieba>手感	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>金屬機身</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>金屬機身</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>大小剛剛好</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="positive" />
+		</aspectCategories>
+		<jieba>大小	剛剛	好</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>錄製 4K UHD 超高畫質影片</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>錄製	 	4K	 	UHD	 	超	高畫質	影片</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>指紋辨識掃瞄速度更快</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>指紋辨識	掃	瞄	速度	更	快</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>可拍攝色彩更鮮明動人且低雜訊的照片</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>可	拍攝	色彩	更	鮮明動人	且	低	雜訊	的	照片</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>玫瑰金真的很美</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>玫瑰	金	真的	很	美</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>IPHONE的保值期也長</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>IPHONE	的	保值	期	也	長</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>比市面上便宜</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="positive" />
+		</aspectCategories>
+		<jieba>比	市面上	便宜</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕畫素提高</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕畫質" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕	畫素	提高</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>設計輕薄</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="positive" />
+		</aspectCategories>
+		<jieba>設計	輕薄</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池容量比上一代更大</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池容量	比	上一代	更	大</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>選擇R7S其中原因就是閃充 真的很方便</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>選擇	R7S	其中	原因	就是	閃	充	 	真的	很	方便</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池又大</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池	又	大</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>雙卡雙待</text>
+		<aspectCategories>
+			<aspectCategory category="雙卡雙待" polarity="positive" />
+		</aspectCategories>
+		<jieba>雙卡雙待</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>手機質感真的不錯</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>手機	質感	真的	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>整體設計都超好的</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="positive" />
+		</aspectCategories>
+		<jieba>整體	設計	都	超	好	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>無敵的快充</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>無敵	的	快充</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>照相真的太強大了</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>照相	真的	太強大	了</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>oppo還是很划算的</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="positive" />
+		</aspectCategories>
+		<jieba>oppo	還是	很	划算	的</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>上一隻是拿R7，使用上還蠻順手</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>上	一隻	是	拿	R7	，	使用	上	還	蠻	順手</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>in810用了兩年多還是非常順暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>in810	用	了	兩年	多	還是	非常	順暢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>堅固耐用</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>堅固耐用</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>速度又快</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>速度	又	快</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>攝影功能很強</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>攝影	功能	很	強</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池大</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池	大</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>螢幕大</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="positive" />
+		</aspectCategories>
+		<jieba>螢幕	大</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>功能也很實用</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>功能	也	很	實用</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>硬體方面是好手機</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>硬體	方面	是	好	手機</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>系統很順暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>系統	很	順暢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>成相不錯</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="positive" />
+		</aspectCategories>
+		<jieba>成	相	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>很超值的一隻手機</text>
+		<aspectCategories>
+			<aspectCategory category="性價比" polarity="positive" />
+		</aspectCategories>
+		<jieba>很	超值	的	一隻	手機</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>運行很順暢</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>運行	很	順暢</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>內建的程式有很多實用的功能</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="positive" />
+		</aspectCategories>
+		<jieba>內建的	程式	有	很多	實用	的	功能</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>可換電池</text>
+		<aspectCategories>
+			<aspectCategory category="換電池" polarity="positive" />
+		</aspectCategories>
+		<jieba>可換電池</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>大螢幕</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕尺寸" polarity="positive" />
+		</aspectCategories>
+		<jieba>大螢幕</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>電池續航力不錯</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="positive" />
+		</aspectCategories>
+		<jieba>電池續航力	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>前鏡頭不錯</text>
+		<aspectCategories>
+			<aspectCategory category="自拍" polarity="positive" />
+		</aspectCategories>
+		<jieba>前鏡頭	不錯</jieba>
+	</sentence>
+	<sentence polarity="positive">
+		<text>買了M210，便宜好用</text>
+		<aspectCategories>
+			<aspectCategory category="價位" polarity="positive" />
+		</aspectCategories>
+		<jieba>買	了	M210	，	便宜	好用</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>溫度有點高導致遊戲當機</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="negative" />
+		</aspectCategories>
+		<jieba>溫度	有點	高	導致	遊戲	當機</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>gps信號蠻飄的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>gps	信號	蠻	飄	的</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>可惜的是後續的新機都有沒有加入光學防震</text>
+		<aspectCategories>
+			<aspectCategory category="防手震" polarity="negative" />
+		</aspectCategories>
+		<jieba>可惜	的	是	後續	的	新機	都	有沒有	加入	光學防震</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>FB常閃退</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>FB	常	閃退</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>軟體沒有寫得很好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>軟體	沒有	寫	得	很	好</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>R7S小工具部分常常會當掉無法使用</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>R7S	小工具	部分	常常	會	當掉	無法	使用</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>軟體寫的滿差的</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>軟體	寫	的	滿	差	的</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>記憶體常會在80%導致打不開app</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>記憶體	常會	在	80	%	導致	打不開	app</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>訊號變更差</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>訊號	變更	差</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>某些狀況下touch 好像會突然失效</text>
+		<aspectCategories>
+			<aspectCategory category="螢幕觸控" polarity="negative" />
+		</aspectCategories>
+		<jieba>某些	狀況	下	touch	 	好像	會	突然	失效</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電還是噴得好快</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>電	還是	噴	得	好	快</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>感覺看起來機身很厚</text>
+		<aspectCategories>
+			<aspectCategory category="體積重量" polarity="negative" />
+		</aspectCategories>
+		<jieba>感覺	看起來	機身	很	厚</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>內建的瀏覽器使用一段時間會有時候閃退</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>內建的	瀏覽器	使用	一段時間	會	有時候	閃退</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>聽音樂關屏時會斷斷續續</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>聽音樂	關	屏	時會	斷斷續續</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>夜拍不行</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>夜拍	不行</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>不支援4G</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>不支援	4G</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>機軟體寫得真的不是很穩定</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>機	軟體	寫	得	真的	不是	很	穩定</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>CPU容易過熱當機</text>
+		<aspectCategories>
+			<aspectCategory category="機身發熱" polarity="negative" />
+		</aspectCategories>
+		<jieba>CPU	容易	過熱	當機</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>wifi 收訊比較容易在長距離的AP斷線</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>wifi	 	收訊	比較	容易	在	長距離	的	AP	斷線</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>聽筒聲音對老人家來說可能會過小</text>
+		<aspectCategories>
+			<aspectCategory category="音量" polarity="negative" />
+		</aspectCategories>
+		<jieba>聽筒	聲音	對	老人家	來說	可能	會	過	小</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>順暢度其實不算好</text>
+		<aspectCategories>
+			<aspectCategory category="操作經驗" polarity="negative" />
+		</aspectCategories>
+		<jieba>順暢度	其實	不算	好</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>在餐廳內拍照後進入圖片庫看照片很暗</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>在	餐廳	內	拍照	後	進入	圖片庫	看	照片	很暗</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>照相的快門聲音太小</text>
+		<aspectCategories>
+			<aspectCategory category="音量" polarity="negative" />
+		</aspectCategories>
+		<jieba>照相	的	快門	聲音	太小</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>對焦速度就降下來</text>
+		<aspectCategories>
+			<aspectCategory category="對焦" polarity="negative" />
+		</aspectCategories>
+		<jieba>對焦速度	就	降下來</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>測光需加強</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>測光	需	加強</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>低光源下會顯得模糊</text>
+		<aspectCategories>
+			<aspectCategory category="拍照攝影" polarity="negative" />
+		</aspectCategories>
+		<jieba>低光源	下	會	顯得	模糊</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>iPhone 6的天線很醜</text>
+		<aspectCategories>
+			<aspectCategory category="設計質感" polarity="negative" />
+		</aspectCategories>
+		<jieba>iPh	one	 	6	的	天線	很醜</jieba>
+	</sentence>
+	<sentence polarity="negative">
+		<text>電池很爛</text>
+		<aspectCategories>
+			<aspectCategory category="續航力" polarity="negative" />
+		</aspectCategories>
+		<jieba>電池	很爛</jieba>
+	</sentence>
+</sentences>
